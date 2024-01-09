@@ -1,0 +1,2294 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xdxf lang_from="ENG" lang_to="BEL" format="logical">
+<full_name>Ангельска-беларускі слоўнік выдавецкіх і паліграфічных тэрмінаў</full_name>
+<description>
+Слоўнік выдавецкіх і паліграфічных тэрмінаў: ангельска-беларускі, беларуска-ангельскі. Менск: Тэхналогія, 2003. ISBN 985-458-066-0
+
+Укладальнік: Кастусь Санько
+
+Такі слоўнік выдаецца ў Беларусі ўпершыню. Тут сабраная сучасная тэрміналогія з галіны кнігавыдання, друкарскай справы, а таксама кнігараспаўсюджання. Слоўнік змяшчае па дзве з паловай тысячы тэрмінаў у кожнай моўнай версіі. Для выдаўцоў, паліграфістаў, кнігазнаўцаў, мовазнаўцаў-тэрмінолагаў. Будзе карысны таксама студэнтам і аспірантам адпаведных спецыяльнасцяў.
+</description>
+
+
+<ar><k>AAs</k> гл. <a>author's alterations</a></ar>
+<ar><k>abbreviation</k> скарот</ar>
+<ar><k>abrasion resistance</k> супраціў сціранню</ar>
+<ar><k>abridged</k> скарочаны (<i>тэкст, выданне</i>)</ar>
+<ar><k>abridgement</k> скарочаны варыянт</ar>
+<ar><k>absorbency</k> паглынальная здольнасць (<i>паперы</i>)</ar>
+<ar><k>abstract</k> рэферат</ar>
+<ar><k>abstractor</k> рэцэнзент</ar>
+<ar><k>academic bodies</k> акадэмічныя колы</ar>
+<ar><k>academic publication</k> акадэмічнае выданне</ar>
+<ar><k>accent</k> 1) націск; 2) пазнака націску</ar>
+<ar><k>accentuation</k> вылучэнні тэксту (<i>курсіў, разрадка, паўтоўсты, капітэль і г.д.</i>)</ar>
+<ar><k>accept</k> прымаць (<i>прапанову</i>)</ar>
+<ar><k>acceptance</k> прыняцце, прыманне</ar>
+<ar><k>access</k> доступ</ar>
+<ar><k>accordion fold</k> фальцаванне гармонікам</ar>
+<ar><k>account</k> рахунак (<i>банкаўскі</i>)</ar>
+<ar><k>accountant</k> бухгалтар</ar>
+<ar><k>accounts payable</k> запазычанасць</ar>
+<ar><k>accounts receivable</k> сумы да выплаты</ar>
+<ar><k>acetate</k> празрыстая аснова для мантажу</ar>
+<ar><k>achromatic</k> бясколерны, ахраматычны</ar>
+<ar><k>achromatic separations</k> ахраматычны колерападзел</ar>
+<ar><k>acid-free paper</k> бескіслінная папера</ar>
+<ar><k>acknowledgement</k> 1) падзяка; 2) паведамленне (<i>пра атрыманне</i>)</ar>
+<ar><k>acoustic coupler</k> акустычны мадэм</ar>
+<ar><k>acquire</k> набываць</ar>
+<ar><k>acronym</k> абрэвіятура</ar>
+<ar><k>ACs</k> гл. <a>author's corrections</a></ar>
+<ar><k>action for libel / libel action</k> справа пра паклёп (<i>судовая</i>)</ar>
+<ar><k>acute accent</k> пазнака націску справа налева</ar>
+<ar><k>ad</k> гл. <a>advert</a></ar>
+<ar><k>adapt</k> адаптаваць</ar>
+<ar><k>adaptation</k> адаптацыя</ar>
+<ar><k>addendum</k> 1) дадатак да кнігі; 2) спіс памылак</ar>
+<ar><k>addressee</k> 1) адрасат; 2) атрымальнік</ar>
+<ar><k>address list</k> спіс адрасоў</ar>
+<ar><k>adhesive</k> клейкі, ліпкі</ar>
+<ar><k>adhesive</k> 1) клей; 2) налепка, ліпкая этыкетка</ar>
+<ar><k>adhesive binding</k> клеевае змацаванне блока</ar>
+<ar><k>admin</k> адміністрацыйная праца</ar>
+<ar><k>administer</k> кіраваць (<i>справамі</i>)</ar>
+<ar><k>administration</k> 1) кіраванне (<i>справамі</i>);  2) адміністрацыя</ar>
+<ar><k>administrative</k> адміністрацыйны</ar>
+<ar><k>adopt</k> успрымаць (<i>прымаць</i>)</ar>
+<ar><k>advance</k> аванс</ar>
+<ar><k>advance copy</k> сігнальны паасобнік</ar>
+<ar><k>advance sheets</k> 1) прэпрынт; 2) чыстыя аркушы</ar>
+<ar><k>advert / advertisement</k> 1) абвестка, анонс; 2) рэклама</ar>
+<ar><k>advertise</k> 1) анансаваць; 2) рэкламаваць</ar>
+<ar><k>advertising</k> 1) рэклама; 2) рэкламны бізнэс</ar>
+<ar><k>advertising agency</k> рэкламнае агенцтва</ar>
+<ar><k>advertising band</k> рэкламны паясок</ar>
+<ar><k>advertising campaign</k> рэкламная кампанія</ar>
+<ar><k>advertising  copy</k> 1)  тэкст  рэкламы; 2) рэкламная ўлётка</ar>
+<ar><k>advertising rates</k> выдаткі на рэкламу</ar>
+<ar><k>advertising space</k> рэкламная палоса</ar>
+<ar><k>advice note</k> паведамленне</ar>
+<ar><k>affair</k> справа</ar>
+<ar><k>A format paperback</k> кніга ў папяровай вокладцы (<i>фармат 178x111 мм</i>)</ar>
+<ar><k>afterword</k> пасляслоўе</ar>
+<ar><k>against the grain</k> упоперак валокнаў</ar>
+<ar><k>agency</k> 1) прадстаўніцтва; 2) пасярэдніцтва</ar>
+<ar><k>agent</k> 1) агент; 2) прадстаўнік; 3) пасярэднік; 4) давераная асоба</ar>
+<ar><k>agree</k> пагаджацца</ar>
+<ar><k>agreement</k> пагадненне (<i>вуснае або пісьмовае</i>)</ar>
+<ar><k>airbrush</k> 1) аэрограф; 2) рэтушаваць з дапамогай аэрографа</ar>
+<ar><k>airfreight</k> адпраўляць груз самалётам</ar>
+<ar><k>air freight</k> адпраўленне груза самалётам</ar>
+<ar><k>alias</k> псеўданім</ar>
+<ar><k>align</k> лінаваць радок</ar>
+<ar><k>alignment</k> 1) лінаванне радка; 2) сумяшчаць (<i>выявы</i>); 3) рэгуляванне; 4) міжрадковы прагал</ar>
+<ar><k>all rights reserved</k> усе правы ахоўваюцца</ar>
+<ar><k>all-in</k> тэкст, падрыхтаваны для набору</ar>
+<ar><k>alphabet</k> 1) алфавіт; 2) шрыфт</ar>
+<ar><k>alphabetical</k> алфавітны</ar>
+<ar><k>alphabetic character set</k> камплект шрыфту (<i>у друкарні</i>)</ar>
+<ar><k>alphabet length</k> даўжыня шрыфту (<i>у пунктах</i>)</ar>
+<ar><k>alphanumeric</k> алфавітна-лічбавы, літарна-лічбавы</ar>
+<ar><k>alter</k> мяняць</ar>
+<ar><k>alteration</k> змяненне, выпраўленне</ar>
+<ar><k>amend</k> выпраўляць, удасканальваць</ar>
+<ar><k>amendment</k> 1) праўка; 2) рэдагаванне тэксту; 3) папраўленая версія</ar>
+<ar><k>americanization</k> амерыканізацыя</ar>
+<ar><k>ampersand (=and)</k> знак &amp; (<i>злучнік «і»</i>)</ar>
+<ar><k>analyse / analyze</k> 1) вывучаць; 2) аналізаваць</ar>
+<ar><k>analysis</k> 1) вывучэнне; 2) аналіз</ar>
+<ar><k>ancient book</k> антыкварная кніга</ar>
+<ar><k>annex</k> дадатак</ar>
+<ar><k>anniversary</k> edition юбілейнае выданне</ar>
+<ar><k>annotate</k> 1) анатаваць; 2) дадаваць каментары</ar>
+<ar><k>annotated text</k> анатаваны тэкст</ar>
+<ar><k>annotation</k> анатацыя</ar>
+<ar><k>annual</k> 1) штогоднік; 2) гадавы (<i>штогадовы</i>)</ar>
+<ar><k>annual report</k> штогадовая справаздача</ar>
+<ar><k>anon / anonymous</k> ананімны</ar>
+<ar><k>anthology</k> анталогія</ar>
+<ar><k>anti-setoff spray</k> 1) супрацьзабруджвальны сродак; 2) супрацьзабруджвальны парашковы распыляльнік</ar>
+<ar><k>apostrophe</k> апостраф</ar>
+<ar><k>appendix</k> дадатак</ar>
+<ar><k>applications software</k> ужытковая праграма (<i>праграмнае забеспячэнне</i>)</ar>
+<ar><k>appraisal</k> рэцэнзія</ar>
+<ar><k>approval</k> 1) зацвярджэнне; 2) ухваленне</ar>
+<ar><k>approval copy</k> кантрольны (<i>спробны</i>) паасобнік</ar>
+<ar><k>approve</k> 1) зацвярджаць; 2) ухваляць</ar>
+<ar><k>Arabic numerals / Arabic figures</k> інда-арабскія лічбы</ar>
+<ar><k>archive</k> архіў</ar>
+<ar><k>area</k> плошча</ar>
+<ar><k>art board</k> кардон для мастацкага друку</ar>
+<ar><k>art editor</k> мастацкі рэдактар</ar>
+<ar><k>article</k> 1) артыкул; 2) пункт (<i>параграф</i>)</ar>
+<ar><k>articles of association</k> статут асацы-яцыі</ar>
+<ar><k>art paper</k> глянцавая папера для мастацкага друку</ar>
+<ar><k>artwork (a/w)</k> арыгінал (<i>выяўленчы</i>)</ar>
+<ar><k>ascender</k> верхні вынасны элемент літары</ar>
+<ar><k>ASCII</k> амерыканскі стандартны код для абмену інфармацыяй</ar>
+<ar><k>ASCII file</k> файл, закадаваны ASCII</ar>
+<ar><k>assembling</k> камплектаванне (<i>кніжнага блока</i>)</ar>
+<ar><k>assembly</k> 1) камплект, блок; 2) кампанаванне; 3) шыхтаванне (<i>выявы</i>)</ar>
+<ar><k>assign</k> даручаць</ar>
+<ar><k>assignment</k> 1) абавязак; 2) даручэнне</ar>
+<ar><k>assistant</k> памочнік, асістэнт</ar>
+<ar><k>association</k> асацыяцыя</ar>
+<ar><k>asterisk</k> зорачка (<i>знак для пазначэння зносак і вынасак</i>)</ar>
+<ar><k>atlas</k> атлас</ar>
+<ar><k>audio-visual (AV)</k> аўдыёвізуальны</ar>
+<ar><k>author</k> 1) аўтар; 2) быць аўтарам</ar>
+<ar><k>authorization</k> дазвол, санкцыя</ar>
+<ar><k>authorized</k> аўтарызаваны</ar>
+<ar><k>authorless publication</k> ананімнае выданне</ar>
+<ar><k>author promotion tour</k> рэкламная выправа аўтара (<i>з мэтаю прамоцыі кнігі</i>)</ar>
+<ar><k>author questionnaire</k> апытальнік для аўтара (<i>стандартная анкета выдавецтва для атрымання інфармацыі пра аўтара з мэтаю арганізацыі маркетынгу</i>)</ar>
+<ar><k>authorship</k> аўтарства</ar>
+<ar><k>author's agent</k> пасярэднік, літаратурны агент</ar>
+<ar><k>author's alterations (AAs)</k> аўтарская праўка</ar>
+<ar><k>author's contract</k> аўтарскае пагадненне, аўтарская дамова</ar>
+<ar><k>author's copy</k> аўтарскі паасобнік</ar>
+<ar><k>author's corrections (ACs)</k> 1) аўтарская праўка; 2) аўтарская карэктура</ar>
+<ar><k>autobiography</k> аўтабіяграфія</ar>
+<ar><k>automatic</k> аўтаматычны</ar>
+<ar><k>automatic hyphenation and justification</k> аўтаматычны перанос і выключка</ar>
+<ar><k>automatic page make-up</k> аўтаматычная вёрстка па палосах</ar>
+<ar><k>autopositive film</k> пазітыўная фотаплёнка</ar>
+<ar><k>AV</k> гл. <a>audio-visual</a></ar>
+<ar><k>availability</k> даступнасць</ar>
+<ar><k>a/w</k> гл. <a>artwork</a></ar>
+<ar><k>award</k> прэмія, узнагарода</ar>
+<ar><k>back</k> спінка аправы</ar>
+<ar><k>backbone</k> спінка вечка аправы</ar>
+<ar><k>back copy</k> стары нумар (<i>газеты, часопіса</i>)</ar>
+<ar><k>back cover</k> задняя старонка вокладкі</ar>
+<ar><k>backdate</k> пазначаць мінулай датай</ar>
+<ar><k>back flap</k> задні клапан</ar>
+<ar><k>background</k> фон, задні план</ar>
+<ar><k>back jacket flap</k> задні клапан супервокладкі</ar>
+<ar><k>back lining</k> абклейка спінкі блока</ar>
+<ar><k>backlist</k> спіс кніг у асартыменце (<i>выдавецтва</i>)</ar>
+<ar><k>backlog</k> нявыкананая праца</ar>
+<ar><k>back margin</k> нутраное поле</ar>
+<ar><k>back matter</k> 1) апарат выдання; 2) дашыхтоўванне (<i>пры канцы кнігі</i>)</ar>
+<ar><k>back number</k> стары нумар (<i>газеты, часопіса</i>)</ar>
+<ar><k>back of inner book</k> спінка кніжнага блока</ar>
+<ar><k>back orders</k> нявыкананыя замовы</ar>
+<ar><k>back up</k> 1) рабіць рэзервовую копію; 2) капіяваць файл</ar>
+<ar><k>bad break</k> няправільны перанос слова</ar>
+<ar><k>bad copy</k> неразборлівы тэкст</ar>
+<ar><k>bad debt</k> безнадзейная запазычанасць</ar>
+<ar><k>balance sheet</k> баланс (<i>фінансавы</i>)</ar>
+<ar><k>bale package</k> стос паперы</ar>
+<ar><k>banding / bands</k> бінты (<i>рэльефныя папярочныя палоскі на спінцы аправы</i>)</ar>
+<ar><k>bank account</k> банкаўскі рахунак</ar>
+<ar><k>bank draft</k> 1) банкаўскі чэк; 2) трата</ar>
+<ar><k>banner / banner headline</k> сцяг (<i>рубрыка ўверсе прагалу спускавой палосы</i>)</ar>
+<ar><k>bar code / bar graphics</k> штрых-код</ar>
+<ar><k>base</k> 1) база; 2) зыходнае становішча; 3) аснова; 4) падстаўка (<i>для клішэ</i>)</ar>
+<ar><k>base alignment</k> выроўніванне знакаў (<i>па лініі шрыфту</i>)</ar>
+<ar><k>base line</k> лінія шрыфту</ar>
+<ar><k>base paper</k> папера (<i>у якасці асновы</i>)</ar>
+<ar><k>bastard title</k> шмуцтытул, нутран<u>ы</u> тытул</ar>
+<ar><k>bead</k> каптал</ar>
+<ar><k>be in debt</k> быць вінным, мець доўг</ar>
+<ar><k>belles-lettres edition</k> літаратурна-мастацкае выданне</ar>
+<ar><k>Berne Convention</k> Бэрнская канвенцыя (<i>па ахове аўтарскіх правоў</i>)</ar>
+<ar><k>bestseller</k> бэстсэлер</ar>
+<ar><k>bf</k> гл. <a>bold-faced type</a></ar>
+<ar><k>B format paperback</k> кніга ў папяровай вокладцы фармату B (<i>198x129 мм</i>)</ar>
+<ar><k>Bible paper</k> папера «бібльдрук»</ar>
+<ar><k>biblio</k> адгорт тытула (<i>тытульнай старонкі</i>)</ar>
+<ar><k>bibliographical description / biblio</k> graphical entry бібліяграфічнае апісанне</ar>
+<ar><k>bibliographical reference</k> бібліяграфічная спасылка</ar>
+<ar><k>bibliography</k> бібліяграфія</ar>
+<ar><k>bid</k> 1) прапанова цаны; 2) прапаноўваць цану (<i>на аўкцыёне</i>)</ar>
+<ar><k>bilingual</k> дзвюхмоўны</ar>
+<ar><k>bill</k> 1) афіша; 2) рахунак; 3) выстаўляць рахунак</ar>
+<ar><k>bill of exchange</k> 1) вэксаль; 2) трата</ar>
+<ar><k>bill of lading</k> 1) накладная; 2) канасамент</ar>
+<ar><k>bimetal plate / bimetallic plate</k> біметалічная друкарская форма</ar>
+<ar><k>binary system</k> двайковая сістэма</ar>
+<ar><k>bind</k> сшываць, змацоўваць (<i>блок</i>)</ar>
+<ar><k>binder</k> 1) шытар (<i>той, хто робіць аправу</i>); 2) звязнік (<i>сувязная дэталь</i>); 3) апарат для змацавання (<i>кніжнага блока</i>)</ar>
+<ar><k>bindery</k> кнігашытня (<i>майстэрня</i>)</ar>
+<ar><k>binding</k> 1) аправа (<i>трывалае пакрыццё, у якое ўстаўляецца кніжны блок</i>); 2) брашураванне; 3) сшытаванне</ar>
+<ar><k>binding board</k> кардон для аправы</ar>
+<ar><k>biography</k> біяграфія</ar>
+<ar><k>bit</k> двайковы разрад, біт</ar>
+<ar><k>black</k> пляміна (<i>дэфект друку</i>)</ar>
+<ar><k>black and white (b &amp; w)</k> 1) чорна-белы; 2) абрысавы</ar>
+<ar><k>black box</k> чорная скрыня</ar>
+<ar><k>black plate / black printer</k> 1) форма для друку чорнай фарбай; 2) негатыў для чорнай фарбы</ar>
+<ar><k>blad</k> аб'ёмны макет (<i>кнігі</i>)</ar>
+<ar><k>blade coating</k> нанясенне пакрыцця ракельным нажом</ar>
+<ar><k>blank</k> 1) прагал (<i>прамежак паміж словамі, групамі радкоў, выяўленчымі элементамі</i>); 2) пусты, незапоўнены</ar>
+<ar><k>blanket agreement</k> пагадненне, якое ахоплівае ўсе сферы</ar>
+<ar><k>bleed</k> 1) макет старонкі з ілюстрацыямі пад абрэз; 2) ілюстрацыі пад абрэз</ar>
+<ar><k>bleed off</k> абразаць па краі (<i>кнігу</i>)</ar>
+<ar><k>blind blocking / blind embossing / blind stamping</k> сляпое цісненне</ar>
+<ar><k>blind spot</k> сляпы друк (<i>дэфект друку</i>)</ar>
+<ar><k>blister pack</k> блістэрная ўпакоўка</ar>
+<ar><k>block</k> клішэ (<i>форма для высокага друку</i>)</ar>
+<ar><k>block capitals / block letters</k> загалоўныя літары</ar>
+<ar><k>block in</k> рабіць чарнавы накід</ar>
+<ar><k>blocking</k> 1) цісненне (<i>фарбавае</i>); 2) зліпанне (<i>у стосе</i>)</ar>
+<ar><k>block out</k> 1) маскаваць; 2) замазваць элементы на арыгінале</ar>
+<ar><k>blow up</k> павялічваць (<i>выяву</i>)</ar>
+<ar><k>blow-up</k> павялічаная выява</ar>
+<ar><k>blueprint</k> светлакопія, «сінька»</ar>
+<ar><k>blurb</k> рэклама на вокладцы (<i>або супервокладцы</i>)</ar>
+<ar><k>board</k> 1) старонка вечка аправы (<i>аркуш кардону фармату выдання</i>); 2) плата (<i>дэталь кампутара з інтэгральнымі схемамі ды іншымі паўправадніковымі прыладамі</i>)</ar>
+<ar><k>board of directors</k> дырэкцыя (<i>рада дырэктараў</i>)</ar>
+<ar><k>board of editors</k> рэдакцыйная калегія</ar>
+<ar><k>boards (front board and back board)</k> старонкі вечка аправы з кардону (<i>пярэдняя і задняя</i>)</ar>
+<ar><k>bodу matter</k> асноўны набор тэксту</ar>
+<ar><k>body</k> асноўны тэкст</ar>
+<ar><k>body size</k> кегель шрыфту асноўнага тэксту</ar>
+<ar><k>bold</k> тоўсты</ar>
+<ar><k>bold-faced type / boldface (bf)</k> паўтоўсты шрыфт</ar>
+<ar><k>book</k> кніга</ar>
+<ar><k>book artist / book designer </k> мастак кнігі</ar>
+<ar><k>book auction</k> 1) кніжны аўкцыён; 2) аўкцыён правоў на выданне; 3) прадаваць з аўкцыёна</ar>
+<ar><k>book band</k> рэкламны паясок</ar>
+<ar><k>bookbinder</k> 1) шытар (<i>той, хто робіць аправу</i>); 2) кнігашытня (<i>майстэрня</i>)</ar>
+<ar><k>bookbinding</k> 1) шытарства; 2) брашуравальна-апраўныя працэсы</ar>
+<ar><k>book block</k> кніжны блок</ar>
+<ar><k>bookblock cracking</k> разлом кніжнага блока</ar>
+<ar><k>book box</k> футарал для кнігі</ar>
+<ar><k>book chamber</k> кніжная палата</ar>
+<ar><k>book club</k> кніжны клуб</ar>
+<ar><k>book club edition</k> выданне для кніжнага клуба</ar>
+<ar><k>book club rights</k> права на выданне кнігі ў клубнай серыі</ar>
+<ar><k>book cover</k> 1) аправа; 2) вечка аправы</ar>
+<ar><k>book cover grooving</k> штрыхаванне (<i>выраб паглыблення паміж адставам і старонкай на аправе</i>)</ar>
+<ar><k>book fair</k> кніжны кірмаш</ar>
+<ar><k>bookjacket</k> вокладка</ar>
+<ar><k>booklet</k> 1) буклет; 2) брашура</ar>
+<ar><k>bookmark</k> бібліятэчны знак</ar>
+<ar><k>book marker</k> закладка</ar>
+<ar><k>bookmarker</k> закладка</ar>
+<ar><k>book of problems</k> задачнік</ar>
+<ar><k>book plate</k> экслібрыс</ar>
+<ar><k>book proofs</k> 1) сігнальны паасобнік; 2) спробны адбітак кнігі</ar>
+<ar><k>bookseller</k> гандляр кнігамі</ar>
+<ar><k>bookshop</k> кнігарня</ar>
+<ar><k>books sent on consignment</k> кансігнацыйныя кнігі (<i>прадаюцца на ўмовах камісіі</i>)</ar>
+<ar><k>book token</k> дароўны квіток на куплю або атрыманне кнігі</ar>
+<ar><k>book trade (the)</k> кнігагандаль</ar>
+<ar><k>book wrapper</k> вокладка</ar>
+<ar><k>book-edge trimming</k> абразанне кніжнага блока</ar>
+<ar><k>booth</k> стэнд</ar>
+<ar><k>border</k> 1) край (<i>дэкаратыўная рыса па краях клішэ</i>); 2) поле старонкі; 3) мяжа</ar>
+<ar><k>bottom margin</k> 1) ніжняе поле; 2) «хвосцік» (<i>палосы</i>)</ar>
+<ar><k>bottom note</k> падрадкоўнік (<i>зноска</i>)</ar>
+<ar><k>bought ledger</k> кніга выдаткаў</ar>
+<ar><k>bound copies</k> змацаваныя адбіткі</ar>
+<ar><k>bourgeois</k> боргес (<i>шрыфт кегелю 9 пунктаў</i>)</ar>
+<ar><k>boxed set</k> камплект кніг у скрынцы</ar>
+<ar><k>brace</k> фігурная дужка</ar>
+<ar><k>brackets</k> дужкі</ar>
+<ar><k>Braille</k> 1) друк для сляпых; 2) шрыфт Брайля</ar>
+<ar><k>brass</k> латунь</ar>
+<ar><k>breach of contract</k> парушэнне кантракту</ar>
+<ar><k>break</k> абзац</ar>
+<ar><k>break even</k> акупляць</ar>
+<ar><k>breakeven point</k> акупнасць</ar>
+<ar><k>brightness</k> белізна (<i>паперы</i>)</ar>
+<ar><k>bring forward</k> перанесці на больш ранні тэрмін</ar>
+<ar><k>broadcasting rights</k> права на выкарыстанне на радыё або тэлебачанні</ar>
+<ar><k>brochure</k> 1) брашура; 2) улётка</ar>
+<ar><k>broke</k> макулатура</ar>
+<ar><k>bromide</k> бромсрэбная (<i>бромістая</i>) фотапапера</ar>
+<ar><k>bromide print</k> адбітак на бромсрэбнай фотапаперы</ar>
+<ar><k>bronzing</k> бранзаванне</ar>
+<ar><k>buckle folder</k> касетны апарат для фальцавання</ar>
+<ar><k>buckle folding</k> касетнае фальцаванне</ar>
+<ar><k>buckram</k> 1) клеенае палатно; 2) цвёрдая аправа</ar>
+<ar><k>budget</k> 1) бюджэт; 2) складаць бюджэт</ar>
+<ar><k>bulk</k> 1) асноўная маса (<i>накладу</i>); 2) таўшчыня блока (<i>кнігі</i>)</ar>
+<ar><k>bulk buying / bulk purchase</k> гуртавая купля</ar>
+<ar><k>bulking dummy</k> аб'ёмны макет выдання</ar>
+<ar><k>bulk order</k> гуртавая замова</ar>
+<ar><k>bulk stock</k> складаваны наклад</ar>
+<ar><k>bulky</k> 1) пухкі (<i>пра паперу</i>); 2) аб'ёмны (<i>пра выданне</i>)</ar>
+<ar><k>bullet</k> чорны кружок (<i>наборны знак</i>)</ar>
+<ar><k>bulletin</k> бюлетэнь</ar>
+<ar><k>bundling</k> 1) абцісканне і звязванне (<i>сшыткаў у пачкі</i>); 2) звязванне пачкаў</ar>
+<ar><k>burst binding</k> клеевае змацаванне блока з таршанаваннем (<i>спінак сшыткаў</i>)</ar>
+<ar><k>buy</k> купляць</ar>
+<ar><k>buyer</k> пакупнік</ar>
+<ar><k>buy in</k> купляць гатовую кнігу (<i>каб выдаваць яе</i>)</ar>
+<ar><k>buying around</k> купля партыі па ніжэйшых цэнах (<i>што парушае права на эксклюзіўны продаж</i>)</ar>
+<ar><k>b &amp; w</k> гл. <a>black and white</a></ar>
+<ar><k>byte</k> байт</ar>
+<ar><k>CAD</k> гл. <a>computer-aided design</a></ar>
+<ar><k>calendar</k> каляндар</ar>
+<ar><k>calendar year</k> каляндарны год</ar>
+<ar><k>calender</k> 1) каляндэр; 2) каляндэраваць</ar>
+<ar><k>calendered paper</k> каляндэраваная папера</ar>
+<ar><k>calf</k> цялячая скура</ar>
+<ar><k>caliper</k> 1) таўшчыня аркуша (<i>паперы</i>); 2) вымяральнік таўшчыні</ar>
+<ar><k>calligraphy</k> каліграфія</ar>
+<ar><k>call number</k> шыфры выдання</ar>
+<ar><k>camera</k> рэпрадукцыйны апарат</ar>
+<ar><k>camera ready copy (CRC) / camera-ready paste-up (CRPU)</k> арыгінал-макет, падрыхтаваны для рэпрадукавання</ar>
+<ar><k>cancel</k> 1) адмяняць; 2) замяняць (<i>бракаваную старонку</i>)</ar>
+<ar><k>cancellation</k> 1) адмена; 2) сканчэнне тэрмінаў пастаўкі (<i>тавараў або паслуг</i>)</ar>
+<ar><k>cap</k> загалоўная літара</ar>
+<ar><k>cap height</k> вышыня загалоўнай літары</ar>
+<ar><k>capital</k> капітал</ar>
+<ar><k>capital equipment</k> абсталяванне прадпрыемства</ar>
+<ar><k>capital expenditure</k> актывы</ar>
+<ar><k>capital  letters / caps</k> загалоўныя літары</ar>
+<ar><k>caps and lower case (caps &amp; lс)</k> друк загалоўнымі і радковымі літарамі</ar>
+<ar><k>caps and small caps (caps &amp; sc) / caps and smalls</k> друк загалоўнымі літарамі і капітэлямі</ar>
+<ar><k>caption</k> подпіс да ілюстрацыі</ar>
+<ar><k>carbon paper</k> капіявальная папера</ar>
+<ar><k>card</k> шчыльная папера</ar>
+<ar><k>cardboard</k> тонкі кардон (<i>папера высокай шчыльнасці</i>)</ar>
+<ar><k>care of (c/o)</k> перадаць (<i>пэўнай асобе; надпіс на канверце</i>)</ar>
+<ar><k>carriage</k> перавозка</ar>
+<ar><k>carriage costs</k> транспартныя выдаткі</ar>
+<ar><k>carriage paid</k> перавозка, аплочаная прадаўцом</ar>
+<ar><k>carrier</k> 1) транспартная кампанія; 2) кур'ер</ar>
+<ar><k>cartographic publication</k> картаграфічнае выданне</ar>
+<ar><k>cartography</k> картаграфія</ar>
+<ar><k>carton</k> кардонная скрынка</ar>
+<ar><k>cartridge paper</k> папера для рысавання ці вокладкі</ar>
+<ar><k>case</k> 1) упакоўваць (<i>у скрынку</i>); 2) апраўляць (<i>змацоўваць кніжны блок з вечкам аправы</i>)</ar>
+<ar><k>case</k> 1) старонка вечка аправы; 2) скрынка для ўпакоўкі (<i>кардонная або драўляная</i>); 3) футарал</ar>
+<ar><k>casebound / cased book</k> кніга ў аправе</ar>
+<ar><k>cased binding</k> вечка аправы</ar>
+<ar><k>cash flow</k> адмоўны аплатны баланс</ar>
+<ar><k>cash on delivery (COD / c.o.d.)</k> 1) аплата пры атрыманні; 2) накладная плата</ar>
+<ar><k>casing / casing-in</k> 1) апраўленне (<i>змацаванне кніжнага блока з вечкам аправы</i>); 2) крыццё (<i>прыклейванне вокладкі да кніжнага блока</i>)</ar>
+<ar><k>cassette (tape)</k> касета (<i>з магнітнай стужкай</i>)</ar>
+<ar><k>casting off / casting up</k> падлік (<i>аб'ёму або кошту набору</i>)</ar>
+<ar><k>cast off</k> 1) падлічваць (<i>плошчу набору з дадзенай гарнітурай</i>); 2) падлік (<i>плошчы набору з дадзенай гарнітурай</i>)</ar>
+<ar><k>cast-coated paper</k> глянцавая крэйдаваная папера</ar>
+<ar><k>catalog / catalogue</k> 1) каталог; 2) уносіць у каталог</ar>
+<ar><k>catchword</k> калонтытул</ar>
+<ar><k>cathode ray tube (CRT)</k> электронна-прамянёвая трубка</ar>
+<ar><k>CD</k> гл. <a>compact disk</a></ar>
+<ar><k>CD-R</k> гл. <a>compact disk recordable</a></ar>
+<ar><k>CD-ROM</k> гл. <a>compact disk read-only memory</a></ar>
+<ar><k>CD-ROM player</k> (<i>прылада для чытання кампакт-дыскаў</i>) чытальнік</ar>
+<ar><k>CD-RW</k> гл. <a>compact disk re-writeable</a></ar>
+<ar><k>center spread</k> разгорт</ar>
+<ar><k>centre / center</k> 1) цэнтр; 2) цэнтраваць, ставіць на цэнтр</ar>
+<ar><k>certificate of origin</k> сертыфікат (<i>пасведчанне</i>) паходжання</ar>
+<ar><k>C format paperback</k> кніга ў папяровай вокладцы фармату С (<i>234x156 мм</i>)</ar>
+<ar><k>chain store</k> сетка крамаў аднаго ўладальніка</ar>
+<ar><k>chapter</k> раздзел</ar>
+<ar><k>chapter head / chapter heading / chapter title</k> назоў раздзела</ar>
+<ar><k>character</k> 1) літара, знак; 2) шрыфт (<i>канфігурацыя літар ды іншых знакаў</i>); 3) герой, дзейная асоба</ar>
+<ar><k>character count</k> падлік знакаў (<i>у радку</i>)</ar>
+<ar><k>character recognition</k> распазнаванне знакаў і сімвалаў</ar>
+<ar><k>character set</k> 1) камплект шрыфту; 2) набор сімвалаў</ar>
+<ar><k>characters per inch (cpi)</k> колькасць друкаваных знакаў на цалю</ar>
+<ar><k>characters per line (cpl)</k> колькасць знакаў у радку</ar>
+<ar><k>characters per second (cps)</k> колькасць знакаў (<i>якія перадаюцца або друкуюцца</i>) у секунду</ar>
+<ar><k>charge</k> 1) цана паслугі; 2) прызначаць цану за паслугі</ar>
+<ar><k>chart</k> рысунак (<i>графік, дыяграма, схема</i>)</ar>
+<ar><k>cheap edition</k> таннае выданне</ar>
+<ar><k>check digit</k> кантрольная лічба</ar>
+<ar><k>chemac</k> штамп для аправы</ar>
+<ar><k>chemical (wood) pulp</k> драўнінная цэлюлоза</ar>
+<ar><k>chief editor</k> галоўны рэдактар</ar>
+<ar><k>chief of editorial office</k> загадчык рэдакцыі</ar>
+<ar><k>chipboard</k> заменнік кардону</ar>
+<ar><k>c.i.f. (cost, insurance and freight)</k> СІФ (<i>кошт, страхаванне і фрахт</i>)</ar>
+<ar><k>circular letter</k> цыркулярны ліст</ar>
+<ar><k>circulation</k> 1) абарачэнне; 2) наклад</ar>
+<ar><k>circumflex accent</k> знак націску «стрэшкай»</ar>
+<ar><k>citation</k> цытата</ar>
+<ar><k>classified advertisements</k> тэматычныя аб'явы</ar>
+<ar><k>clause</k> пункт (<i>артыкул дамовы</i>)</ar>
+<ar><k>clean proof</k> чыстыя аркушы</ar>
+<ar><k>closed market</k> закрыты рынак</ar>
+<ar><k>close up</k> карэктурная пазнака «зменшыць прагал» (<i>паміж часткамі слова</i>)</ar>
+<ar><k>closeup фота</k> буйным планам</ar>
+<ar><k>cloth</k> тканіна для аправы</ar>
+<ar><k>clothbound</k> кніга, апраўленая тканінай (<i>імітацыяй тканіны</i>)</ar>
+<ar><k>CMYK</k> (<i>cyan, magenta, yellow, key</i>) базавыя колеры (<i>сіні, чырвоны, жоўты, чорны</i>)</ar>
+<ar><k>co-</k> прыстаўка, якая азначае «супольна»</ar>
+<ar><k>c/o</k> гл. <a>care of</a></ar>
+<ar><k>coated paper</k> крэйдаваная папера</ar>
+<ar><k>coating</k> крэйдаванне</ar>
+<ar><k>coauthor</k> 1) суаўтар; 2) пісаць у суаўтарстве</ar>
+<ar><k>code</k> код</ar>
+<ar><k>coffee table book</k> кніга (<i>ілюстраваная</i>) на століку для наведнікаў</ar>
+<ar><k>cold call</k> візіт (<i>прадаўца да незнаёмага кліента</i>) без дамоўленасці</ar>
+<ar><k>collaborate</k> супрацоўнічаць</ar>
+<ar><k>collaboration</k> супрацоўніцтва</ar>
+<ar><k>collate</k> правяраць падборку сшыткаў</ar>
+<ar><k>collating</k> камплектаванне (<i>кніжнага блока</i>)</ar>
+<ar><k>collating mark</k> кантрольная пазнака для камплектавання</ar>
+<ar><k>collecting</k> падборка (<i>камплектаванне накладкай</i>)</ar>
+<ar><k>collection</k> зборнік</ar>
+<ar><k>collective authorship</k> калектыўнае аўтарства</ar>
+<ar><k>collector's edition</k> бібліяфільскае выданне</ar>
+<ar><k>college bookstore</k> кнігарня навучальнай літаратуры</ar>
+<ar><k>colloguial guide</k> размоўнік</ar>
+<ar><k>collotype</k> фотатыпія (<i>бязрастравы спосаб друку</i>)</ar>
+<ar><k>colon</k> двукроп'е</ar>
+<ar><k>colophon</k> 1) пасляслоўе; 2) выхадныя звесткі (<i>у старадруках</i>)</ar>
+<ar><k>colour bar</k> кантрольная колеравая палоса</ar>
+<ar><k>colour chart / colour separation set</k> шкальны адбітак (<i>фарбаў</i>)</ar>
+<ar><k>colour / color</k> колер</ar>
+<ar><k>colour correction</k> карэкцыя колеру</ar>
+<ar><k>coloured edge</k> фарбаваны абрэз кнігі</ar>
+<ar><k>coloured top</k> фарбаваны верхні абрэз кнігі</ar>
+<ar><k>colour film</k> каляровы слайд</ar>
+<ar><k>colour plate</k> клішэ для шматколернага друку</ar>
+<ar><k>colour separation</k> колерападзел</ar>
+<ar><k>colour swatch</k> узор колеру</ar>
+<ar><k>colour transparency (C/T)</k> каляровы дыяпазітыў</ar>
+<ar><k>column</k> калонка</ar>
+<ar><k>column rule</k> калонлінейка</ar>
+<ar><k>column-centimetre</k> даўжыня калонкі ў сантыметрах</ar>
+<ar><k>column-inch</k> даўжыня калонкі ў цалях</ar>
+<ar><k>coming-and-going</k> падвойны друк</ar>
+<ar><k>comma</k> коска</ar>
+<ar><k>commentary</k> каментар</ar>
+<ar><k>comments</k> заўвагі</ar>
+<ar><k>commercial</k> 1) рэклама па тэлебачанні; 2) камерцыйны, гандлёвы</ar>
+<ar><k>commercial publication</k> фірмовае выданне</ar>
+<ar><k>commission</k> 1) замова; 2) рабіць замову; 3) камісійныя выплаты</ar>
+<ar><k>commission agent</k> камісійны агент</ar>
+<ar><k>commissioning editor</k> 1) рэдактар-замоўца; 2) рэдактар-канцэптуаліст</ar>
+<ar><k>compact disk (CD)</k> кампакт-дыск</ar>
+<ar><k>compact disk read-only memory (CD-ROM)</k> кампакт-дыск толькі для счытвання</ar>
+<ar><k>compact disk recordable (CD-R)</k> кампакт-дыск для аднаразовага запісвання</ar>
+<ar><k>compact disk re-writeable (CD-RW)</k> кампакт-дыск для шматразовага запісвання</ar>
+<ar><k>comparing</k> счытванне</ar>
+<ar><k>compatibility</k> сумяшчальнасць</ar>
+<ar><k>compatible</k> сумяшчальны</ar>
+<ar><k>competing titles</k> кнігі-спаборнікі (<i>выданні адной і той жа кнігі, якія ажыццяўляюцца рознымі выдавецтвамі і прадаюцца на адных і тых жа рынках па блізкіх цэнах</i>)</ar>
+<ar><k>competition</k> спаборніцтва, канкурэнцыя</ar>
+<ar><k>compilation</k>   1) кампіляцыя; 2) укладанне</ar>
+<ar><k>compiler</k> укладальнік</ar>
+<ar><k>complementary colours</k> дадатковыя колеры</ar>
+<ar><k>complete works</k> збор твораў</ar>
+<ar><k>complimentary copy</k> аўтарскі паасобнік</ar>
+<ar><k>compose</k> набіраць</ar>
+<ar><k>composed matter</k> набраны матэрыял (<i>тэкст, формулы, табліцы і г.д.</i>)</ar>
+<ar><k>composition</k> набор (<i>працэс</i>)</ar>
+<ar><k>compositor</k> наборнік (<i>аператар набору</i>)</ar>
+<ar><k>compulsory copy</k> абавязковы паасобнік</ar>
+<ar><k>computer</k> кампутар</ar>
+<ar><k>computer error</k> памылка кампутара</ar>
+<ar><k>computer graphics</k> кампутарная графіка</ar>
+<ar><k>computer hardware</k> апаратнае забеспячэнне</ar>
+<ar><k>computer listing</k> кампутарная раздрукоўка</ar>
+<ar><k>computer system</k> кампутарная сістэма</ar>
+<ar><k>computer typesetting</k> кампутарны або аўтаматызаваны набор</ar>
+<ar><k>computer-aided design (CAD)</k> аўтаматызаванае праектаванне</ar>
+<ar><k>computer-generated</k> створаны з дапамогай кампутара</ar>
+<ar><k>concertina fold</k> фальцаванне гармонікам</ar>
+<ar><k>conclusion</k> заканчэнне (<i>завяршальная частка твора</i>)</ar>
+<ar><k>condensed</k> вузкі, шчыльны (<i>шрыфт</i>)</ar>
+<ar><k>condition</k> умова</ar>
+<ar><k>conditions of sale</k> умовы продажу</ar>
+<ar><k>conglomerate</k> аб'яднанне</ar>
+<ar><k>conjecture</k> кан'ектура (<i>у тэксталогіі - рэканструкцыя дэфектнага тэксту</i>)</ar>
+<ar><k>consignment</k> кансігнацыя</ar>
+<ar><k>consignment note</k> накладная</ar>
+<ar><k>consistency</k> 1) кансістэнцыя; 2) шчыльнасць; 3) паслядоўнасць; 4) стабільнасць</ar>
+<ar><k>consolidated shipment</k> зборная пасылка</ar>
+<ar><k>consortium</k> кансорцыум</ar>
+<ar><k>consultant</k> кансультант</ar>
+<ar><k>contact print</k> кантактны друк</ar>
+<ar><k>contact screen</k> кантактны растр</ar>
+<ar><k>container</k> кантэйнер</ar>
+<ar><k>containerization</k> перавозка ў кантэйнерах</ar>
+<ar><k>containerize</k> перавозіць у кантэйнерах</ar>
+<ar><k>contents / contents list</k> змест</ar>
+<ar><k>contents page</k> старонка зместу</ar>
+<ar><k>continued publication</k> выданне з працягам</ar>
+<ar><k>continuous stationery</k> рулонная папера для друкарак (<i>прынтэраў</i>)</ar>
+<ar><k>continuous tone / contone</k> 1) тон без рэзкіх пераходаў; 2) нерастраваная выява</ar>
+<ar><k>contract</k> 1) кантракт, дамова; 2) падпісваць кантракт</ar>
+<ar><k>contract prolongation</k> падаўжэнне дамовы</ar>
+<ar><k>contrast</k> кантраст</ar>
+<ar><k>contribution</k> артыкул (<i>для газеты ці часопіса</i>)</ar>
+<ar><k>contributor</k> 1) сталы супрацоўнік (<i>газеты, часопіса</i>); 2) аўтар артыкула (<i>у зборніку, часопісе, энцыклапедыі</i>)</ar>
+<ar><k>control</k> 1) кантроль; 2) кіраванне; 3) рэгуляванне; 4) кантраляваць; 5) кіраваць; 6) стрымліваць</ar>
+<ar><k>control copy</k> кантрольны паасобнік</ar>
+<ar><k>conventional printed sheet</k> умоўны друкаваны аркуш</ar>
+<ar><k>coordinate</k> каардынаваць</ar>
+<ar><k>coproduction</k> супольная вытворчасць</ar>
+<ar><k>copublication</k> супольная публікацыя</ar>
+<ar><k>copy</k> 1) арыгінал; 2) копія; 3) капіяваць; 4) паасобнік (<i>кнігі, часопіса</i>)</ar>
+<ar><k>copy editing</k> выдавецкая падрыхтоўка рукапісу</ar>
+<ar><k>copy editor</k> выдавецкі рэдактар (<i>рэдактар, які рыхтуе рукапіс да друку</i>)</ar>
+<ar><k>copy fitting</k> 1) разлік палосы набору; 2) уцісканне або разгонка тэксту (<i>на зададзены фармат</i>)</ar>
+<ar><k>copy for the cover</k> тэкст на вокладку</ar>
+<ar><k>copy prep / copy preparation</k> вычытванне (<i>арыгінала</i>)</ar>
+<ar><k>copyright</k> 1) аўтарскае права; 2) пацвярджаць аўтарскае права (<i>паведамленнем у кнізе</i>); 3) ахоўваецца аўтарскім правам</ar>
+<ar><k>copyright fee</k> плата за права ўзнаўлення твораў (<i>якія ахоўваюцца аўтарскім правам</i>)</ar>
+<ar><k>copyright infringement</k> парушэнне аўтарскіх правоў</ar>
+<ar><k>copyright law</k> закон пра аўтарскае права</ar>
+<ar><k>copyright notice</k> паведамленне аб ахове аўтарскага права</ar>
+<ar><k>copyright sign</k> знак аховы аўтарскага права ©</ar>
+<ar><k>copywriter</k> складальнік тэксту для рэкламы</ar>
+<ar><k>copywriting</k> складанне тэксту для рэкламы</ar>
+<ar><k>copy-holder</k> падчытвальнік (<i>карэктар, які выконвае падчытванне</i>)</ar>
+<ar><k>copy-holding</k> падчытванне</ar>
+<ar><k>corporate authors</k> аўтарскі калектыў</ar>
+<ar><k>correction</k> 1) карэктура; 2) праўка</ar>
+<ar><k>correction marks</k> карэктурныя знакі</ar>
+<ar><k>corrigenda</k> спіс памылак</ar>
+<ar><k>cost</k> 1) сабекошт; 2) цана; 3) кошт; 4) пралічваць кошт; 5) каштаваць</ar>
+<ar><k>costing</k> падлік цаны продажу</ar>
+<ar><k>cost price</k> цана продажу, роўная сабекошту</ar>
+<ar><k>cost-cutting</k> скарочаны (<i>пра выдаткі</i>)</ar>
+<ar><k>cost-effective</k> выгадны</ar>
+<ar><k>counter pack</k> паліца для паказу кніг у кнігарні</ar>
+<ar><k>courier</k> 1) кур'ер; 2) перадаваць праз кур'ера</ar>
+<ar><k>course book</k> падручнік</ar>
+<ar><k>cover</k> 1) вокладка; 2) аправа; 3) пакрываць вокладкай; 4) апраўляць</ar>
+<ar><k>cover copy</k> тэкст на вокладку</ar>
+<ar><k>cover costs</k> пакрываць выдаткі, акупляць</ar>
+<ar><k>cover design</k> эскіз вокладкі</ar>
+<ar><k>covering letter / covering note</k> дакумент, які пацвярджае адпраўку тавару</ar>
+<ar><k>cover material</k> покрыўны матэрыял (<i>для вокладкі або аправы</i>)</ar>
+<ar><k>cover price</k> раздробная цана (<i>кнігі</i>)</ar>
+<ar><k>co-edition</k> супольнае выданне</ar>
+<ar><k>cpi</k> гл. <a>characters per inch</a></ar>
+<ar><k>cpl</k> гл. <a>characters per line</a></ar>
+<ar><k>cps</k> гл. <a>characters per second</a></ar>
+<ar><k>CRC</k> гл. <a>camera-ready copy</a></ar>
+<ar><k>crease</k> 1) згін; 2) складка (<i>дэфект</i>) на роўнай паперы; 3) бігаваць; 4) рабіць складку (<i>дэфект</i>) на роўнай паперы</ar>
+<ar><k>creasing</k> бігаванне</ar>
+<ar><k>credit</k> 1) паступленне (<i>грошай на рахунак</i>); 2) адзначэнне аховы правоў аўтара, мастака, фатографа і г.д.; 3) паказваць уладальніка аўтарскіх правоў аўтара, мастака, фатографа і г.д.</ar>
+<ar><k>credit balance</k> станоўчы баланс</ar>
+<ar><k>credit control</k> крэдытны кантроль</ar>
+<ar><k>credit limit</k> ліміт крэдыту</ar>
+<ar><k>credit line</k> радок прыналежнасці (<i>дзе  называюцца аўтар, мастак, фатограф або арганізацыя, што далі ілюстрацыю</i>)</ar>
+<ar><k>credit note</k> крэдыт-нота</ar>
+<ar><k>creditor</k> крэдытор</ar>
+<ar><k>credit-worthy</k> крэдытаздольны</ar>
+<ar><k>critical review</k> рэцэнзія</ar>
+<ar><k>crop</k> 1) абразаць ілюстрацыю, кадраваць; 2) «заразаць край»</ar>
+<ar><k>cropping</k> абрэзка (<i>непатрэбных частак</i>) ілюстрацыі, кадраванне</ar>
+<ar><k>crosshead / crossheading</k> уразны падзагаловак</ar>
+<ar><k>cross-reference</k> 1) крыжаваная спасылка (<i>спасылка на іншае месца ў той жа кнізе</i>); 2) рабіць крыжаваную спасылку</ar>
+<ar><k>CRPU</k> гл. <a>camera-ready paste-up</a></ar>
+<ar><k>CRT</k> гл. <a>cathode ray tube</a></ar>
+<ar><k>C/T</k> гл. <a>colour transparency</a></ar>
+<ar><k>cumulative index</k> зборны паказальнік</ar>
+<ar><k>cursor</k> курсор</ar>
+<ar><k>customer</k> 1) пакупнік; 2) кліент</ar>
+<ar><k>customer file</k> картатэка для рэгістрацыі (<i>пакупнікоў, замоўцаў</i>)</ar>
+<ar><k>customer service department</k> аддзел рэалізацыі</ar>
+<ar><k>customs</k> мытня</ar>
+<ar><k>customs clearance</k> мытны дазвол</ar>
+<ar><k>customs duty</k> мыта</ar>
+<ar><k>cut</k> 1) скарачэнне тэксту або ілюстрацыі; 2) гравюра; 3) рэзкая паніжка (цэнаў, заработнай платы, занятасці); 4) скарачаць (<i>тэкст, ілюстрацыю</i>); 5) рэзка паніжаць</ar>
+<ar><k>cut and paste</k> 1) мантаж арыгіналаў шляхам наклейвання; 2) перастаноўка часткі тэксту (<i>пры апрацоўцы на кампутары</i>)</ar>
+<ar><k>cut flush</k> абрэзванне краёў кнігі (<i>разам з вокладкай</i>)</ar>
+<ar><k>cut line</k> подпіс да ілюстрацыі</ar>
+<ar><k>cyan</k> цыян, сіні (<i>колер у трыядзе</i>)</ar>
+<ar><k>cylinder</k> цыліндр</ar>
+<ar><k>cylinder press</k> плоскадрукавальная машына</ar>
+<ar><k>Cyrillic alphabet</k> кірыліца (<i>славянскі алфавіт</i>)</ar>
+<ar><k>dagger</k> «крыжык» (<i>друкарскі знак</i>)</ar>
+<ar><k>daisy-wheel</k> пялёсткавы шрыфтаносьбіт (<i>«рамонак»</i>)</ar>
+<ar><k>daisy-wheel printer</k> друкавальная прылада з пялёсткавым шрыфтаносьбітам (<i>«рамонкам»</i>)</ar>
+<ar><k>dash</k> 1) працяжнік; 2) рыса, штрых</ar>
+<ar><k>data</k> дадзеныя, інфармацыя</ar>
+<ar><k>database</k> база дадзеных</ar>
+<ar><k>database publishing</k> база дадзеных для выпуску выдавецкай прадукцыі</ar>
+<ar><k>data capture</k> увядзенне дадзеных</ar>
+<ar><k>data processing (DP)</k> апрацоўка інфармацыі</ar>
+<ar><k>date of publication</k> 1) тэрмін выдання (<i>выпуску</i>) кнігі; 2) дата паступлення ў продаж; 3) дзень выпуску (<i>газеты, часопіса</i>)</ar>
+<ar><k>DD</k> гл. <a>double density disk</a></ar>
+<ar><k>deadline</k> крайні тэрмін (<i>выканання працы</i>)</ar>
+<ar><k>deal</k> 1) угода; 2) пагадненне</ar>
+<ar><k>dealer</k> дылер (<i>агент па куплі і продажы</i>)</ar>
+<ar><k>deal with</k> весці гандлёвы бізнэс (<i>з кім-небудзь</i>)</ar>
+<ar><k>debit</k> дэбет</ar>
+<ar><k>debit and credit</k> дэбет і крэдыт</ar>
+<ar><k>debit note</k> дэбет-нота</ar>
+<ar><k>debt</k> запазычанасць (<i>доўг</i>)</ar>
+<ar><k>debtor</k> пазычальнік (<i>той, хто вінны доўг</i>)</ar>
+<ar><k>deckle</k> 1) край; 2) шырыня аркуша (<i>які выходзіць з варштата паперні</i>)</ar>
+<ar><k>dedicate</k> 1) прысвячаць (<i>каму-небудзь</i>); 2) выкарыстоўваць мэтава (<i>толькі для вызначанай мэты</i>)</ar>
+<ar><k>dedication</k> прысвячэнне</ar>
+<ar><k>defective copy</k> дэфектны паасобнік</ar>
+<ar><k>deink</k> 1) ачышчаць ад фарбы; 2) выдаляць друкарскую фарбу з паперы пры перапрацоўцы макулатуры</ar>
+<ar><k>delete</k> 1) выкрэсліваць; 2) сціраць (<i>запіс</i>)</ar>
+<ar><k>deletion</k> 1) выкрэсліванне; 2) сціранне (<i>запісу</i>); 3) выкасаванае</ar>
+<ar><k>delivery</k> здача (<i>рукапісу</i>) у выдавецтва</ar>
+<ar><k>delivery date</k> дата здачы (<i>рукапісу</i>)</ar>
+<ar><k>delivery instructions</k> інструкцыі друкару або шытару</ar>
+<ar><k>delivery note</k> ведамасць выпуску</ar>
+<ar><k>de luxe edition</k> раскошнае выданне</ar>
+<ar><k>demand</k> 1) патрэба; 2) попыт; 3) патрабаванне (<i>аплаты</i>); 4) патрабаваць</ar>
+<ar><k>density</k> 1) аптычная шчыльнасць; 2) шчыльнасць пачарнення (<i>адбітка</i>)</ar>
+<ar><k>department (dept)</k> 1) бюро; 2) аддзел; 3) цэх</ar>
+<ar><k>department head / department manager</k> загадчык аддзела</ar>
+<ar><k>depreciation</k> уцэнка</ar>
+<ar><k>dept</k> гл. <a>department</a></ar>
+<ar><k>depth of page</k> даўжыня палосы набору (<i>ад загалоўка ці калонтытула да калонлічбы</i>)</ar>
+<ar><k>descender</k> ніжні вынасны элемент літары</ar>
+<ar><k>design</k> 1) афармленне выдання; 2) эскіз (<i>будучай кнігі, старонкі або вокладкі</i>); 3) распрацоўваць, праектаваць</ar>
+<ar><k>designer</k> 1) канструктар; 2) дызайнер</ar>
+<ar><k>desk editor</k> выдавецкі рэдактар</ar>
+<ar><k>desktop publishing (DTP)</k> настольная выдавецкая сістэма</ar>
+<ar><k>despatch</k> 1) адпраўленне тавару кліенту; 2) адпраўляць тавар кліенту</ar>
+<ar><k>Dewey decimal classification</k> дзесятковая класіфікацыя Д'юі</ar>
+<ar><k>diacritical marks / diacriticals / diacritics</k> дыякрытычныя знакі</ar>
+<ar><k>diaeresis / dieresis</k> трэма (<i>дзве кропкі над галоснай</i>), умляўт</ar>
+<ar><k>diagram</k> 1) дыяграма, схема, графік; 2) макет (<i>схема</i>) шыхтавання</ar>
+<ar><k>diapositive</k> дыяпазітыў</ar>
+<ar><k>dictionary</k> слоўнік</ar>
+<ar><k>die</k> словалітная матрыца</ar>
+<ar><k>die stamping</k> 1) цісненне (<i>штампам</i>); 2) высечка (<i>штампам</i>); 3) тампадрук</ar>
+<ar><k>digest</k> 1) агляд; 2) дайджэст; 3) зборнік</ar>
+<ar><k>digipad</k> прылада для ўвядзення графічных дадзеных</ar>
+<ar><k>digital computer</k> лічбавая вылічальная машына</ar>
+<ar><k>digitize</k> пераводзіць у лічбавую форму (<i>праводзіць лічбавае кадаванне</i>)</ar>
+<ar><k>dimension</k> памер</ar>
+<ar><k>diphthong</k> дыфтонг</ar>
+<ar><k>diplomatic edition</k> дыпламатычнае выданне</ar>
+<ar><k>direct</k> 1) кіраваць; 2) просты (<i>без перашкодаў</i>)</ar>
+<ar><k>direct access</k> просты (<i>беспасярэдні</i>) доступ</ar>
+<ar><k>direction</k> кірунак</ar>
+<ar><k>direction line</k> норма</ar>
+<ar><k>directions for use</k> інструкцыя</ar>
+<ar><k>direct mail</k> рэклама па пошце</ar>
+<ar><k>directory</k> 1) адрасная кніга; 2) даведнік; 3) картатэка кліентаў</ar>
+<ar><k>direct screening</k> простае растраванне</ar>
+<ar><k>direct selling</k> беспасярэдні продаж (<i>пакупніку</i>)</ar>
+<ar><k>direct-entry phototypesetting</k> фотанабор на клавіятуры</ar>
+<ar><k>disc / disk</k> 1) дыск (<i>магнітны</i>); 2) дыскета</ar>
+<ar><k>disclaimer</k> адмова (<i>ад адказнасці</i>)</ar>
+<ar><k>discount</k> 1) паніжка; 2) рабіць паніжку</ar>
+<ar><k>discretion</k> 1) свабода дзеянняў; 2) выбар</ar>
+<ar><k>disk drive</k> дыскавод</ar>
+<ar><k>disk operating system (DOS)</k> дыскавая аперацыйная сістэма</ar>
+<ar><k>dispatch / despatch</k> 1) адпраўленне тавару кліенту; 2) адпраўляць тавар кліенту</ar>
+<ar><k>display</k> 1) выява тэксту на маніторы; 2) паказ, дэманстрацыя; 3) паказваць; 4) выстаўляць</ar>
+<ar><k>display pack / display box</k> модуль для паказу тавару (<i>у краме</i>)</ar>
+<ar><k>display stand / display unit</k> 1) стэнд; 2) вітрына (<i>для кніг</i>)</ar>
+<ar><k>distribution</k> распаўсюджванне</ar>
+<ar><k>distribution costs</k> выдаткі на распаўсюджванне</ar>
+<ar><k>distribution network</k> сетка распаўсюджвання (<i>гандлёвая</i>)</ar>
+<ar><k>distributor</k> 1) гандлёвая фірма; 2) размеркавальнік (<i>цыліндр</i>)</ar>
+<ar><k>division</k> аддзел</ar>
+<ar><k>documentary edition</k> дакументальнае выданне</ar>
+<ar><k>door-to-door</k> раз'язны (<i>гандаль</i>)</ar>
+<ar><k>DOS</k> гл. <a>disk operating system</a></ar>
+<ar><k>dot</k> 1) кропка; 2) растравы элемент</ar>
+<ar><k>dot etching</k> падтраўліванне растравых кропак</ar>
+<ar><k>dots per inch (dpi / d.p.i.)</k> колькасць кропак на цалю (<i>раздзяляльная здольнасць растра</i>)</ar>
+<ar><k>dot-for-dot reproduction</k> растравая рэпрадукцыя паўтонавага адбітка</ar>
+<ar><k>dot-matrix printer</k> матрычная друкарка, матрычны прынтэр</ar>
+<ar><k>double burn</k> раздзельнае капіяванне (<i>з прыводкай штрыхавой і растравай выявы</i>)</ar>
+<ar><k>double column</k> падвойная калонка</ar>
+<ar><k>double density</k> падвойная шчыльнасць запісу</ar>
+<ar><k>double density disk (DD)</k> дыскета з падвойнай шчыльнасцю запісу</ar>
+<ar><k>double inverted commas</k> двукоссе (<i>«лапкі»</i>)</ar>
+<ar><k>double page spread / double spread</k> разгорт</ar>
+<ar><k>double quotes</k> 1) двукоссе; 2) браць у двукоссе</ar>
+<ar><k>down time</k> страчаны час</ar>
+<ar><k>DP</k> гл. <a>data processing</a></ar>
+<ar><k>dpi / d.p.i.</k> гл. <a>dots per inch</a></ar>
+<ar><k>draft</k> 1) чарнавік; 2) праект; 3) рабіць накіды</ar>
+<ar><k>drawing</k> 1) малюнак; 2) рысунак</ar>
+<ar><k>dress</k> фальбона (<i>набор часткі палосы на завужаны фармат для размяшчэння побач малюнкаў, табліц, рубрык</i>)</ar>
+<ar><k>drier / dryer</k> сушыльная машына</ar>
+<ar><k>drill</k> свідраваць</ar>
+<ar><k>drive out</k> разгонка радкоў (<i>падвышэнне аб'ёму выдання за кошт павелічэння кегелю, міжрадкоўя, спускаў і г.д.</i>)</ar>
+<ar><k>driver</k> павадыр (<i>праграма, якая забяспечвае ўзаемадзеянне кампутарных прыладаў</i>)</ar>
+<ar><k>dropped (chapter) heads</k> загалоўкі з спускам</ar>
+<ar><k>drum scanner</k> цыліндравы сканэр</ar>
+<ar><k>dryer / drier</k> сушыльная машына</ar>
+<ar><k>dry-transfer lettering / dry-transfer process</k> выраб надпісаў з дапамогай пераваднога шрыфту</ar>
+<ar><k>DTP</k> гл. <a>desktop publishing</a></ar>
+<ar><k>due</k> 1) чаканы; 2) павінны быць</ar>
+<ar><k>dues</k> адкладзеная замова на кнігі (<i>да паступлення новых</i>)</ar>
+<ar><k>dummy copy</k> аб'ёмны макет (<i>кнігі</i>)</ar>
+<ar><k>dump bin</k> 1) бункер-крама; 2) дэманстрацыйная (<i>кніжная</i>) стойка</ar>
+<ar><k>duotone</k> 1) дзвюхфарбавая рэпрадукцыя; 2) дуплекс-аўтатыпія</ar>
+<ar><k>duplicate</k> 1) дублікат; 2) копія; 3) капіяваць; 4) памнажаць</ar>
+<ar><k>duplicate a film</k> рабіць копію плёнкі</ar>
+<ar><k>duplicate a letter</k> памнажаць дакумент</ar>
+<ar><k>duplicate film</k> копія плёнкі</ar>
+<ar><k>duplicate title</k> контртытул</ar>
+<ar><k>duplication</k> рэпрадукаванне</ar>
+<ar><k>dust cover / dust jacket / dust wrapper</k> супервокладка</ar>
+<ar><k>dwarf edition</k> мініяцюрнае выданне</ar>
+<ar><k>dye</k> 1) фарбавальнік, фарба; 2) фарбаваць</ar>
+<ar><k>dye-line copying</k> геліяграфія</ar>
+<ar><k>edge</k> абрэз (<i>кнігі</i>)</ar>
+<ar><k>edge colouring / edge staining</k> фарбаванне абрэзу</ar>
+<ar><k>edit</k> рэдагаваць</ar>
+<ar><k>editing</k> літаратурная праўка, рэдагаванне</ar>
+<ar><k>editing process</k> рэдакцыйны працэс</ar>
+<ar><k>editing terminal</k> рэдактарскі тэрмінал</ar>
+<ar><k>edition</k> 1) выданне; 2) наклад; 3) выпуск (<i>газеты</i>)</ar>
+<ar><k>edition for the blind</k> выданне для сляпых</ar>
+<ar><k>edition in a book form</k> кніжнае выданне</ar>
+<ar><k>editor</k> рэдактар</ar>
+<ar><k>editorial</k> 1) рэдактарскі; 2) рэдакцыйны</ar>
+<ar><k>editorial correction / editorial revise</k> рэдактарская праўка</ar>
+<ar><k>editorial counsil</k> рэдакцыйная рада</ar>
+<ar><k>editorial department</k> 1) выдавецкі аддзел; 2) рэдакцыя (<i>выдавецтва</i>)</ar>
+<ar><k>editorial office</k> рэдакцыя (<i>газеты</i>)</ar>
+<ar><k>editor-in-chief</k> галоўны рэдактар</ar>
+<ar><k>educational</k> 1) навучальны; 2) адукацыйны</ar>
+<ar><k>educational contractor</k> выдавецтва, якое выдае навучальную літаратуру</ar>
+<ar><k>educational edition</k> навучальнае выданне</ar>
+<ar><k>educational publisher</k> выдавец навучальнай літаратуры</ar>
+<ar><k>electronic composition</k> электронны набор</ar>
+<ar><k>electronic mail (e-mail / email)</k> электронная пошта</ar>
+<ar><k>electronic point of sale / electronic point-of-sale (EPOS)</k> электронная гандлёвая кропка</ar>
+<ar><k>electronic publishing</k> выданне (<i>кніг і часопісаў</i>) у электроннай форме</ar>
+<ar><k>electronic scanner</k> электронны сканэр</ar>
+<ar><k>electrostatic printing</k> электрастатычны друк</ar>
+<ar><k>ellipsis</k> шматкроп'е (<i>паказвае на адсутнасць часткі тэксту</i>)</ar>
+<ar><k>em</k> эм (<i>адзінка шырыні літары</i>)</ar>
+<ar><k>emboss</k> выціскаць рэльеф</ar>
+<ar><k>emphasis</k> вылучэнні тэксту</ar>
+<ar><k>emulsion</k> эмульсія</ar>
+<ar><k>emulsion side</k> эмульсійны бок</ar>
+<ar><k>en</k> эн (<i>палова шырыні эм</i>)</ar>
+<ar><k>encyclopaedia / encyclopedia</k> энцыклапедыя</ar>
+<ar><k>end matter</k> матэрыял пасля асноўнага тэксту (<i>кнігі</i>)</ar>
+<ar><k>endnote</k> вынаска (<i>заўвага ці бібліяграфічная спасылка пры канцы раздзела або кнігі</i>)</ar>
+<ar><k>endpaper / endsheet</k> форзац</ar>
+<ar><k>engraving</k> гравюра</ar>
+<ar><k>enlarge</k> павялічваць (<i>фота</i>)</ar>
+<ar><k>enlarged edition</k> дапоўненае выданне</ar>
+<ar><k>enlargement</k> павелічэнне (<i>фота</i>)</ar>
+<ar><k>entitle</k> 1) даваць права (<i>на што-небудзь</i>); 2) называць (<i>кнігу</i>)</ar>
+<ar><k>entry</k> артыкул (<i>у слоўніку, энцыклапедыі, даведніку</i>)</ar>
+<ar><k>epigraph</k> эпіграф</ar>
+<ar><k>epilogue</k> эпілог</ar>
+<ar><k>EPOS</k> гл. <a>electronic point of sale</a></ar>
+<ar><k>errata slip / erratum slip</k> спіс памылак друку</ar>
+<ar><k>erratum</k> памылка друку</ar>
+<ar><k>error</k> памылка</ar>
+<ar><k>essay</k> эсэ, нарыс</ar>
+<ar><k>establish</k> 1) устаноўліваць; 2) адчыняць, засноўваць</ar>
+<ar><k>establishment</k> прадпрыемства</ar>
+<ar><k>estimate</k> 1) ацэнка; 2) ацэньваць</ar>
+<ar><k>estimated</k> прыблізны, меркаваны</ar>
+<ar><k>estimate for a job</k> рыхтаваць каштарыс</ar>
+<ar><k>estimation</k> ацэнка, папярэдні разлік</ar>
+<ar><k>estimator</k> складальнік каштарысу</ar>
+<ar><k>even pages</k> цотныя старонкі</ar>
+<ar><k>even working</k> кратная (<i>аркушу</i>) колькасць старонак</ar>
+<ar><k>excerpt</k> 1) вытрымка (<i>з тэксту</i>); 2) асобны адбітак</ar>
+<ar><k>exclamation mark</k> клічнік</ar>
+<ar><k>exclusion clause</k> пункт (<i>у страхавым полісе або гарантыі</i>), які змяшчае выняткі</ar>
+<ar><k>exclusive agreement</k> эксклюзіўнае пагадненне</ar>
+<ar><k>exclusive right</k> эксклюзіўнае права</ar>
+<ar><k>exemption</k> вызваленне</ar>
+<ar><k>exercise book</k> задачнік</ar>
+<ar><k>exhibition</k> выстава</ar>
+<ar><k>exhibition room / exhibition hall</k> дэманстрацыйнае памяшканне (<i>пакой, зала</i>)</ar>
+<ar><k>exhibition stand</k> дэманстрацыйны стэнд</ar>
+<ar><k>exhibitor</k> удзельнік выставы</ar>
+<ar><k>expanded type</k> шырокі шрыфт</ar>
+<ar><k>expense</k> выдаткі</ar>
+<ar><k>expenses</k> службовыя выдаткі</ar>
+<ar><k>expire</k> сканчацца (<i>пра тэрмін дзеяння дакумента</i>)</ar>
+<ar><k>expiry date</k> дата сканчэння</ar>
+<ar><k>explication</k> эксплікацыя, легенда (<i>тэкст, які тлумачыць значэнне сімвалаў і ўмоўных знакаў на картах, ілюстрацыях, у формулах</i>)</ar>
+<ar><k>exploit</k> 1) эксплуатаваць; 2) выкарыстоўваць у сваіх інтарэсах</ar>
+<ar><k>export</k> 1) экспарт; 2) экспартныя тавары; 3) экспартаваць</ar>
+<ar><k>export edition</k> экспартнае выданне</ar>
+<ar><k>export licence</k> ліцэнзія на экспарт</ar>
+<ar><k>exposure</k> вытрымка, экспазіцыя (<i>фота</i>)</ar>
+<ar><k>extended credit</k> доўгатэрміновы крэдыт</ar>
+<ar><k>extension</k> 1) камутатар; 2) нутран<u>ы</u> тэлефон; 3) адтэрміноўка</ar>
+<ar><k>extent</k> колькасць старонак (<i>у кнізе</i>)</ar>
+<ar><k>extra</k> дадатковы</ar>
+<ar><k>extract</k> 1) цытата, вынятак (<i>з тэксту</i>); 2) выбіраць цытату</ar>
+<ar><k>e-mail / email</k> гл. <a>electronic mail</a></ar>
+<ar><k>face</k> гарнітура</ar>
+<ar><k>facing page</k> супрацьлеглая старонка</ar>
+<ar><k>facing pages</k> старонкі разгорту</ar>
+<ar><k>facsimile</k> факсіміле</ar>
+<ar><k>fair trading / fair dealing</k> сумленны бізнэс</ar>
+<ar><k>family</k> гарнітура шрыфту</ar>
+<ar><k>fanfold</k> фальцаванне веерам</ar>
+<ar><k>faulty copy</k> дэфектны паасобнік</ar>
+<ar><k>f. + c.</k> гл. <a>folded and collated</a></ar>
+<ar><k>feature</k> сенсацыйны артыкул</ar>
+<ar><k>fee</k> ганарар, узнагарода</ar>
+<ar><k>feedback</k> вывучэнне думкі спажыўца</ar>
+<ar><k>feeder</k> падавальны механізм</ar>
+<ar><k>felt side</k> правы бок</ar>
+<ar><k>festive publication</k> юбілейнае выданне</ar>
+<ar><k>f + g</k> гл. <a>folded and gathered</a></ar>
+<ar><k>fibre / fiber</k> валакно</ar>
+<ar><k>fiction</k> мастацкая літаратура</ar>
+<ar><k>figure</k> 1) рысунак (<i>графічная выява</i>); 2) лічба</ar>
+<ar><k>file</k> 1) тэчка; 2) файл; 3) захоўваць дакументы ў вызначаным парадку; 4) уводзіць дадзеныя ў файл</ar>
+<ar><k>file copy</k> 1) копія дакумента; 2) архіўны паасобнік (<i>паасобнік выдадзенай кнігі, які захоўваецца ў бібліятэцы выдаўца</i>)</ar>
+<ar><k>filigrane / filigree</k> вадзяны знак, філігрань</ar>
+<ar><k>filler</k> друкарскі матэрыял для запаўнення пустотаў на палосе</ar>
+<ar><k>film</k> 1) фотаплёнка, фотастужка; 2) фотарэпрадукаванне арыгінал-макета</ar>
+<ar><k>film assembly</k> мантаж плёнак</ar>
+<ar><k>film make-up</k> шыхтаванне плёнак</ar>
+<ar><k>film rights</k> права на экранізацыю</ar>
+<ar><k>film setting</k> фотанабор</ar>
+<ar><k>filter</k> фільтр</ar>
+<ar><k>final demand</k> апошняе патрабаванне (<i>перад спагнаннем аплаты праз суд</i>)</ar>
+<ar><k>final draft</k> рукапіс, гатовы да набору</ar>
+<ar><k>final proof / final revise</k> падпісны карэктурны адбітак</ar>
+<ar><k>finance</k> 1) акцыянерны і пазыковы капітал; 2) фінансаваць</ar>
+<ar><k>financial year</k> фінансавы год</ar>
+<ar><k>finish</k> 1) сканчаць; 2) шытаваць (<i>рабіць аправу, апраўляць</i>)</ar>
+<ar><k>finished goods</k> гатовая прадукцыя</ar>
+<ar><k>finishing</k> 1) брашуравальна-шытарская праца; 2) аздабленне</ar>
+<ar><k>firm</k> 1) фірма; 2) цвёрды; 3) нязменны</ar>
+<ar><k>firmabinder</k> тэчка</ar>
+<ar><k>firm order</k> цвёрдая замова</ar>
+<ar><k>firm publication</k> фірмовае выданне</ar>
+<ar><k>first cost / first price</k> выдавецкі сабекошт</ar>
+<ar><k>first edition</k> першае выданне</ar>
+<ar><k>fit</k> 1) міжлітарны прагал; 2) кампанаванне палосы</ar>
+<ar><k>fixed costs</k> цвёрды (<i>фіксаваны</i>) кошт</ar>
+<ar><k>fixing</k> вызначэнне (<i>цаны</i>)</ar>
+<ar><k>flag</k> 1) сцяжок; 2) пазнака; 3) пазначаць, адзначаць</ar>
+<ar><k>flap</k> клапан (<i>дэталь супервокладкі</i>)</ar>
+<ar><k>flat back</k> простая спінка (<i>аправы</i>)</ar>
+<ar><k>flatbed</k> плоскадрукавальны</ar>
+<ar><k>flatbed cylinder press</k> плоскадрукавальная машына</ar>
+<ar><k>flat plan</k> 1) раскладка; 2) план кнігі; 3) схема мантажнага аркуша</ar>
+<ar><k>flexiback binding</k> змацаванне блокаў на клей</ar>
+<ar><k>flier / flyer</k> рэкламная ўлётка</ar>
+<ar><k>floppy disk</k> гнуткі дыск (<i>дыскета</i>)</ar>
+<ar><k>flow chart / flow diagram</k> схема паточнага тэхналагічнага працэсу</ar>
+<ar><k>fluorescent</k> флюарэсцэнтны</ar>
+<ar><k>flush left or flush right</k> выроўніванне радка ўлева або ўправа</ar>
+<ar><k>flyleaf</k> форзац</ar>
+<ar><k>fly-sheet</k> улётка</ar>
+<ar><k>fly-title</k> шмуцтытул, нутран<u>ы</u> тытул</ar>
+<ar><k>FOB</k> гл. <a>free on board</a></ar>
+<ar><k>foil</k> фольга</ar>
+<ar><k>fold</k> 1) фальц; 2) фальцаваць</ar>
+<ar><k>folded and collated (f+c) / folded and gathered (f+g)</k> «сфальцаваныя і падабраныя» (<i>падпісныя аркушы</i>)</ar>
+<ar><k>folded sheet</k> сшытак (<i>частка кніжнага блока</i>)</ar>
+<ar><k>folder</k> 1) тэчка-хуткасшывальнік; 2) буклет</ar>
+<ar><k>folding</k> фальцаванне</ar>
+<ar><k>folding machine</k> фальцавальная машына</ar>
+<ar><k>fold-out</k> уклейка-разгорт</ar>
+<ar><k>folio</k> 1) фаліянт (<i>выданне, фармат якога складае 1/2 папяровага аркуша</i>); 2) калонлічба</ar>
+<ar><k>follow style</k> «аднатыпны набор» (<i>карэктурная пазнака</i>)</ar>
+<ar><k>font / fount</k> 1) шрыфт; 2) камплект шрыфту</ar>
+<ar><k>foot</k> «хвосцік» (<i>палосы</i>)</ar>
+<ar><k>foot margin</k> ніжняе поле (<i>старонкі</i>)</ar>
+<ar><k>footnote</k> падрадкоўнік (<i>зноска</i>)</ar>
+<ar><k>foredge / fore-edge</k> пярэдні край абрэзу</ar>
+<ar><k>foredge margin</k> пярэдняе (<i>вонкавае</i>) поле</ar>
+<ar><k>foreign language rights</k> права на пераклад кнігі на замежную мову</ar>
+<ar><k>foreign rights</k> вонкавае права  (<i>права на камерцыйнае выкарыстанне твора ў іншых краінах</i>)</ar>
+<ar><k>foretitle</k> авантытул</ar>
+<ar><k>foreword</k> прадмова</ar>
+<ar><k>forfeit</k> 1) канфіскацыя; 2) пазбаўленне (<i>чаго-небудзь</i>); 3) канфіскоўваць; 4) пазбаўляць</ar>
+<ar><k>form</k> 1) форма (<i>дакумента</i>); 2) друкарская форма; 3) бланк</ar>
+<ar><k>format</k> 1) фармат; 2) памер старонкі; 3) фарматаваць</ar>
+<ar><k>formation</k> фактура паперы</ar>
+<ar><k>forme</k> 1) форма (<i>друкарская</i>); 2) штамп</ar>
+<ar><k>forthcoming</k> 1) рыхтуецца да друку; 2) выходзіць з друку</ar>
+<ar><k>forward</k> 1) паслаць; 2) авансавы</ar>
+<ar><k>forward stock</k> аператыўны запас</ar>
+<ar><k>foundry proof</k> падпісны карэктурны адбітак</ar>
+<ar><k>four-colour</k> чатырохколерны</ar>
+<ar><k>four-colour printing / four-colour process</k> чатырохколерны друк</ar>
+<ar><k>fraction</k> дроб</ar>
+<ar><k>free copy</k> дармавы паасобнік</ar>
+<ar><k>free deposit copy</k> бясплатны абавязковы паасобнік</ar>
+<ar><k>freelance</k> працаваць па-за штатам</ar>
+<ar><k>freelancer</k> пазаштатны супрацоўнік</ar>
+<ar><k>free of charge publication</k> бясплатнае выданне</ar>
+<ar><k>free of royalty edition</k> безганарарнае выданне</ar>
+<ar><k>free on board (FOB)</k> франка-борт</ar>
+<ar><k>freight</k> 1) фрахт; 2) кошт перавозкі; 3) адпраўляць груз</ar>
+<ar><k>freight charges / freight rates</k> грузавыя кошты</ar>
+<ar><k>freight costs</k> транспартныя выдаткі</ar>
+<ar><k>friar</k> сляпы друк</ar>
+<ar><k>front and back boards</k> пярэдняе і задняе вечкі аправы</ar>
+<ar><k>front cove</k> r пярэдняя старонка вокладкі</ar>
+<ar><k>front flap / front jacket flap</k> пярэдні клапан супервокладкі</ar>
+<ar><k>frontispiece</k> франтыспіс</ar>
+<ar><k>frontlist</k> каталог выданняў (<i>запланаваных да друку</i>)</ar>
+<ar><k>front matter</k> матэрыял перад асноўным тэкстам (<i>кнігі</i>)</ar>
+<ar><k>front-end system</k> сістэма апрацоўкі тэксту да набору</ar>
+<ar><k>fulfil / fulfill</k> выконваць</ar>
+<ar><k>full binding</k> суцэльнае вечка аправы</ar>
+<ar><k>full bound book</k> кніга ў суцэльнай аправе</ar>
+<ar><k>full colour</k> насычаны колер</ar>
+<ar><k>full leather binding</k> цалкам скураная аправа</ar>
+<ar><k>full point / full stop</k> кропка</ar>
+<ar><k>full-page plate</k> укладка (<i>аркуш, які ўкладваецца ў выданне</i>)</ar>
+<ar><k>full-scale</k> поўны</ar>
+<ar><k>full-time</k> поўны працоўны час</ar>
+<ar><k>function</k> 1) службовыя абавязкі; 2) праца; 3) каманда (<i>у кампутары</i>); 4) працаваць; 5) функцыянаваць</ar>
+<ar><k>furnish</k> 1) папяровая маса; 2) зарадка рулона</ar>
+<ar><k>galley / galley proof</k> 1) гранка; 2) адбітак гранкі</ar>
+<ar><k>gap in the market</k> незадаволены попыт</ar>
+<ar><k>gatefold</k> «веснічкі» (<i>аркуш падвойнага фармату з фальцам спераду блока</i>)</ar>
+<ar><k>gather</k> камплектаваць (<i>кніжны блок</i>)</ar>
+<ar><k>gathering</k> камплектаванне (<i>кніжнага блока</i>)</ar>
+<ar><k>general book</k> паспалітая кніга (<i>кніга для масавага кола чытачоў</i>)</ar>
+<ar><k>general list</k> каталог паспалітых кніг</ar>
+<ar><k>general publishing</k> выданне паспалітых кніг</ar>
+<ar><k>generate</k> ствараць (<i>праграмы</i>)</ar>
+<ar><k>gentleman's agreement / gentlemen's agreement</k> джэнтльменскае пагадненне</ar>
+<ar><k>get-in</k> увагнанне (<i>скасаванне канцавых радкоў абзаца</i>)</ar>
+<ar><k>get-up</k> афармленне выдання (<i>мастацкімі і паліграфічнымі сродкамі</i>)</ar>
+<ar><k>ghost / ghost writer</k> літаратурны парабак (<i>аўтар, які піша за іншага</i>); 2) пісаць за іншага</ar>
+<ar><k>gift edition</k> падарункавае выданне, сувенірнае выданне</ar>
+<ar><k>gilding</k> пазалота</ar>
+<ar><k>gilt</k> пазалочаны</ar>
+<ar><k>gilt-edged</k> з залатым абрэзам</ar>
+<ar><k>gloss</k> глянцаванне</ar>
+<ar><k>gloss art paper</k> глянцаваная крэйдаваная папера</ar>
+<ar><k>glossary</k> словаспіс</ar>
+<ar><k>glossy</k> 1) фота на глянцавай паперы; 2) глянцавы</ar>
+<ar><k>glue</k> 1) клей; 2) склейваць</ar>
+<ar><k>goffering</k> сляпое цісненне</ar>
+<ar><k>gold blocking</k> цісненне золатам</ar>
+<ar><k>golden section</k> залатое сечыва</ar>
+<ar><k>gold foil</k> залатая (<i>бронзавая</i>) фольга</ar>
+<ar><k>golfball typewriter</k> друкарка (<i>прынтэр</i>) з сферычнай шрыфтавой галоўкай</ar>
+<ar><k>go-ahead</k> 1) ухвала; 2) згода</ar>
+<ar><k>grain</k> 1) зярністасць; 2) кірунак валокнаў</ar>
+<ar><k>grain direction</k> падоўжны кірунак адліву паперы</ar>
+<ar><k>gram / gramme</k> грам</ar>
+<ar><k>grammage</k> шчыльнасць (<i>паперы</i>)</ar>
+<ar><k>graph</k> графік</ar>
+<ar><k>graphic</k> графічны</ar>
+<ar><k>graphic artist / graphic designer</k> графік-афармляльнік</ar>
+<ar><k>graphics</k> 1) графіка; 2) графічны матэрыял</ar>
+<ar><k>graphics pad</k> графічны электронны планшэт</ar>
+<ar><k>graphics terminal</k> графічны тэрмінал</ar>
+<ar><k>graphics VDU</k> графічны дысплей</ar>
+<ar><k>gratis</k> бясплатны, дармавы</ar>
+<ar><k>gratis copy</k> дармавы паасобнік</ar>
+<ar><k>grave accent</k> знак націску злева-направа</ar>
+<ar><k>gravure</k> 1) гравюра; 2) глыбокі друк</ar>
+<ar><k>Greek alphabet</k> грэцкі алфавіт</ar>
+<ar><k>grey literature</k> выданне для службовага карыстання</ar>
+<ar><k>grid</k> сетка</ar>
+<ar><k>gripper edge</k> край аркуша, які заціскаецца захопамі</ar>
+<ar><k>gross margin</k> валавая маржа</ar>
+<ar><k>gross profit</k> валавы прыбытак</ar>
+<ar><k>groundwood</k> драўнінная маса</ar>
+<ar><k>guesstimate</k> падлічваць (<i>прыблізна ацэньваць</i>)</ar>
+<ar><k>guide / guidbook</k> праваднік (<i>даведкавае выданне</i>)</ar>
+<ar><k>guillotine</k> рэзальная машына (<i>разак</i>) з адным нажом; 2) рэзаць; 3) абразаць (<i>паперу</i>)</ar>
+<ar><k>gum</k> 1) раслінны клей; 2) клеіць</ar>
+<ar><k>gutter</k> 1) спінкавае поле на разгорце (<i>прагал паміж палосамі набору</i>); 2) прагал паміж калонкамі</ar>
+<ar><k>gutter margin</k> нутраное поле, спінкавае поле</ar>
+<ar><k>halftone block</k> растравае клішэ</ar>
+<ar><k>halftone / half-tone (ht)</k> 1) растравая (<i>паўтонавая</i>) выява; 2) растравая рэпрадукцыя</ar>
+<ar><k>halftone screen</k> растр</ar>
+<ar><k>half-title</k> шмуцтытул, нутран<u>ы</u> тытул</ar>
+<ar><k>half-yearly</k> адзін раз на паўгода</ar>
+<ar><k>hand binding</k> ручная аправа</ar>
+<ar><k>handbook</k> даведнік</ar>
+<ar><k>handling charge</k> цана ўпакоўкі і перасылкі</ar>
+<ar><k>handling charges</k> выдаткі на перасылку тавару</ar>
+<ar><k>handmade paper</k> папера ручнога адліву</ar>
+<ar><k>hand mould</k> сетка (<i>для ручнога адліву паперы</i>)</ar>
+<ar><k>handout</k> тэкст заявы для друку</ar>
+<ar><k>handwriting</k> 1) рукапіс; 2) почырк</ar>
+<ar><k>handwritten</k> рукапісны</ar>
+<ar><k>hand-setting</k> ручны набор</ar>
+<ar><k>hardback</k> кніга ў аправе</ar>
+<ar><k>hardback rights</k> права на выданне ў аправе кнігі, што выходзіла пад вокладкай</ar>
+<ar><k>hardbound</k> у аправе</ar>
+<ar><k>hard copy</k> 1) раздрукоўка; 2) «цвёрдая» копія</ar>
+<ar><k>hardcover edition</k> кніга ў аправе</ar>
+<ar><k>hard disk</k> цвёрды дыск</ar>
+<ar><k>hardware</k> 1) апаратныя сродкі; 2) апаратнае забеспячэнне; 3) кампутарнае абсталяванне</ar>
+<ar><k>hardwood pulp</k> папяровая маса з драўніны лісцевых пародаў</ar>
+<ar><k>hard-sized paper</k> моцна праклееная папера</ar>
+<ar><k>head</k> 1) рубрыка; 2) галоўка (<i>табліцы</i>); 3) кіраўнік</ar>
+<ar><k>headband</k> 1) каптал; 2) застаўка на пачатку кнігі</ar>
+<ar><k>head buyer</k> асноўны пакупнік</ar>
+<ar><k>headed paper</k> бланк установы</ar>
+<ar><k>heading</k> загаловак, рубрыка</ar>
+<ar><k>headline</k> калонтытул</ar>
+<ar><k>head margin</k> 1) верхняе поле; 2) галоўка</ar>
+<ar><k>head of department</k> кіраўнік аддзела</ar>
+<ar><k>headword</k> загалоўнае слова (<i>у артыкуле слоўніка</i>)</ar>
+<ar><k>heat sealing</k> гарачае змацаванне</ar>
+<ar><k>heliography</k> геліяграфія</ar>
+<ar><k>hickey / hicky</k> нявысахлая фарба</ar>
+<ar><k>high-resolution (hi-res)</k> высокая раздзяляльная здольнасць</ar>
+<ar><k>histogram</k> гістаграма</ar>
+<ar><k>hi-res</k> гл. <a>high-resolution</a></ar>
+<ar><k>H &amp; J program</k> гл. <a>hyphenation and justification program</a></ar>
+<ar><k>hot metal composition / hot type</k> «гарачы» (<i>металічны</i>) набор</ar>
+<ar><k>house corrections</k> выдавецкая праўка</ar>
+<ar><k>house style</k> стыль выдавецтва</ar>
+<ar><k>ht</k> гл. <a>halftone</a></ar>
+<ar><k>hype</k> рабіць шумную рэкламу</ar>
+<ar><k>hyphen</k> 1) злучок; 2) пісаць праз злучок</ar>
+<ar><k>hyphenation</k> перанос (<i>слова</i>)</ar>
+<ar><k>hyphenation and justification program (H &amp; J program)</k> праграма пераносу і выроўнівання (<i>выключкі</i>) тэксту</ar>
+<ar><k>illustrate</k> ілюстраваць</ar>
+<ar><k>illustration</k> 1) ілюстрацыя; 2) рысунак; 3) малюнак</ar>
+<ar><k>illustrator</k> мастак-ілюстратар</ar>
+<ar><k>image</k> 1) выява; 2) імідж</ar>
+<ar><k>image area</k> поле выявы</ar>
+<ar><k>image scanner</k> малюнкавы сканэр (<i>прыстасова для сканавання выяваў</i>)</ar>
+<ar><k>imitation</k> імітацыя</ar>
+<ar><k>imitation art paper</k> імітацыя крэйдаванай паперы</ar>
+<ar><k>imitation cloth</k> імітацыя тканіны</ar>
+<ar><k>impact printer</k> прыстасова для кантактнага друку</ar>
+<ar><k>imperfection</k> 1) недахоп; 2) дэфект</ar>
+<ar><k>imperial</k> імперыял (<i>ангельскі фармат паперы: 30х22 цалі</i>)</ar>
+<ar><k>import</k> 1) імпарт; 2) імпартаваць</ar>
+<ar><k>import duty</k> мыта на імпарт</ar>
+<ar><k>import licence / import permit</k> ліцэнзія на імпарт</ar>
+<ar><k>imports</k> артыкулы імпарту</ar>
+<ar><k>impose</k> складаць схему спуску палосаў</ar>
+<ar><k>imposed page proofs</k> 1) спробны адбітак; 2) макет</ar>
+<ar><k>imposition</k> макетаванне спуску палосаў</ar>
+<ar><k>imposition scheme</k> схема спуску палосаў</ar>
+<ar><k>impression</k> 1) наклад; 2) завод (<i>частка накладу</i>); 3) адбітак; 4) цісненне</ar>
+<ar><k>impression cylinder</k> друкавальны цыліндр</ar>
+<ar><k>imprint</k> 1) выхадныя звесткі; 2) выхадныя дадзеныя (<i>месца выдання, выдавецтва і год выдання</i>)</ar>
+<ar><k>in advance</k> папярэдне</ar>
+<ar><k>in copyright</k> ахоўваецца аўтарскім правам</ar>
+<ar><k>indentation</k> 1) абзац; 2) вылучэнне абзаца</ar>
+<ar><k>indent / indention</k> 1) водступ; 2) пачынаць з водступу</ar>
+<ar><k>index</k> 1) індэкс, паказальнік; 2) складаць паказальнік</ar>
+<ar><k>India paper</k> індыйская папера</ar>
+<ar><k>indirect costs / indirect expenses</k> ускосныя выдаткі</ar>
+<ar><k>industrial edition</k> вытворчае выданне</ar>
+<ar><k>information technology (IT)</k> інфармацыйная тэхналогія</ar>
+<ar><k>infra-red</k> інфрачырвонае выпраменьванне</ar>
+<ar><k>infringe</k> парушаць (<i>закон, права</i>)</ar>
+<ar><k>infringement</k> парушэнне (<i>закону, права</i>)</ar>
+<ar><k>infringement of copyright</k> парушэнне аўтарскіх правоў</ar>
+<ar><k>initial</k> 1) ініцыял (<i>пачатковая літара тэксту раздзела павялічанага памеру</i>); 2) ставіць ініцыялы</ar>
+<ar><k>initial print run</k> пачатковы наклад</ar>
+<ar><k>initials</k> ініцыялы (<i>скарот імя, прозвішча да пачатковых літар</i>)</ar>
+<ar><k>injunction</k> забарона</ar>
+<ar><k>ink</k> 1) чарніла; 2) друкарская фарба; 3) наносіць фарбу</ar>
+<ar><k>inking</k> зафарбоўванне (<i>нанясенне фарбы на друкарскую форму</i>)</ar>
+<ar><k>ink jet printer</k> струменны прынтэр</ar>
+<ar><k>ink jet printing / ink-jet printing</k> фарбаструменны друк</ar>
+<ar><k>ink rub</k> размазванне фарбы (<i>на старонках</i>)</ar>
+<ar><k>ink set-off</k> адбіванне (<i>дэфект друку, пераход фарбы з наступнага адбітка на папярэдні</i>)</ar>
+<ar><k>inner book</k> кніжны блок</ar>
+<ar><k>inner margin</k> нутраное поле</ar>
+<ar><k>in print</k> у наяўнасці і ў друку</ar>
+<ar><k>input</k> 1) увод дадзеных (<i>у кампутар</i>); 2) уводзіць дадзеныя (<i>у кампутар</i>)</ar>
+<ar><k>insert</k> 1) укладка (<i>у кнізе або газеце</i>); 2) дадатак; 3) дадаваць</ar>
+<ar><k>insertion</k> устаўка</ar>
+<ar><k>inset</k> 1) урэзка (<i>перад артыкулам або на карце</i>); 2) уклейка</ar>
+<ar><k>inside margin</k> нутраное поле</ar>
+<ar><k>inside title</k> шмуцтытул, нутран<u>ы</u> тытул</ar>
+<ar><k>inspection copy</k> кантрольны паасобнік</ar>
+<ar><k>instalment / installment</k> 1) частка (<i>накладу</i>); 2) чарговая выплата (<i>у растэрміноўку</i>)</ar>
+<ar><k>in stock</k> наяўны на складзе</ar>
+<ar><k>integrated book</k> кніга з ілюстрацыямі ў тэксце</ar>
+<ar><k>intellectual property</k> інтэлектуальная ўласнасць</ar>
+<ar><k>interactive</k> дыялогавы</ar>
+<ar><k>interest-free credit</k> беспрацэнтавая пазыка</ar>
+<ar><k>interface</k> інтэрфэйс (<i>сістэма ўніфікаваных сувязяў і сігналаў, праз якія ўсе прылады кампутара злучаюцца паміж сабою</i>)</ar>
+<ar><k>interlinear space / interline spacing</k> міжрадкоўе, інтэрліньяж</ar>
+<ar><k>International Organization for Standardization (ISO)</k> Міжнародная арганізацыя па стандартызацыі (ISO)</ar>
+<ar><k>International Standard Book Number (ISBN)</k> міжнародны стандартны кніжны нумар (ISBN)</ar>
+<ar><k>International Standard Serial Number (ISSN)</k> міжнародны стандартны нумар серыйнага выдання (ISSN)</ar>
+<ar><k>Internet</k> Сеціва</ar>
+<ar><k>interpret</k> перакладаць (<i>вусна</i>)</ar>
+<ar><k>introduction / intro</k> 1) уводзіны; 2) ліст-рэкамендацыя</ar>
+<ar><k>inventory</k> 1) наяўнасць; 2) інвентарызацыя</ar>
+<ar><k>inverted commas</k> двукоссе</ar>
+<ar><k>investment</k> актывы</ar>
+<ar><k>invoice</k> 1) рахунак; 2) выстаўляць рахунак</ar>
+<ar><k>invoicing</k> выстаўленне рахунку</ar>
+<ar><k>in-house</k> на сваім прадпрыемстве</ar>
+<ar><k>issue</k> 1) выпуск; 2) выпускаць, выдаваць</ar>
+<ar><k>italic / ital</k> 1) курсіўны; 2) курсіў</ar>
+<ar><k>ivory board</k> тонкі двухпластовы кардон</ar>
+<ar><k>jacket</k> 1) супервокладка; 2) пакрываць (<i>кнігу</i>) супервокладкай</ar>
+<ar><k>jacket artwork</k> арыгінал супервокладкі</ar>
+<ar><k>jacket blurb</k> рэклама кнігі на супервокладцы</ar>
+<ar><k>jobber</k> (<i>US</i>) гуртавы гандляр кнігамі</ar>
+<ar><k>job title</k> пасада</ar>
+<ar><k>joint</k> змацаванне (блока)</ar>
+<ar><k>joint author</k> суаўтар</ar>
+<ar><k>joint authorship</k> суаўтарства</ar>
+<ar><k>joint imprint</k> выхадныя дадзеныя на супольным выданні</ar>
+<ar><k>joint publication</k> супольнае выданне</ar>
+<ar><k>joint venture</k> супольнае прадпрыемства</ar>
+<ar><k>journal</k> спецыялізаваны часопіс</ar>
+<ar><k>journalist</k> журналіст</ar>
+<ar><k>journey order</k> замова кнігарні гандлёваму агенту</ar>
+<ar><k>justification</k>   выроўніванне радкоў (<i>справа і злева</i>)</ar>
+<ar><k>justify</k> выроўніваць радкі</ar>
+<ar><k>juvenile</k> 1) дзіцячая кніга; 2) дзіцячы</ar>
+<ar><k>K</k> гл. <a>kilobyte</a></ar>
+<ar><k>kerning</k> кернінг (<i>рэгуляванне  міжлітарных інтэрвалаў паміж пэўнымі суседнімі знакамі</i>)</ar>
+<ar><k>key</k> 1) клавіша; 2) друкаваць (<i>на кампутары або канцылярскай машынцы</i>)</ar>
+<ar><k>keyboard</k> 1) клавіятура; 2) уводзіць дадзеныя з клавіятуры</ar>
+<ar><k>keyboard operator</k> аператар, які працуе на клавіятуры</ar>
+<ar><k>key in</k> увядзенне дадзеных з клавіятуры</ar>
+<ar><k>keyline</k> 1) абрыс; 2) эскіз</ar>
+<ar><k>keystroke</k> націсканне клавішы</ar>
+<ar><k>keyword</k> ключавое слова</ar>
+<ar><k>kilobyte (K)</k> кілабайт (<i>1024 байты</i>)</ar>
+<ar><k>knife fold</k> нажавы фальц</ar>
+<ar><k>kraft paper</k> крафт-папера (<i>трывалая папера для ўпакоўкі</i>)</ar>
+<ar><k>label</k> 1) этыкетка; 2) наклейваць, прымацоўваць (<i>этыкетку</i>)</ar>
+<ar><k>labelling</k> прымацаванне этыкетак</ar>
+<ar><k>labour costs</k> выдаткі на аплату працы</ar>
+<ar><k>laid paper</k> папера «вержэ»</ar>
+<ar><k>laminate</k> ламінаваць</ar>
+<ar><k>lamination</k> ламінаванне</ar>
+<ar><k>landscape format</k> альбомны фармат</ar>
+<ar><k>language</k> мова</ar>
+<ar><k>lapse</k> траціць моц, сканчацца (<i>аб праве</i>)</ar>
+<ar><k>large print book / large type book</k> кніга вялікага фармату</ar>
+<ar><k>laser printer</k> лазерная друкарка, лазерны прынтэр</ar>
+<ar><k>lateral reversal</k> пераварочванне (<i>выявы</i>) злева направа</ar>
+<ar><k>Latin alphabet</k> лацінскі алфавіт, лацінка</ar>
+<ar><k>launch</k> 1) выпуск (<i>у продаж</i>); 2) выпускаць (<i>у продаж</i>)</ar>
+<ar><k>layout</k> 1) макетаванне; 2) шыхтаванне; 3) выстаўленне (<i>тавару</i>)</ar>
+<ar><k>lay out</k> 1) рабіць макет; 2) выстаўляць тавары</ar>
+<ar><k>lc</k> гл. <a>lower case</a></ar>
+<ar><k>leading</k> 1) міжрадкоўе, інтэрліньяж; 2) набор на шпоны</ar>
+<ar><k>lead out</k> 1) рабіць прагал; 2) ставіць шпоны</ar>
+<ar><k>lead time</k> час на выкананне замовы</ar>
+<ar><k>leaf</k> аркуш (<i>паперы</i>)</ar>
+<ar><k>leaflet</k> аркушовае выданне</ar>
+<ar><k>learned journal</k> акадэмічны часопіс</ar>
+<ar><k>leather-bound book</k> кніга ў скураной аправе</ar>
+<ar><k>left-hand page</k> левая старонка</ar>
+<ar><k>legal charges / legal costs / legal expenses</k> ганарары юрыстам</ar>
+<ar><k>legal deposit copy</k> абавязковы паасобнік</ar>
+<ar><k>legend</k> легенда, эксплікацыя (<i>тэкст, які тлумачыць значэнне сімвалаў і ўмоўных знакаў на картах, ілюстрацыях, у формулах</i>)</ar>
+<ar><k>length</k> аб'ём (<i>кнігі</i>)</ar>
+<ar><k>length of type page line</k> фармат радка набору</ar>
+<ar><k>letterhead / letterheading</k> друкаваны загаловак (<i>на аркушы паштовай паперы</i>)</ar>
+<ar><k>lettering</k> каліграфія</ar>
+<ar><k>letter of credit</k> акрэдытыў</ar>
+<ar><k>letter of reference</k> ліст-рэкамендацыя</ar>
+<ar><k>letterpress</k> 1) высокі друк; 2) машына для высокага друку</ar>
+<ar><k>letterpress edition</k> тэкставае выданне</ar>
+<ar><k>letter space</k> міжлітарны прагал</ar>
+<ar><k>letter spacing</k> разрадка</ar>
+<ar><k>librarian</k> бібліятэкар</ar>
+<ar><k>library</k> бібліятэка</ar>
+<ar><k>library supplier</k> пастаўнік кніг у бібліятэку</ar>
+<ar><k>licence / license</k> ліцэнзія, дазвол</ar>
+<ar><k>licensee</k> уладальнік дазволу (<i>ліцэнзіі</i>)</ar>
+<ar><k>lifetime edition</k> прыжыццёвае выданне</ar>
+<ar><k>ligature</k> лігатура</ar>
+<ar><k>lightweight cardboard (lwc)</k> няшчыльны кардон</ar>
+<ar><k>lightweight paper</k> няшчыльная папера</ar>
+<ar><k>limited edition</k> малое выданне (<i>выданне кнігі невялікім накладам</i>)</ar>
+<ar><k>limp binding</k> мяккая аправа</ar>
+<ar><k>limp-bound edition / limp edition</k> выданне ў мяккай аправе</ar>
+<ar><k>line</k> 1) лінія; 2) радок</ar>
+<ar><k>lineage</k> падлік колькасці радкоў</ar>
+<ar><k>line artwork</k> чорна-белы штрыхавы малюнак</ar>
+<ar><k>line block</k> штрыхавое клішэ</ar>
+<ar><k>line copy</k> чорна-белы штрыхавы малюнак</ar>
+<ar><k>line drawing</k> штрыхавы малюнак</ar>
+<ar><k>line engraving</k> штрыхавое клішэ</ar>
+<ar><k>line illustration</k> штрыхавая ілюстрацыя</ar>
+<ar><k>line justification</k> выроўніванне радкоў (<i>па фармаце</i>)</ar>
+<ar><k>line length</k> фармат радка набору</ar>
+<ar><k>line spacing</k> разгонка радкоў (<i>падвышэнне аб'ёму выдання за кошт павелічэння кегелю, міжрадкоўя, спускаў і г.д.</i>)</ar>
+<ar><k>list</k> каталог кніг</ar>
+<ar><k>list of contents</k> змест</ar>
+<ar><k>list-building</k> 1) намінал; 2) цана згодна з каталогам</ar>
+<ar><k>literal</k> 1) літарны; 2) літаральны; 3) памылка (<i>літарная</i>)</ar>
+<ar><k>literary agency</k> пасярэдніцкае літаратурнае агенцтва</ar>
+<ar><k>literary agent</k> літаратурны агент</ar>
+<ar><k>literary interpretation</k> літаратурны запіс (<i>форма суаўтарства</i>)</ar>
+<ar><k>lithography / litho</k> літаграфія</ar>
+<ar><k>logo</k> фірмовы знак</ar>
+<ar><k>logotype</k> лагатып</ar>
+<ar><k>long grain</k> падоўжная валакністасць (<i>паперы</i>)</ar>
+<ar><k>long primer</k> корпус (<i>шрыфт кегелю 10 пунктаў</i>)</ar>
+<ar><k>look out</k> падбіраць (<i>кнігі</i>)</ar>
+<ar><k>loose cover</k> супервокладка</ar>
+<ar><k>loose-leaf book</k> 1) блок на счэпках; 2) несшытаваная кніга</ar>
+<ar><k>lower case (lc)</k> радковыя літары</ar>
+<ar><k>lump sum</k> поўная сума</ar>
+<ar><k>lwc</k> гл. <a>lightweight cardboard</a></ar>
+<ar><k>M</k> гл. <a>megabyte</a></ar>
+<ar><k>machine direction</k> 1) падоўжны кірунак (<i>адліву паперы</i>);  2) машынны кірунак  (<i>валокнаў паперы</i>)</ar>
+<ar><k>machine-coated paper</k> папера машыннага крэйдавання</ar>
+<ar><k>machine-finished paper (MF paper)</k> папера машыннай гладкасці</ar>
+<ar><k>machine-glazed paper (MG paper)</k> гладкая аднабаковая папера</ar>
+<ar><k>machine-readable codes</k> коды, якія счытвае кампутар</ar>
+<ar><k>machining</k> выраб адбітку на друкарскім прэсе</ar>
+<ar><k>magazine</k> часопіс</ar>
+<ar><k>magenta</k> чырвоны, пурпуровы (<i>у трыядзе</i>)</ar>
+<ar><k>magnetic tape / mag tape</k> магнітная стужка</ar>
+<ar><k>mailing list</k> спіс адрасоў кліентаў</ar>
+<ar><k>mail order catalogue / mail-order catalogue</k> каталог тавараў праз пошту</ar>
+<ar><k>mail shot</k> паштовая рэкламная ўлётка</ar>
+<ar><k>mail-order</k> тавары праз пошту</ar>
+<ar><k>mail-order firm / mail-order house</k> фірма, якая прадае тавары праз пошту</ar>
+<ar><k>mail-order selling / mail-order sales</k> продаж тавараў праз пошту</ar>
+<ar><k>mainframe (computer)</k> цэнтральны кампутар</ar>
+<ar><k>main line</k> новы радок</ar>
+<ar><k>make ready</k> 1) настройваць; 2) рыхтаваць (<i>да друку</i>)</ar>
+<ar><k>make up</k> шыхтаваць (<i>фармаваць палосы набору з тэксту, ілюстрацый, табліц і г.д. на пэўны фармат</i>)</ar>
+<ar><k>make-up editing</k> тэхнічнае рэдагаванне</ar>
+<ar><k>making-up</k> шыхтаванне</ar>
+<ar><k>management</k> 1) кіраванне; 2) кіраўніцтва</ar>
+<ar><k>management accounts</k> фінансавая інфармацыя для менеджэра</ar>
+<ar><k>manager</k> кіраўнік, менеджэр</ar>
+<ar><k>managing director</k> распарадчы дырэктар</ar>
+<ar><k>manual</k>   1) даведнік (<i>дастасоўны</i>); 2) ручны</ar>
+<ar><k>manufacturing</k> машынная вытворчасць</ar>
+<ar><k>manufacturing costs</k> сабекошт вырабу тавару</ar>
+<ar><k>manuscript deposition</k> дэпанаванне рукапісу</ar>
+<ar><k>manuscript (MS)</k> рукапіс</ar>
+<ar><k>manuscript preparation for printing</k> тэхнічная падрыхтоўка выдавецкага арыгінала да вытворчасці (<i>вычытка, тэхнічнае рэдагаванне і г.д.</i>)</ar>
+<ar><k>manuscript reading</k> вычытка</ar>
+<ar><k>many-volumed set</k> шматтамовае выданне</ar>
+<ar><k>marble endpapers</k> мармуровая папера для форзацаў</ar>
+<ar><k>margin</k> 1) поле (<i>на старонцы</i>); 2) запас прасторы або часу</ar>
+<ar><k>marginalia</k> 1) маргіналіі (<i>заўвагі на палях выдання або рукапісу</i>); 2) ліхтарык (<i>рубрыка, размешчаная на полі старонкі</i>)</ar>
+<ar><k>mark down</k> паніжаць (<i>цану</i>)</ar>
+<ar><k>mark down a price</k> паніжаць цану, рабіць паніжку</ar>
+<ar><k>marker pen</k> маркер</ar>
+<ar><k>market</k> 1) рынак; 2) рынак збыту</ar>
+<ar><k>marketing</k> маркетынг</ar>
+<ar><k>marketing manager</k> кіраўнік службы маркетынгу</ar>
+<ar><k>marketing policy / marketing plans</k> маркетынгавая палітыка, маркетынгавае планаванне</ar>
+<ar><k>market research</k> рынкавыя даследванні</ar>
+<ar><k>marks</k> індэксы (<i>падрадковыя і надрадковыя знакі</i>)</ar>
+<ar><k>mark up</k> 1) рабіць макет (<i>схематычны</i>); 2) падвышаць (<i>цану</i>)</ar>
+<ar><k>masking tape</k> ліпкая стужка для маскавання</ar>
+<ar><k>mass market paperback</k> кніга ў папяровай вокладцы (<i>для масавага рынку</i>)</ar>
+<ar><k>mass media</k> сродкі масавай інфармацыі</ar>
+<ar><k>master copy</k> арыгінал</ar>
+<ar><k>match</k> 1) узгадненне (<i>колеру, памеру і г.д.</i>); 2) падбіраць</ar>
+<ar><k>material(s)</k> 1) матэрыял; 2) сыравіна</ar>
+<ar><k>matrix</k> матрыца</ar>
+<ar><k>matrix printer / dot printer</k> кропкавая друкарка</ar>
+<ar><k>matt art paper</k> матавая крэйдаваная папера</ar>
+<ar><k>matter</k> арыгінал</ar>
+<ar><k>matt finish paper</k> матавая папера</ar>
+<ar><k>matt / matte</k> матавы</ar>
+<ar><k>Mb</k> гл. <a>megabyte</a></ar>
+<ar><k>mean line</k> сярэдняя вышыня шрыфту (<i>без вынасных элементаў</i>)</ar>
+<ar><k>measure</k> шырыня слупка</ar>
+<ar><k>mechanical</k> 1) механічны; 2) машынны</ar>
+<ar><k>mechanical paper</k> папера з неапрацаванай драўніны</ar>
+<ar><k>mechanical pulp</k> драўнінная маса</ar>
+<ar><k>mechanical reproduction</k> апаратнае рэпрадукаванне</ar>
+<ar><k>media</k> сродкі масавай інфармацыі</ar>
+<ar><k>medium</k> 1) сродак, спосаб; 2) сярэдні, прамежкавы</ar>
+<ar><k>megabyte (M, Mb)</k> мегабайт (<i>1024 кілабайты</i>)</ar>
+<ar><k>memorandum</k> запіс на памяць</ar>
+<ar><k>memorial edition</k> памятнае выданне</ar>
+<ar><k>memory</k> памяць (<i>кампутара</i>)</ar>
+<ar><k>menu</k> меню (<i>кампутара</i>)</ar>
+<ar><k>menu-driven software</k> праграмы ў рэжыме меню</ar>
+<ar><k>merchandise</k> 1) тавар; 2) гандляваць</ar>
+<ar><k>merchandising rights</k> права на выкарыстанне вобразаў герояў тэлеперадач і кніг для выпуску тавараў</ar>
+<ar><k>merge</k> 1) злучаць, аб'ядноўваць; 2) кампанаваць (<i>файлы</i>)</ar>
+<ar><k>metal paper</k> фольга</ar>
+<ar><k>method of edition</k> метад выдання (<i>характар рэдакцыйна-выдавецкага працэсу</i>)</ar>
+<ar><k>methods handbook</k> практыкум (<i>навучальнае выданне</i>)</ar>
+<ar><k>metric system (the)</k> метрычная сістэма</ar>
+<ar><k>MF paper</k> гл. <a>machine-finished paper</a></ar>
+<ar><k>MG paper</k> гл. <a>machine-glazed paper</a></ar>
+<ar><k>microcomputer</k> мікракампутар</ar>
+<ar><k>microfiche</k> мікрафіша (<i>мікраграфічны носьбіт інфармацыі</i>)</ar>
+<ar><k>microfilm</k> мікрафільм</ar>
+<ar><k>micrographics</k> мікраграфія</ar>
+<ar><k>microprocessor</k> мікрапрацэсар</ar>
+<ar><k>millboard</k> тоўсты кардон</ar>
+<ar><k>mill finishing</k> машыннае глянцаванне (<i>паперы</i>)</ar>
+<ar><k>mimeograph</k> рататар</ar>
+<ar><k>miniature edition</k> мініяцюрнае выданне</ar>
+<ar><k>minicomputer</k> мінікампутар</ar>
+<ar><k>minion</k> міньён (<i>шрыфт кегелю 7 пунктаў</i>)</ar>
+<ar><k>miniweb</k> вузкаролевая афсетная машына</ar>
+<ar><k>miscellanea</k> зборнік мяшанага зместу (<i>з творамі рознага роду або віду літаратуры, напрыклад паэзія, проза, мемуары, ліставанне</i>)</ar>
+<ar><k>misprint</k> 1) памылка друку; 2) няправільна надрукаваць</ar>
+<ar><k>misregister</k> несупадзенне фарбаў (<i>дэфект друку</i>)</ar>
+<ar><k>mock-up</k> макет натуральнага памеру (<i>як у будучай кнізе</i>)</ar>
+<ar><k>modem</k> мадэм</ar>
+<ar><k>moire</k> муар (<i>дэфект растравай выявы ад яе паўторнага рэпрадукавання</i>)</ar>
+<ar><k>moisture content of paper</k> вільготнасць паперы</ar>
+<ar><k>monitor</k> 1) манітор; 2) кантраляваць, назіраць</ar>
+<ar><k>monochrome</k> аднаколерная выява</ar>
+<ar><k>monograph</k> манаграфія</ar>
+<ar><k>montage</k> фотамантаж</ar>
+<ar><k>moral right</k> маральнае права (<i>асабістае немаёмаснае права</i>)</ar>
+<ar><k>motherboard / mainboard</k> матчыная плата</ar>
+<ar><k>motto</k> эпіграф</ar>
+<ar><k>mould-made paper</k> папера ручнога вырабу</ar>
+<ar><k>mount</k> 1) падкладка, аснова; 2) замацоўваць (<i>на падкладцы</i>)</ar>
+<ar><k>mouse</k> «мыш» (<i>кампутарная прылада</i>)</ar>
+<ar><k>MS</k> гл. <a>manuscript</a></ar>
+<ar><k>multicolour</k> шматколерны</ar>
+<ar><k>multilingual</k> шматмоўны</ar>
+<ar><k>multiplexor</k> мультыплексар</ar>
+<ar><k>multivolume edition</k> шматтамовае выданне</ar>
+<ar><k>multi-disk reader</k> універсальны дыскавод</ar>
+<ar><k>NE</k> гл. <a>new edition</a></ar>
+<ar><k>negative</k> негатыў</ar>
+<ar><k>negative film</k> негатыўная плёнка</ar>
+<ar><k>negative reading film</k> негатыўная чытэльная плёнка (<i>з люстраной выявай</i>)</ar>
+<ar><k>negotiate</k> весці перамовы, дамаўляцца</ar>
+<ar><k>negotiation</k> перамовы</ar>
+<ar><k>net</k> 1) нета (<i>чыстая вага</i>); 2) чысты даход; 3) прыносіць чысты даход</ar>
+<ar><k>net book</k> кніга па цвёрдай цане</ar>
+<ar><k>net margin</k> чысты прыбытак</ar>
+<ar><k>net price</k> цвёрдая цана</ar>
+<ar><k>net profit</k> чысты прыбытак</ar>
+<ar><k>net receipts</k> чыстая выручка</ar>
+<ar><k>net sales</k> колькасць прададзеных паасобнікаў (<i>акрамя вернутых і папсаваных</i>)</ar>
+<ar><k>network</k> 1) сетка; 2) схема; 3) ствараць сетку</ar>
+<ar><k>network card</k> сеткавая картка</ar>
+<ar><k>network printer</k> сеткавая друкарка</ar>
+<ar><k>new edition (NE)</k> новае выданне</ar>
+<ar><k>newsletter</k> інфармацыйны бюлетэнь</ar>
+<ar><k>newsprint</k> газетная папера</ar>
+<ar><k>nick</k> сігнатура</ar>
+<ar><k>nonpareil</k> нонпарэль (<i>шрыфт кегелю 6 пунктаў</i>)</ar>
+<ar><k>non-book materials</k> друкаваныя матэрыялы не ў выглядзе кнігі </ar>
+<ar><k>non-bookshop outlets</k> някніжныя крамы, якія гандлююць кнігамі</ar>
+<ar><k>non-fiction</k> дакументальная або навуковая літаратура</ar>
+<ar><k>non-lining figures</k> лічбы, не роўныя па вышыні з загалоўнымі літарамі</ar>
+<ar><k>non-net</k> уцэнены</ar>
+<ar><k>non-payment</k> нясплата</ar>
+<ar><k>non-returnable</k> незваротны</ar>
+<ar><k>norm</k> стандарт</ar>
+<ar><k>normative publication</k> нарматыўна-вытворчае выданне</ar>
+<ar><k>notched binding / notch binding</k> клеевае змацаванне з высечкай шліцаў (<i>у спінцы блока</i>)</ar>
+<ar><k>note</k> 1) нататка, запіс; 2) зноска, заўвага; 3) анатацыя</ar>
+<ar><k>notice</k> 1) паведамленне; 2) паведамляць; 3) папярэджваць пра звальненне</ar>
+<ar><k>not yet published (NYP)</k> яшчэ не выдадзены</ar>
+<ar><k>novel</k> раман</ar>
+<ar><k>novelist</k> раманіст</ar>
+<ar><k>numbered publication</k> нумараванае выданне</ar>
+<ar><k>number of sheets printed</k> колькасць друкаваных аркушаў (<i>у накладзе</i>)</ar>
+<ar><k>numbers</k> індэксы (<i>падрадковыя і надрадковыя</i>)</ar>
+<ar><k>numeral</k> лічба</ar>
+<ar><k>numeric / numerical</k> 1) лічбавы; 2) лікавы</ar>
+<ar><k>NYP</k> гл. <a>not yet published</a></ar>
+<ar><k>obligatory copy</k> абавязковы паасобнік</ar>
+<ar><k>oblique stroke</k> касяк</ar>
+<ar><k>obscenity law</k> закон пра непрыстойнасць</ar>
+<ar><k>OCR</k> гл. <a>optical character reader; optical character recognition</a></ar>
+<ar><k>octavo sheet</k> аркуш (<i>адзінка аб'ёму выдавецкай прадукцыі</i>)</ar>
+<ar><k>octavo (8vo)</k> 1) трохзгінавы сшытак; 2) брашура на 16 старонак</ar>
+<ar><k>odd pages</k> няцотныя старонкі</ar>
+<ar><k>offprint</k> асобны адбітак (<i>артыкула з часопіса</i>)</ar>
+<ar><k>offset</k> 1) сумяшчаць; 2) друкаваць афсетным спосабам</ar>
+<ar><k>offset paper</k> афсетная папера</ar>
+<ar><k>offset printing</k> афсетны друк</ar>
+<ar><k>off-centre</k> зрушаны, не ў цэнтры</ar>
+<ar><k>off-line</k> аўтаномны (<i>некантраляваны кампутарам</i>)</ar>
+<ar><k>off-line printing</k> друкарскі працэс, які не кантралюецца кампутарам</ar>
+<ar><k>old style figures</k> інда-арабскія лічбы старога напісання</ar>
+<ar><k>omit</k> прапускаць</ar>
+<ar><k>omnibus</k> зборнік</ar>
+<ar><k>omnibus volume</k> аднатамовік (<i>выбраныя творы аднаго аўтара</i>)</ar>
+<ar><k>on account</k> авансам</ar>
+<ar><k>on approval</k> для спробы</ar>
+<ar><k>on credit</k> у крэдыт</ar>
+<ar><k>one-off</k> адзіны</ar>
+<ar><k>one-shot periodical rights</k> права на аднаразовае выкарыстанне тэксту ў газеце або часопісе</ar>
+<ar><k>one-sided art paper</k> папера аднабаковага крэйдавання</ar>
+<ar><k>one-volume edition</k> аднатамовае выданне</ar>
+<ar><k>on-demand publishing</k> друк кнігі ў залежнасці ад попыту</ar>
+<ar><k>on-line / on line</k> у сістэмным рэжыме, неаўтаномна</ar>
+<ar><k>OP</k> гл. <a>out of print</a></ar>
+<ar><k>opacity</k> непразрыстасць</ar>
+<ar><k>opaque</k> непразрысты</ar>
+<ar><k>opening</k> разгорт</ar>
+<ar><k>opening stock</k> пачатковы запас</ar>
+<ar><k>open market</k> вольны рынак</ar>
+<ar><k>open-ended / open-end</k> 1) неўдакладнены; 2) незакончаны</ar>
+<ar><k>operating costs / operating expenses</k> пабежныя выдаткі</ar>
+<ar><k>operating loss</k> пабежныя страты</ar>
+<ar><k>operating profit</k> пабежны прыбытак</ar>
+<ar><k>operation</k> 1) аперацыя; 2) праца</ar>
+<ar><k>opposite page</k> старонкі разгорту</ar>
+<ar><k>optical character reader (OCR)</k> аптычная счытвальная прылада</ar>
+<ar><k>optical character recognition (OCR)</k> аптычнае распазнаванне сімвалаў</ar>
+<ar><k>option</k> 1) выбар, права выбару; 2) апцыён</ar>
+<ar><k>option clause</k> абумоўлены апцыён</ar>
+<ar><k>order</k> 1) замова; 2) замоўлены тавар; 3) інструкцыя</ar>
+<ar><k>ordered edition</k> выданне, зробленае на замову</ar>
+<ar><k>original</k> 1) выдавецкі арыгінал; 2) першае выданне ў папяровай вокладцы; 3) першапачатковы</ar>
+<ar><k>origination</k> стварэнне выдавецкага арыгінала</ar>
+<ar><k>origination costs</k> выдаткі на стварэнне выдавецкага арыгінала</ar>
+<ar><k>ornamented typeface</k> дэкараваны шрыфт</ar>
+<ar><k>orphan</k> віслы радок</ar>
+<ar><k>OS</k> гл. <a>out of stock</a></ar>
+<ar><k>outer forme</k> форма для друку на правым баку аркуша</ar>
+<ar><k>outer margin</k> пярэдняе (<i>вонкавае</i>) поле</ar>
+<ar><k>outlay</k> 1) выдаткі; 2) выдаткоўваць</ar>
+<ar><k>outlet</k> гандлёвае прадпрыемства</ar>
+<ar><k>outline</k> 1) кароткае апісанне; 2) абрыс ілюстрацыі; 3) апісваць агульнымі словамі; 4) абрысоўваць (<i>ілюстрацыю</i>)</ar>
+<ar><k>outline map</k> карта-схема</ar>
+<ar><k>out of copyright</k> без аўтарскіх правоў (<i>надпіс</i>)</ar>
+<ar><k>out of date</k> састарэлы</ar>
+<ar><k>out of print (OP)</k> кніга, прададзеная выдаўцом і не запланаваная для перавыдання</ar>
+<ar><k>out of register</k> несумешчаны (<i>з адхіленнямі ад прыводкі</i>)</ar>
+<ar><k>out of stock (OS)</k> 1) адсутны на складзе; 2) прададзены</ar>
+<ar><k>output</k> 1) прадукаванне; 2) вывад дадзеных; 3) выводзіць дадзеныя</ar>
+<ar><k>outside margin</k> пярэдняе (<i>вонкавае</i>) поле</ar>
+<ar><k>outside reader</k> вонкавы рэцэнзент</ar>
+<ar><k>outstanding</k> пратэрмінаваны, нясплочаны</ar>
+<ar><k>outturn sheets / outturns</k> спробныя адбіткі на зацвярджэнне (<i>выдаўцом або кнігагандляром</i>)</ar>
+<ar><k>outwork</k> пазаштатная праца</ar>
+<ar><k>overdue</k> пратэрмінаваны (<i>пра вэксаль, пазыку</i>)</ar>
+<ar><k>overexpose</k> ператрымліваць (<i>фотаадбіткі</i>)</ar>
+<ar><k>overink</k> перанасычаць фарбай</ar>
+<ar><k>overlay</k> прыпраўка</ar>
+<ar><k>overmatter</k> перапаўненне (<i>радкоў</i>)</ar>
+<ar><k>overprint</k> 1) друкаваць зверху (<i>на малюнку або на тэксце</i>); 2) дадрукоўваць (<i>друкаваць звыш накладу</i>); 3) дадрукоўванне</ar>
+<ar><k>overs</k> паасобнікі звыш накладу (<i>для замены браку</i>)</ar>
+<ar><k>overset</k> перапаўненне (<i>радкоў</i>)</ar>
+<ar><k>overstock</k> 1) лішкі запасу (<i>на складзе</i>); 2) мець лішкі (<i>на складзе</i>)</ar>
+<ar><k>oxidation</k> аксідацыя, акісленне</ar>
+<ar><k>pack</k> 1) пакунак, пачак; 2) пакаваць; 3) дэманстрацыйны модуль</ar>
+<ar><k>package</k> 1) пасылка; 2) пакет (<i>пытанняў, прапановаў</i>)</ar>
+<ar><k>package deal</k> пакет (<i>пытанняў, прапановаў</i>)</ar>
+<ar><k>packager</k> фірма, якая пакуе кнігі для друкарні</ar>
+<ar><k>packing</k> 1) пакаванне; 2) пакавальны матэрыял</ar>
+<ar><k>page</k> 1) старонка; 2) палоса (<i>набору</i>); 3) шыхтаваць па палосах</ar>
+<ar><k>page break</k> мяжа старонкі</ar>
+<ar><k>page depth</k> даўжыня палосы набору (<i>ад загалоўка ці калонтытула да калонлічбы</i>)</ar>
+<ar><k>page inset</k> укладка (<i>аркуш, які ўкладваецца ў выданне</i>)</ar>
+<ar><k>page make-up</k> шыхтаванне па палосах</ar>
+<ar><k>page number</k> калонлічба</ar>
+<ar><k>page numbering</k> нумарацыя старонак</ar>
+<ar><k>page proofs</k> адбітак палосы</ar>
+<ar><k>pages per inch (ppi)</k> старонак на цалю (<i>пухкасць паперы</i>)</ar>
+<ar><k>pages (pp)</k> старонкі</ar>
+<ar><k>paginate</k> 1) нумараваць старонкі; 2) разбіваць тэкст на старонкі</ar>
+<ar><k>pagination</k> 1) нумарацыя старонак; 2) вёрстка па палосах</ar>
+<ar><k>palette</k> палітра</ar>
+<ar><k>pallet</k> паддон</ar>
+<ar><k>palletize</k> 1) складваць на паддоны; 2) перавозіць на паддонах</ar>
+<ar><k>pamphlet</k> 1) брашура; 2) памфлет</ar>
+<ar><k>paper</k> папера</ar>
+<ar><k>paperback</k> таннае выданне (<i>у мяккай вокладцы</i>)</ar>
+<ar><k>paperback rights</k> права на таннае выданне (<i>той кнігі, якая раней выдавалася ў аправе</i>)</ar>
+<ar><k>paper merchant</k> прадавец паперы</ar>
+<ar><k>paper mill</k> паперня (<i>папяровая фабрыка</i>)</ar>
+<ar><k>paper tape</k> перфастужка</ar>
+<ar><k>paper-bound / paper-covered</k> у мяккай вокладцы</ar>
+<ar><k>paragraph</k> 1) абзац; 2) параграф; 3) знак §</ar>
+<ar><k>paragraph mark / paragraph opener</k> пазнака абзаца</ar>
+<ar><k>parallel edition</k> паралельнае выданне (<i>дзе аднолькавы тэкст пададзены на розных мовах</i>)</ar>
+<ar><k>parallel folding</k> паралельнае фальцаванне</ar>
+<ar><k>parentheses</k> круглыя дужкі</ar>
+<ar><k>part</k> частка</ar>
+<ar><k>part delivery / part order / part shipment</k> частковая пастаўка</ar>
+<ar><k>part payment</k> выплата ратамі (<i>па частках</i>)</ar>
+<ar><k>partwork</k> выданне па частках</ar>
+<ar><k>part-time</k> няпоўны працоўны дзень</ar>
+<ar><k>pass for press</k> здаваць у друкарню</ar>
+<ar><k>paste-down</k> форзац</ar>
+<ar><k>paste-in</k> 1) уклейка; 2) наклейка</ar>
+<ar><k>paste-up</k> 1) шыхтаваць (<i>фармаваць палосы набору з тэксту, ілюстрацый, табліц і г.д. на пэўны фармат</i>); 2) мантаж; 3) рабіць мантаж; 4) фотаформа</ar>
+<ar><k>payment terms</k> умовы аплаты</ar>
+<ar><k>PC</k> гл. <a>personal computer</a></ar>
+<ar><k>pearl</k> перл (<i>шрыфт кегелю 5 пунктаў</i>)</ar>
+<ar><k>penalty clause</k> артыкул (<i>дамовы</i>) пра штрафныя санкцыі</ar>
+<ar><k>pen name</k> псеўданім</ar>
+<ar><k>perfect</k> 1) паляпшаць; 2) выключны, ідэальны</ar>
+<ar><k>perfect binding</k> клеевае змацаванне блока</ar>
+<ar><k>perfect bound</k> змацаваны клеем (<i>блок</i>)</ar>
+<ar><k>perfector / perfecting press</k> двухбаковая друкарская машына</ar>
+<ar><k>perforate</k> перфараваць</ar>
+<ar><k>perforated tape</k> перфастужка</ar>
+<ar><k>perforating machine</k> перфаратар</ar>
+<ar><k>perforation</k> перфарацыя</ar>
+<ar><k>performing rights</k> права на сцэнічнае ўзнаўленне</ar>
+<ar><k>period</k> перыяд</ar>
+<ar><k>periodic / periodical</k> 1) часопіс, перыядычнае выданне; 2) перыядычны</ar>
+<ar><k>permission</k> дазвол</ar>
+<ar><k>permission fee</k> плата за права ўзнаўлення (<i>твораў, якія ахоўваюцца аўтарскім правам</i>)</ar>
+<ar><k>permissions department</k> юрыдычны аддзел выдавецтва (<i>па пытаннях аўтарскіх правоў і дазволаў</i>)</ar>
+<ar><k>permit</k> 1) дазвол; 2) дазваляць</ar>
+<ar><k>personal computer (PC)</k> персанальны кампутар</ar>
+<ar><k>petit</k> петыт (<i>шрыфт кегелю 8 пунктаў</i>)</ar>
+<ar><k>pH</k> (<i>вадародны паказальнік</i>) pH</ar>
+<ar><k>photocomposition</k> фотанабор</ar>
+<ar><k>photocopy</k> 1) фотакопія; 2) фотакапіяваць</ar>
+<ar><k>photographer</k> фатограф</ar>
+<ar><k>photographic composition / photomechanical composition</k> фотанабор</ar>
+<ar><k>photograph / photo</k> 1) фотаздымак; 2) здымаць</ar>
+<ar><k>photomechanical transfer (PMT)</k> дыяпазітывы, атрыманыя фотамеханічным спосабам</ar>
+<ar><k>photopolymer plate</k> фотапалімернае клішэ</ar>
+<ar><k>photosetting</k> фотанабор</ar>
+<ar><k>phototypesetter</k> 1) фотанаборная машына; 2) фірма, якая спецыялізуецца на фотанаборы</ar>
+<ar><k>phototypesetting</k> фотанабор</ar>
+<ar><k>photo-offset</k> плоскі афсетны друк</ar>
+<ar><k>phrase book</k> размоўнік</ar>
+<ar><k>pica</k> цыцэра (<i>шрыфт кегелю 12 пунктаў</i>)</ar>
+<ar><k>picking</k> 1) падбор замовы; 2) спіс тавараў з паказаннем іх месца на складзе</ar>
+<ar><k>pictorial</k> 1) выяўленчы; 2) ілюстрацыйны</ar>
+<ar><k>picture</k> 1) выява (<i>друкаваная або маляваная</i>); 2) уяўляць (<i>рэч, падзею</i>)</ar>
+<ar><k>picture element (pixel)</k> элемент выявы (<i>піксел</i>)</ar>
+<ar><k>picture library</k> збор карцін, пінакатэка</ar>
+<ar><k>picture research</k> падбор фотаздымкаў</ar>
+<ar><k>picture-card</k> паштоўка (<i>выяўленчая</i>)</ar>
+<ar><k>picturization book rights</k> права на выданне кнігі выяваў або коміксаў (<i>якія раней друкаваліся ў газеце</i>)</ar>
+<ar><k>piece-work fee</k> акордавы ганарар</ar>
+<ar><k>pigment</k> пігмент</ar>
+<ar><k>pin register</k> прыводка па штыфтах</ar>
+<ar><k>piracy</k> пірацтва</ar>
+<ar><k>pirate</k> 1) пірат (<i>той, хто незаконна вырабляе або прадае тавары, якія ахоўваюцца аўтарскім правам</i>); 2) вырабляць па-пірацку</ar>
+<ar><k>pitch</k> крок размяшчэння літары ў радку (<i>звычайна 10, 12 або 17 знакаў на цалю</i>)</ar>
+<ar><k>pixel</k> піксэл (<i>элемент выявы</i>)</ar>
+<ar><k>placard</k> 1) плакат; 2) афіша</ar>
+<ar><k>plagiarism</k> плагіят</ar>
+<ar><k>plan</k> 1) план, схема; 2) рысунак; 3) планаваць</ar>
+<ar><k>plant costs</k> 1) кошт абсталявання; 2) цвёрдыя цэны (<i>на выданне кнігі</i>)</ar>
+<ar><k>plastic</k> пластык, пластмаса</ar>
+<ar><k>plate</k> 1) клішэ; 2) друкарская форма</ar>
+<ar><k>plate cylinder</k> формавы цыліндр</ar>
+<ar><k>platen</k> папераапорны валік</ar>
+<ar><k>plate-making</k> выраб друкарскіх формаў</ar>
+<ar><k>plc</k> гл. <a>private limited company; public limited company</a></ar>
+<ar><k>plug</k> рэкламаваць</ar>
+<ar><k>PMT</k> гл. <a>photomechanical transfer</a></ar>
+<ar><k>pocket book</k> кніга кішэннага фармату</ar>
+<ar><k>point</k> 1) кропка (<i>знак прыпынку</i>); 2) пункт (<i>адзінка вымярэння</i>)</ar>
+<ar><k>point size</k> кегель шрыфту</ar>
+<ar><k>point-of-sail material</k> рэкламны матэрыял у краме</ar>
+<ar><k>point-of-sale (POS, p.o.s.)</k> пункт продажу (<i>у краме</i>)</ar>
+<ar><k>polygraphic presentation</k> паліграфічнае выкананне (<i>выдання</i>)</ar>
+<ar><k>pop-up book</k> кніжка-панарама (<i>кніга, у якой малюнкі ўздымаюцца, калі адгортваюцца старонкі</i>)</ar>
+<ar><k>pornography</k> парнаграфія</ar>
+<ar><k>portrait</k> 1) партрэт; 2) апісанне (<i>каго-небудзь</i>)</ar>
+<ar><k>portrait format</k> вертыкальны фармат</ar>
+<ar><k>positive</k> 1) пазітыў; 2) пазітыўны</ar>
+<ar><k>positive film</k> пазітыўная стужка</ar>
+<ar><k>positive reading</k> просты, нелюстраны (<i>пра выяву або тэкст</i>)</ar>
+<ar><k>POS / p.o.s.</k> гл. <a>point-of-sale</a></ar>
+<ar><k>postage</k> паштовая аплата</ar>
+<ar><k>postal charges / postal rates</k> паштовыя выдаткі</ar>
+<ar><k>poster</k> 1) плакат; 2) афіша; 3) насценная рэклама</ar>
+<ar><k>poster paper</k> плакатная (<i>крэйдаваная аднабаковая</i>) папера</ar>
+<ar><k>posthumous edition</k> пасмяротнае выданне</ar>
+<ar><k>pp</k> гл. <a>pages</a></ar>
+<ar><k>ppi</k> гл. <a>pages per inch</a></ar>
+<ar><k>PR</k> гл. <a>public relations</a></ar>
+<ar><k>preface</k> 1) прадмова; 2) пісаць прадмову; 3) рабіць папярэднія заўвагі</ar>
+<ar><k>prefix</k> 1) прыстаўка; 2) прэфікс (<i>слова перад імем, якое абазначае статус або годнасць асобы: Dr., Sir і да т.п.</i>)</ar>
+<ar><k>prejudice</k> 1) страты; 2) наносіць страты (<i>каму-небудзь</i>)</ar>
+<ar><k>preliminary pages / prelims</k> 1) тытульныя элементы кнігі; 2) друкаваныя старонкі перад асноўным тэкстам у кнізе</ar>
+<ar><k>preliminary table of contents</k> папярэдні змест (<i>пералік усіх загалоўкаў арыгінала з улікам іх падпарадкаванасці</i>)</ar>
+<ar><k>prepaid</k> з папярэдняй аплатай</ar>
+<ar><k>prepayment</k> папярэдняя аплата</ar>
+<ar><k>prescription</k> інструкцыя (<i>нарматыўна-вытворчае выданне</i>)</ar>
+<ar><k>presensitized</k> папярэдне сенсібілізаваны (<i>пра пласціны</i>)</ar>
+<ar><k>presentation copy</k> прэзентацыйны (<i>прадстаўнічы</i>) паасобнік</ar>
+<ar><k>press</k> 1) друкарскі варштат; 2) друкарня; 3) выдавецтва (<i>пры навуковай арганізацыі або ўніверсітэцкае</i>)</ar>
+<ar><k>press conference</k> прэс-канферэнцыя</ar>
+<ar><k>press costs</k> выдаткі на друк</ar>
+<ar><k>press cutting</k> выразка (<i>газетная, часопісная</i>)</ar>
+<ar><k>press proofs</k> 1) сігнальны паасобнік; 2) кантрольны паасобнік</ar>
+<ar><k>press release</k> паведамленне для друку</ar>
+<ar><k>pre-press</k> перад друкаваннем</ar>
+<ar><k>pre-press costs</k> кошты працэсаў перад друкаваннем</ar>
+<ar><k>pre-publication</k> перад выхадам кнігі</ar>
+<ar><k>price</k> 1) цана; 2) прызначаць цану</ar>
+<ar><k>price fixing</k> дамова паміж кампаніямі пра цану (<i>на тавары-канкурэнты</i>)</ar>
+<ar><k>price list</k> прэйскурант</ar>
+<ar><k>pricing policy</k> палітыка цэнаў</ar>
+<ar><k>primary publishing</k> выданне падручнікаў для пачатковай школы</ar>
+<ar><k>print</k> 1) адбітак; 2) друкаваны тэкст; 3) пазітыўны фотаадбітак; 4) друкаваць (<i>на друкарскай машыне</i>)</ar>
+<ar><k>printed blanks / printed forms</k> бланкавая прадукцыя</ar>
+<ar><k>printed music</k> нотнае выданне</ar>
+<ar><k>printed output / printed production</k> друкаваная прадукцыя</ar>
+<ar><k>printed sheet capacity</k> ёмістасць друкаванага аркуша</ar>
+<ar><k>printer</k> 1) друкар; 2) прынтар; 3) паліграфічная фірма</ar>
+<ar><k>printer's corrections</k> друкарская карэктура</ar>
+<ar><k>printer's error</k> друкарская памылка</ar>
+<ar><k>printer's imprint</k> выпускныя дадзеныя</ar>
+<ar><k>printing</k> 1) друкарская справа; 2) наклад</ar>
+<ar><k>printing method / printing process / printing technique</k> спосаб друку</ar>
+<ar><k>printing press</k> 1) друкарскі варштат; 2) паліграфічная фірма</ar>
+<ar><k>printing sequence</k> паслядоўнасць друку колераў</ar>
+<ar><k>printing trade (the)</k> 1) паліграфічная вытворчасць; 2) гандаль друкаванай прадукцыяй</ar>
+<ar><k>printing works</k> друкарня</ar>
+<ar><k>print number</k> наклад (<i>тыраж</i>)</ar>
+<ar><k>print of a sheet</k> аркуш-адбітак</ar>
+<ar><k>print order</k> замова на наклад</ar>
+<ar><k>printout</k> раздрукоўка</ar>
+<ar><k>print out</k> раздрукоўваць</ar>
+<ar><k>print run</k> наклад</ar>
+<ar><k>private limited company (plc)</k> прыватнае таварыства з абмежаванай адказнасцю</ar>
+<ar><k>process</k> 1) працэс; 2) спосаб</ar>
+<ar><k>process camera</k> рэпрадукцыйны фотаапарат</ar>
+<ar><k>process colours</k> асноўныя колеры</ar>
+<ar><k>process engraving</k> выраб клішэ фотамеханічным спосабам</ar>
+<ar><k>processing</k> 1) апрацоўка інфармацыі; 2) праяўленне  плёнкі і друк з негатыва</ar>
+<ar><k>product</k> 1) выраб; 2) тавар</ar>
+<ar><k>production</k> вытворчасць</ar>
+<ar><k>production costs</k> 1) вытворчыя выдаткі; 2) сабекошт вырабу тавару</ar>
+<ar><k>production department</k> вытворчы аддзел</ar>
+<ar><k>production manager</k> загадчык вытворчага аддзела</ar>
+<ar><k>production process</k> вытворчы працэс</ar>
+<ar><k>professional books / professional list</k> кнігі па прафесіях</ar>
+<ar><k>profile</k> кароткае паведамленне (<i>пра аўтара, кнігу</i>)</ar>
+<ar><k>profit</k> прыбытак, даход</ar>
+<ar><k>profit and loss</k> прыбыткі і страты</ar>
+<ar><k>pro forma / pro forma invoice</k> рахунак-фактура (<i>на папярэднюю аплату</i>)</ar>
+<ar><k>program / programme</k> 1) праграма; 2) складаць праграму, праграмаваць</ar>
+<ar><k>progressive proofs / progressives / progs</k> камплект спробных адбіткаў з усіх колерападзельных формаў</ar>
+<ar><k>project</k> праект</ar>
+<ar><k>projected sales</k> меркаваны продаж</ar>
+<ar><k>promote</k> 1) рэкламаваць; 2) спрыяць кар'ернаму росту</ar>
+<ar><k>promotion</k> 1) прамоцыя, рэкламаванне тавару; 2) кар'ерны рост</ar>
+<ar><k>promotional</k> рэкламны, прамацыйны</ar>
+<ar><k>promotion copies</k> рэкламныя паасобнікі (<i>кнігі</i>)</ar>
+<ar><k>proof</k> 1) карэктура; 2) спробны адбітак (<i>з гравюры</i>)</ar>
+<ar><k>proof copy / proof sheet</k> карэктурны адбітак</ar>
+<ar><k>proofing</k> выраб карэктурных (<i>спробных</i>) адбіткаў</ar>
+<ar><k>proofread</k> чытаць карэктуру</ar>
+<ar><k>proofreader</k> карэктар</ar>
+<ar><k>proofreader's marks</k> пазнакі карэктара</ar>
+<ar><k>proofreading</k> чытанне карэктуры</ar>
+<ar><k>prospectus</k> праспект (<i>выдання, установы, фірмы і да т.п.</i>)</ar>
+<ar><k>protect</k> абараняць, ахоўваць</ar>
+<ar><k>pseudonym</k> псеўданім</ar>
+<ar><k>pubdate</k> гл. <a>publication date</a></ar>
+<ar><k>publication</k> 1) публікацыя (<i>твор, надрукаваны ў перыёдыцы або асобнай кнігай ці брашурай</i>); 2) выданне (<i>паліграфічна асобна аформленае</i>); 3) выпуск у свет (<i>апублікаванне</i>)</ar>
+<ar><k>publication date (pubdate)</k> 1) тэрмін выдання кнігі; 2) дата пачатку продажу; 3) дзень выхаду (<i>газеты, часопіса</i>)</ar>
+<ar><k>publication title</k> назоў (<i>выдання</i>)</ar>
+<ar><k>publication volume</k> аб'ём выдання</ar>
+<ar><k>public domain</k> грамадская ўласнасць (<i>аўтарскае права не ахоўваецца</i>)</ar>
+<ar><k>publicity</k> рэклама</ar>
+<ar><k>publicity band</k> рэкламны паясок</ar>
+<ar><k>publicity budget</k> выдаткі на рэкламу</ar>
+<ar><k>publicity campaign</k> рэкламная кампанія</ar>
+<ar><k>publicity copy</k> тэкст рэкламы (<i>да здачы ў друк</i>)</ar>
+<ar><k>publicity department</k> аддзел рэкламы</ar>
+<ar><k>public library system</k> сетка грамадскіх бібліятэк</ar>
+<ar><k>public limited company (plc)</k> дзяржаўная кампанія з абмежаванай адказнасцю</ar>
+<ar><k>public relations (PR)</k> служба сувязі з грамадскасцю</ar>
+<ar><k>publish</k> 1) выдаваць, публікаваць; 2) пускаць у абарачэнне</ar>
+<ar><k>publisher</k> 1) выдавец; 2) уласнік газеты</ar>
+<ar><k>publishers signature</k> улікова-выдавецкі аркуш</ar>
+<ar><k>publisher's corrections</k> выдавецкая праўка</ar>
+<ar><k>publishing</k> выдавецкая справа</ar>
+<ar><k>publishing company / publishing house</k> выдавецтва</ar>
+<ar><k>publishing contract</k> выдавецкае пагадненне (<i>кантракт</i>)</ar>
+<ar><k>publishing house output</k> выдавецкая прадукцыя</ar>
+<ar><k>publishing trade</k> выдавецкі бізнэс (<i>у тым ліку кнігагандаль</i>)</ar>
+<ar><k>pull</k> спробны адбітак</ar>
+<ar><k>pulp</k> 1) пульпа (<i>папяровая або драўнінная маса</i>); 2) вырабляць паперу з макулатуры; 3) перапрацоўваць у пульпу</ar>
+<ar><k>pulp board / pulp card</k> кардон з валакністай масы</ar>
+<ar><k>pulp fiction</k> танная літаратура</ar>
+<ar><k>punching-out</k> штанцаванне (<i>наданне друкаванай прадукцыі фігурнай формы шляхам высечкі фасоннымі нажамі-штампамі</i>)</ar>
+<ar><k>punctuation</k> 1) пунктуацыя; 2) знакі прыпынку</ar>
+<ar><k>punctuation mark</k> знак прыпынку</ar>
+<ar><k>purchase ledger</k> кніга выдаткаў</ar>
+<ar><k>quad / quadrat</k> квадрат (<i>48 пунктаў</i>)</ar>
+<ar><k>quality control</k> кантроль якасці</ar>
+<ar><k>quantity</k> колькасць</ar>
+<ar><k>quantity discount</k> паніжка на буйную партыю</ar>
+<ar><k>quarter</k> 1) квартал; 2) чвэрць</ar>
+<ar><k>quarter binding</k> камбінаванае вечка аправы (<i>з скураной спінкай і старонкамі, пакрытымі паперай або тканінай</i>)</ar>
+<ar><k>quarterly</k> 1) штоквартальны; 2) часопіс-штоквартальнік</ar>
+<ar><k>quarter-bound book</k> кніга ў камбінаванай аправе</ar>
+<ar><k>quarto (4o)</k> 1) чацвертая доля аркуша; 2) фарматам чацвертай долі аркуша</ar>
+<ar><k>query</k> пытальнік (<i>карэктурная пазнака «просьба праверыць тэкст»</i>)</ar>
+<ar><k>question mark</k> пытальнік</ar>
+<ar><k>questionnaire</k> анкета</ar>
+<ar><k>quire</k> друкаваны аркуш</ar>
+<ar><k>quotation</k> 1) цытата; 2) разлік (<i>калькуляцыя</i>); 3) ацэнка</ar>
+<ar><k>quotation marks</k> двукоссе</ar>
+<ar><k>rерrо</k> выдавецкі арыгінал</ar>
+<ar><k>rack</k> стэнд</ar>
+<ar><k>radiation drying</k> сушэнне з дапамогай прамянёў (<i>ультрафіялетавых або інфрачырвоных</i>)</ar>
+<ar><k>radio and TV rights</k> права на адаптацыю тэксту для радыё і тэлебачання</ar>
+<ar><k>random access</k> адвольны (<i>выпадковы</i>) доступ</ar>
+<ar><k>range</k> выроўніваць радок (<i>па краі набору</i>)</ar>
+<ar><k>range left or range right</k> выключка радка (<i>улева або ўправа</i>)</ar>
+<ar><k>rate card</k> расцэнкі на публікацыю рэкламы</ar>
+<ar><k>raw materials</k> сыравіна</ar>
+<ar><k>reader</k> 1) рэцэнзент; 2) карэктар; 3) хрэстаматыя, анталогія</ar>
+<ar><k>readership</k> чытацкая аўдыторыя (<i>кола чытачоў</i>)</ar>
+<ar><k>reading book</k> кніга для чытання (<i>навучальны дапаможнік</i>)</ar>
+<ar><k>reading copy</k> спробны рэкламны адбітак</ar>
+<ar><k>"ready for press"</k> «у друк» (<i>дазвол друкаваць на падпісной карэктуры</i>)</ar>
+<ar><k>real time</k> рэальны час</ar>
+<ar><k>ream</k> стос паперы або кардону</ar>
+<ar><k>receipt</k> распіска</ar>
+<ar><k>recommended retail price</k> рэкамендаваная раздробная цана</ar>
+<ar><k>record</k> 1) справаздача; 2) запіс; 3) запісваць</ar>
+<ar><k>recording rights</k> права на гуказапіс музычнага або літаратурнага твора</ar>
+<ar><k>recto</k> правая (<i>няцотная</i>) старонка</ar>
+<ar><k>recycled paper</k> другасная папера (<i>зробленая з макулатуры</i>)</ar>
+<ar><k>reduce</k> змяншаць, паніжаць (<i>цэны</i>)</ar>
+<ar><k>reduction</k> памяншэнне, паніжка (<i>цэнаў</i>)</ar>
+<ar><k>reel</k> 1) рулон; 2) шпуля</ar>
+<ar><k>refer</k> 1) спасылацца; 2) мець дачыненні; 3) адгукацца</ar>
+<ar><k>referee</k> арбітр, суддзя</ar>
+<ar><k>reference</k> 1) спасылка, зноска; 2) рэкамендацыя</ar>
+<ar><k>reference aid / reference tool</k> даведкавы дапаможнік</ar>
+<ar><k>reference book</k> даведнік</ar>
+<ar><k>reference edition</k> даведкавае выданне</ar>
+<ar><k>reference mark</k> знак зноскі</ar>
+<ar><k>reflectory copy</k> непразрысты арыгінал</ar>
+<ar><k>reformat</k> перафарматоўваць (<i>змяняць фармат тэксту або тэхнічнае афармленне выдання</i>)</ar>
+<ar><k>refuse</k> зрэзіва (<i>пашкоджаныя пласты паперы, якія зразаюцца ў працэсе падрыхтоўкі</i>)</ar>
+<ar><k>register</k> 1) лясэ; 2) закладка; 3) сумяшчэнне (<i>прыводка</i>)</ar>
+<ar><k>register mark</k> рэгістрацыйная адзнака</ar>
+<ar><k>register marks</k> пазнакі для сумяшчэння</ar>
+<ar><k>regrouping of line arrangement</k> перашыхтоўванне (<i>у сувязі з праўкай</i>)</ar>
+<ar><k>reimpose</k> перашыхтоўваць</ar>
+<ar><k>reimposition</k> перашыхтоўванне (<i>у сувязі з праўкай</i>)</ar>
+<ar><k>reissue</k> 1) перавыданне; 2) перавыдаваць</ar>
+<ar><k>rejection</k> адхіленая кніга</ar>
+<ar><k>release</k> выхад выдання з друку</ar>
+<ar><k>remainder</k> 1) рэшткі накладу; 2) прадаваць рэшткі па паніжаным кошце</ar>
+<ar><k>remainder house / remainder merchant</k> рэшткавы гандляр (<i>кнігагандляр, які купляе ў выдаўца непрададзеныя кнігі па нізкім кошце з мэтай перапродажу</i>)</ar>
+<ar><k>remarks</k> заўвагі</ar>
+<ar><k>renew</k> узнаўляць (<i>падпіску</i>)</ar>
+<ar><k>renewal</k> узнаўленне (<i>падпіскі</i>)</ar>
+<ar><k>reorder</k> 1) паўторная замова; 2) паўторна замаўляць</ar>
+<ar><k>report</k> 1) даклад; 2) справаздача; 3) паведамленне; 4) рабіць справаздачу</ar>
+<ar><k>represent</k> быць прадстаўніком</ar>
+<ar><k>representative</k> 1) прадстаўнічы; 2) характэрны</ar>
+<ar><k>reprint</k> 1) паўторны наклад; 2) перадрук; 3) стэрэатыпнае выданне; 4) перадрукоўваць; 5) перавыдаваць</ar>
+<ar><k>reproduce</k> узнаўляць</ar>
+<ar><k>reproduction</k> 1) узнаўленне, рэпрадукаванне; 2) рэпрадукцыя (<i>адбітак</i>)</ar>
+<ar><k>reproduction fee</k> аплата за дазвол на ўзнаўленне</ar>
+<ar><k>reproduction proof / reproduction pull / repro pull</k> адбітак для фотарэпрадукавання</ar>
+<ar><k>reproduction rights</k> права на ўзнаўленне (<i>ілюстрацыяў або тэксту</i>)</ar>
+<ar><k>reprography</k> рэпраграфія</ar>
+<ar><k>repro paper</k> папера для спробных адбіткаў ілюстрацыяў</ar>
+<ar><k>rep / sales representative</k> раз'язны гандлёвы агент</ar>
+<ar><k>research</k> 1) даследванні; 2) даследваць</ar>
+<ar><k>reserve</k> адкладваць, рэзерваваць</ar>
+<ar><k>reset</k> перанабіраць</ar>
+<ar><k>resetting</k> 1) пераналадка; 2) паўторны набор</ar>
+<ar><k>resolution</k> рэзкасць (<i>выявы</i>)</ar>
+<ar><k>restrict</k> абмяжоўваць</ar>
+<ar><k>retail</k> 1) раздробны продаж; 2) прадаваць раздробна</ar>
+<ar><k>retail catalogue</k> прэйскурант</ar>
+<ar><k>retailer</k> раздробны гандляр</ar>
+<ar><k>retail price</k> раздробны кошт</ar>
+<ar><k>retail shop / retail outlet</k> крама, што гандлюе ўраздроб</ar>
+<ar><k>retain</k> захоўваць (<i>права</i>)</ar>
+<ar><k>retouch</k> рэтушаваць</ar>
+<ar><k>retouching</k> рэтушаванне</ar>
+<ar><k>return</k> 1) зварот; 2) даход з капіталаўкладанняў; 3) вяртаць</ar>
+<ar><k>returns</k> вяртанне непрададзеных выданняў</ar>
+<ar><k>returns policy</k> палітыка выдаўца ў дачыненні да вяртання кніг гандлярамі</ar>
+<ar><k>reversal film</k> абарачальная плёнка</ar>
+<ar><k>reverse of title</k> адгорт тытульнага аркуша</ar>
+<ar><k>reverse reading</k> люстраная выява</ar>
+<ar><k>reversion</k> вяртанне (<i>уласнасці</i>) ранейшаму ўладальніку</ar>
+<ar><k>reversion of copyright</k> вяртанне правоў аўтару (<i>калі выдаўцу не ўдалося выдаць кнігу</i>)</ar>
+<ar><k>revert</k> вяртаць, перадаваць (<i>уласнасць ранейшаму ўладальніку</i>)</ar>
+<ar><k>review</k> 1) агляд; 2) рэцэнзія; 3) праглядаць; 4) рэцэнзаваць</ar>
+<ar><k>review copy</k> рэцэнзійны паасобнік (<i>паасобнік кнігі, які адсылаюць у газету з прапановай напісаць рэцэнзію</i>)</ar>
+<ar><k>reviewer</k> 1) аглядальнік; 2) рэцэнзент</ar>
+<ar><k>reviewing</k> рэцэнзаванне</ar>
+<ar><k>review slip</k> рэцэнзійная заяўка (<i>суправаджальны ліст да кнігі, якую адсылаюць на рэцэнзію</i>)</ar>
+<ar><k>revised edition</k> перапрацаванае выданне</ar>
+<ar><k>revise / revised proof</k> зверка</ar>
+<ar><k>revision</k> новая рэдакцыя (<i>кнігі</i>)</ar>
+<ar><k>right</k> права</ar>
+<ar><k>right reading / right-reading</k> просты, нелюстраны (<i>пра выяву або тэкст</i>)</ar>
+<ar><k>rights and permissions department</k> юрыдычны аддзел выдавецтва (<i>па пытаннях аўтарскіх правоў</i>)</ar>
+<ar><k>rights manager</k> загадчык юрыдычнага аддзела</ar>
+<ar><k>right-angled fold / right-angle fold</k> перпендыкулярнае фальцаванне</ar>
+<ar><k>right-hand page</k> няцотная старонка</ar>
+<ar><k>right-reading film</k> пазітыўная плёнка, дыяпазітыў</ar>
+<ar><k>ring binder</k> машына для змацавання блока колцамі (<i>металічнымі або пластыкавымі</i>)</ar>
+<ar><k>rising space</k> пляміна (<i>дэфект друку</i>)</ar>
+<ar><k>river</k> раўчук (<i>супадзенне па вертыкалі або дыяганалі міжслоўных прагалаў у некалькіх суседніх радках</i>)</ar>
+<ar><k>roller</k> валік</ar>
+<ar><k>Roman alphabet</k> лацінскі алфавіт, лацінка</ar>
+<ar><k>Roman numerals / Roman figures</k> рымскія лічбы</ar>
+<ar><k>rotary machine / rotary press</k> ратацыйная друкарская машына</ar>
+<ar><k>rough</k> 1) шурпаты; 2) грубы</ar>
+<ar><k>rough draft / rough sketch</k> эскіз, накід</ar>
+<ar><k>round brackets</k> круглыя дужкі</ar>
+<ar><k>royalty</k> аўтарскі ганарар (<i>вызначаны працэнт з кожнага прададзенага паасобніка кнігі</i>)</ar>
+<ar><k>royalty statement</k> пісьмовае абавязанне выдаўца наконт адлічэнняў аўтару</ar>
+<ar><k>RRP</k> гл. <a>recommended retail price</a></ar>
+<ar><k>running costs / running expenses / costs of running business</k> пабежныя выдаткі</ar>
+<ar><k>running headline / running head</k> калонтытул</ar>
+<ar><k>running sheet</k> сігнальны аркуш</ar>
+<ar><k>run of inks</k> фарбапрагон</ar>
+<ar><k>run on</k> 1) дадатковы наклад; 2) друкаваць дадатковы наклад; 3) друкаваць у падбор</ar>
+<ar><k>run-on price</k> цана за дадатковы наклад</ar>
+<ar><k>rush information</k> экспрэс-інфармацыя</ar>
+<ar><k>saddle-stitching</k> устаўное шыццё</ar>
+<ar><k>sale or return</k> сістэма звароту непрададзеных тавараў (<i>ад раздробных гандляроў</i>)</ar>
+<ar><k>sale / sales</k> продаж</ar>
+<ar><k>sales campaign</k> кампанія па продажы (<i>чаго-небудзь</i>)</ar>
+<ar><k>sales conference / sales meeting</k> гандлёвая канферэнцыя (<i>для сумавання вынікаў і планавання</i>)</ar>
+<ar><k>sales figures</k> 1) агульная сума продажу; 2) вынікі продажу або распродажу</ar>
+<ar><k>sales force</k> гандляры</ar>
+<ar><k>sales forecast</k> падлік будучага продажу</ar>
+<ar><k>sales ledger</k> кніга продажу</ar>
+<ar><k>sales manager</k> загадчык аддзела продажу</ar>
+<ar><k>sales promotion</k> спрыянне продажу (<i>захады, якія стымулююць куплю тавару</i>)</ar>
+<ar><k>same size (s/s)</k> 1) «такім жа фарматам» (<i>карэктурная пазнака</i>); 2) «аднолькавы кегель» (<i>карэктурная пазнака</i>)</ar>
+<ar><k>sample</k> узор (<i>паказальны або спробны экземпляр</i>)</ar>
+<ar><k>sample chapter</k> спробны раздзел</ar>
+<ar><k>sample pages</k> спробныя адбіткі старонак (<i>для рэкламы і перамоваў пра продаж</i>)</ar>
+<ar><k>sample print</k> спробны адбітак</ar>
+<ar><k>sans / sans-serif / sanserif</k> сансэрыф, шрыфт без засечак</ar>
+<ar><k>save</k> захоўваць (<i>на кампутарным дыску</i>)</ar>
+<ar><k>sc</k> гл. <a>small capitals</a></ar>
+<ar><k>scale</k> 1) маштаб; 2) шкала; 3) устанавіць маштаб; 4) маштабаваць</ar>
+<ar><k>scan</k> 1) сканаванне; 2) прагляд; 3) сканаваць; 4) разгортваць</ar>
+<ar><k>scanner</k> сканэр, прыстасова для сканавання</ar>
+<ar><k>scanning</k> 1) сканаванне; 2) электронны колерападзел</ar>
+<ar><k>scatter proof</k> спробны адбітак ілюстрацыі</ar>
+<ar><k>schedule</k> 1) план, графік; 2) расклад</ar>
+<ar><k>school books</k> падручнікі</ar>
+<ar><k>school contractor</k> фірма, якая выдае навучальную літаратуру</ar>
+<ar><k>science fiction (sci-fi / SF)</k> навукова-фантастычная літаратура</ar>
+<ar><k>scientific conference papers</k> матэрыялы навуковай канферэнцыі</ar>
+<ar><k>scientific, technical and medical (STM) publishing</k> выданне навуковай, тэхнічнай і медычнай літаратуры</ar>
+<ar><k>scissors and paste job</k> макетаванне арыгіналу</ar>
+<ar><k>sci-fi</k> гл. <a>science fiction</a></ar>
+<ar><k>score</k> 1) бігаваць; 2) рабіць пазнакі; 3) праводзіць рысу</ar>
+<ar><k>screen</k> 1) экран (<i>кампутарнага манітора</i>); 2) растр</ar>
+<ar><k>screen angle</k> вугал павароту растра</ar>
+<ar><k>screened print</k> друк з дапамогай трафарэта</ar>
+<ar><k>screen printing / screen process printing</k> трафарэтны друк</ar>
+<ar><k>screen ruling</k> лініятура растра</ar>
+<ar><k>second colour</k> другі колер</ar>
+<ar><k>secondhand</k> ужываны, карыстаны</ar>
+<ar><k>section</k> 1) сшытак (частка кніжнага блока); 2) раздзел</ar>
+<ar><k>security paper</k> бяспечная (<i>абароненая ад падробкі</i>) папера</ar>
+<ar><k>see-safe</k> выдаткаванне выдаўцом крэдыту кнігагандляру на непрададзеную літаратуру (<i>пры канцы вызначанага тэрміну і на вызначаных умовах</i>)</ar>
+<ar><k>see-through</k> праступанне тэксту на адгорце</ar>
+<ar><k>seizure</k> канфіскацыя, накладанне арышту</ar>
+<ar><k>selected works / selection</k> выбраныя творы</ar>
+<ar><k>self-adhesive</k> самаклейны</ar>
+<ar><k>self-cover</k> кніга ў вокладцы з паперы, як у накладзе</ar>
+<ar><k>self-endpaper / self-end</k> форзац з паперы, як у накладзе</ar>
+<ar><k>self-mailer</k> бесканвертавая адпраўка (<i>паштоўкай</i>)</ar>
+<ar><k>self-seal envelope</k> самаклейны канверт</ar>
+<ar><k>sell at cost</k> прадаваць па сабекошце</ar>
+<ar><k>seller</k> 1) гандляр; 2) хадавы тавар</ar>
+<ar><k>semicolon</k> кропка з коскай</ar>
+<ar><k>semi-popular edition</k> навукова-папулярнае выданне</ar>
+<ar><k>send under separate cover</k> пасылаць у асобным канверце (<i>асобнай поштай</i>)</ar>
+<ar><k>sentence</k> сказ (<i>граматычная адзінка</i>)</ar>
+<ar><k>separated artwork</k> колерападзельная выява (<i>на фотаплёнцы</i>)</ar>
+<ar><k>serialization</k> публікацыя кнігі па частках (<i>у часопісе або газеце</i>)</ar>
+<ar><k>serial publication / series</k> серыйнае выданне</ar>
+<ar><k>serial rights</k> права на публікацыю твора па частках (<i>у часопісе або газеце</i>)</ar>
+<ar><k>series</k> серыя</ar>
+<ar><k>serif</k> засечка (<i>літары</i>)</ar>
+<ar><k>set</k> 1) камплект; 2) набіраць (<i>тэкст</i>); 3) сушыць (<i>фарбу</i>)</ar>
+<ar><k>set page</k> палоса (<i>плошча старонкі, адведзеная для тэксту і ілюстрацый</i>)</ar>
+<ar><k>setting</k> друкарскі набор</ar>
+<ar><k>setting up costs / set up costs</k> выдаткі на размяшчэнне замовы</ar>
+<ar><k>set up</k> наладжваць</ar>
+<ar><k>sew</k> шыць</ar>
+<ar><k>sewing</k> шыццё</ar>
+<ar><k>sewn binding</k> сшыўная аправа</ar>
+<ar><k>SF</k> гл. <a>science fiction</a></ar>
+<ar><k>shading</k> рэтушаванне</ar>
+<ar><k>sheet</k> аркуш</ar>
+<ar><k>sheet feed</k> прылада для падавання паперы</ar>
+<ar><k>sheet signature</k> сігнатура</ar>
+<ar><k>sheet sizes</k> фармат паперы (<i>стандартныя памеры аркуша</i>)</ar>
+<ar><k>sheet-fed press</k> аркушавая друкарская машына</ar>
+<ar><k>shelf back</k> спінка вечка аправы</ar>
+<ar><k>shelve</k> адкладваць</ar>
+<ar><k>shelving</k> паліца</ar>
+<ar><k>shipment</k> партыя адпраўленага тавару</ar>
+<ar><k>shipping</k> адпраўка тавару</ar>
+<ar><k>shipping agent</k> грузаадпраўнік</ar>
+<ar><k>shipping costs</k> выдаткі на адпраўку тавару</ar>
+<ar><k>shipping instructions</k> інструкцыі па адпраўцы і перавозцы грузу</ar>
+<ar><k>shipping note</k> накладная</ar>
+<ar><k>short discount</k> малая паніжка (<i>меншая за звычайную гандлёвую паніжку</i>)</ar>
+<ar><k>short grain</k> папярочная валакністасць</ar>
+<ar><k>short grain paper</k> папера з папярочнымі валокнамі</ar>
+<ar><k>short run</k> малы наклад</ar>
+<ar><k>short story</k> апавяданне</ar>
+<ar><k>shoulder head</k> падзагаловак з выроўніваннем улева</ar>
+<ar><k>showcard</k> рэкламны цэтлік (<i>тавару</i>)</ar>
+<ar><k>show-through</k> праступанне тэксту на адгорце аркуша</ar>
+<ar><k>shrink-packed / shrink-wrapped</k> загорнуты ў тэрмаўсадкавую плёнку</ar>
+<ar><k>shrink-wrap</k> тэрмаўсадкавая плёнка</ar>
+<ar><k>side heading / side head</k> загаловак збоку тэксту</ar>
+<ar><k>sidenotes</k> 1) маргіналіі (<i>заўвагі на палях</i>); 2) ліхтарык (<i>рубрыка</i>)</ar>
+<ar><k>side-sewing / side-stitching</k> складовае шыццё</ar>
+<ar><k>signatory</k> падпісальнік (<i>дакумента</i>)</ar>
+<ar><k>signature</k> 1) аўтарскі аркуш; 2) сігнатура (<i>парадкавы нумар друкаванага аркуша</i>); 3) грыф (<i>назоў арганізацыі ў надзагалоўкавых дадзеных</i>)</ar>
+<ar><k>signature title</k> норма</ar>
+<ar><k>silk-screen printing</k> 1) трафарэтны друк; 2) шаўкаграфія</ar>
+<ar><k>single-copy order</k> замова аднаго паасобніка кнігі</ar>
+<ar><k>single-volumed set</k> аднатамовае выданне</ar>
+<ar><k>size</k> 1) памер, велічыня; 2) аб'ём; 3) фармат; 4) рабіць патрэбнага памеру</ar>
+<ar><k>size of edition</k> аб'ём выдання (<i>кнігі, брашуры і г.д.</i>)</ar>
+<ar><k>sizing</k> 1) давядзенне выявы (<i>да патрэбнага памеру</i>); 2) праклейванне</ar>
+<ar><k>skeleton-map</k> карта-схема</ar>
+<ar><k>skid</k> 1) паддон; 2) стапель (<i>паперы</i>)</ar>
+<ar><k>slide</k> слайд, дыяпазітыў</ar>
+<ar><k>slipcase</k> футарал для кнігі</ar>
+<ar><k>slush pile</k> незваротны стос (<i>паасобнікі кнігі, якія высылаюцца выдаўцам, літаратурным агентам і не падлягаюць вяртанню</i>)</ar>
+<ar><k>small capitals (sc)</k> капітэль</ar>
+<ar><k>small edition</k> малое выданне (<i>выданне кнігі невялікім накладам</i>)</ar>
+<ar><k>small order surcharge</k> падвышэнне кошту замовы на невялікі наклад</ar>
+<ar><k>small paper edition</k> малафарматнае выданне</ar>
+<ar><k>SMT publishing</k> гл. <a>scientific, technical and medical publishing</a></ar>
+<ar><k>soft binding</k> у мяккай вокладцы</ar>
+<ar><k>soft cover</k>   мяккая вокладка</ar>
+<ar><k>software</k> 1) праграмнае забеспячэнне; 2) кампутарная праграма</ar>
+<ar><k>softwood</k> драўніна ігліцавых парод</ar>
+<ar><k>sole</k> адзіны</ar>
+<ar><k>sole agency</k> выключнае права агента (<i>права адной асобы прадстаўляць фірму або прадаваць тавар у вызначаным рэгіёне</i>)</ar>
+<ar><k>solid ink printer</k> цвердафарбавая друкарка</ar>
+<ar><k>sort</k> 1) камплект наборных знакаў; 2) гарнітура; 3) сартаваць; 4) класіфікаваць</ar>
+<ar><k>sound board</k> гукавая плата</ar>
+<ar><k>space</k> 1) прагал; 2) набіраць разрадкай</ar>
+<ar><k>spacing</k> 1) набор разрадкай; 2) павелічэнне міжрадкоўя</ar>
+<ar><k>special sorts</k> спецыяльныя наборныя знакі (<i>напрыклад, дыякрытычныя</i>)</ar>
+<ar><k>specification</k> спецыфікацыя</ar>
+<ar><k>specify</k> удакладняць</ar>
+<ar><k>specimen</k> узор (<i>паказальны або спробны экземпляр</i>)</ar>
+<ar><k>specimen chapter</k> спробны раздзел</ar>
+<ar><k>specimen copy</k> кантрольны паасобнік</ar>
+<ar><k>spelling</k> правапіс, арфаграфія</ar>
+<ar><k>spine</k> спінка (<i>кнігі</i>)</ar>
+<ar><k>spine lettering</k> тэкст на спінцы</ar>
+<ar><k>spinner</k> 1) стойка-круцёлка для кніг; 2) дазавальны валік (<i>для клею</i>)</ar>
+<ar><k>spinoff</k> перавыданне (<i>кнігі або часопіса</i>) асобнымі тэматычнымі выпускамі</ar>
+<ar><k>spin off</k> рабіць (<i>нешта</i>) на аснове галоўнага тавару</ar>
+<ar><k>spiral binding</k> змацаванне блокаў спружынай</ar>
+<ar><k>spoilage</k> брак</ar>
+<ar><k>sponsor</k> спонсар, фундатар</ar>
+<ar><k>spot colour</k> друк адным дадатковым колерам</ar>
+<ar><k>spotting</k> карэктура выявы (<i>на негатыве, дыяпазітыве або друкарскай форме</i>)</ar>
+<ar><k>spread</k> разгорт</ar>
+<ar><k>sprinkled edge</k> абрэз, зафарбаваны пырсканнем</ar>
+<ar><k>square back / square spine</k> простая спінка (<i>кніжнага блока</i>)</ar>
+<ar><k>square brackets</k> квадратныя дужкі</ar>
+<ar><k>s/s</k> гл. <a>same size</a></ar>
+<ar><k>stamp</k> 1) штамп; 2) ціснуць</ar>
+<ar><k>stamping</k> цісненне</ar>
+<ar><k>stamping-out</k> штанцаванне</ar>
+<ar><k>stand</k> стэнд</ar>
+<ar><k>standard</k> стандарт</ar>
+<ar><k>standard agreement / standard contract</k> стандартны ўзор кантракта</ar>
+<ar><k>standard paper sizes</k> стандартны памер паперы</ar>
+<ar><k>standing order</k> сталая замова</ar>
+<ar><k>star</k> зорачка (<i>графічны знак для пазначэння зносак і вынасак</i>)</ar>
+<ar><k>stationery</k> канцылярскія прылады</ar>
+<ar><k>statutory copy</k> бясплатны абавязковы паасобнік</ar>
+<ar><k>stencil</k> трафарэт, шаблон</ar>
+<ar><k>step and repeat</k> капіявальна-множны працэс</ar>
+<ar><k>stereo / stereotype</k> стэрэатып</ar>
+<ar><k>stet</k> (<i>лац.</i>) «пакінуць як было» (<i>карэктурная пазнака</i>)</ar>
+<ar><k>stillage</k> стэлаж</ar>
+<ar><k>stipulate</k> ставіць умовы, абумоўліваць</ar>
+<ar><k>stitch</k> сшываць</ar>
+<ar><k>stitching</k> шыццё</ar>
+<ar><k>stock</k> 1) партыя тавару (<i>кніг</i>) на продаж; 2) складаваць; 3) ствараць запас</ar>
+<ar><k>stock control</k> 1) кантроль наяўнасці запасаў і іх рэгістрацыя; 2) кіраванне запасамі</ar>
+<ar><k>stock level</k> колькасць запасаў</ar>
+<ar><k>stocklist</k> спіс тавараў на складзе</ar>
+<ar><k>stocktaking</k> праверка фондаў, пераўлік тавараў</ar>
+<ar><k>stock turn / stock turnround / stock turnover</k> абарот тавараў на складзе</ar>
+<ar><k>storage</k> 1) захоўванне; 2) складаванне</ar>
+<ar><k>strawboard</k> пакункавы (<i>тарны</i>) кардон</ar>
+<ar><k>strike-on</k> набор (<i>тэксту на клавіятуры</i>)</ar>
+<ar><k>strike-through</k> прабіванне (<i>фарбы</i>), праступанне выявы на адгорце</ar>
+<ar><k>strip in</k> уклейваць</ar>
+<ar><k>stripping-in</k> 1) уклейванне аднаго дыяпазітыва ў другі; 2) наклейванне негатыва на мантажную аснову</ar>
+<ar><k>study aid</k> навучальны дапаможнік</ar>
+<ar><k>stuffer</k> рэклама праз пошту</ar>
+<ar><k>subagency</k> філія агенцтва</ar>
+<ar><k>subbing / subediting</k> падрыхтоўка рукапісу да друку</ar>
+<ar><k>subedit</k> рэдагаваць аддзел (<i>у газеце</i>)</ar>
+<ar><k>subeditor</k> 1) рэдактар аддзела; 2) памочнік рэдактара</ar>
+<ar><k>subheading / subhead</k> падзагаловак</ar>
+<ar><k>sublicense</k> выдаваць субліцэнзію</ar>
+<ar><k>submit</k> падаваць (<i>дакументы, прапановы</i>)</ar>
+<ar><k>subscribe</k> падпісвацца (<i>рабіць папярэднюю замову</i>)</ar>
+<ar><k>subscription</k> 1) папярэдняя замова; 2) падпіска (<i>на газету і г.д.</i>)</ar>
+<ar><k>subscription edition</k> падпісное выданне</ar>
+<ar><k>subsidiaries</k> апарат выдання</ar>
+<ar><k>subsidiary</k> другасны</ar>
+<ar><k>subsidiary company</k> даччыная кампанія</ar>
+<ar><k>subsidiary rights</k> другасныя правы (<i>на выкарыстанне твора - экранізацыю, пераклад і г.д.</i>)</ar>
+<ar><k>subsidy</k> субсідыя, датацыя</ar>
+<ar><k>substance</k> вага паперы</ar>
+<ar><k>substitute</k> замяняць</ar>
+<ar><k>subtitle</k> падзагаловак</ar>
+<ar><k>successor to copyright</k> правапераемнік аўтара</ar>
+<ar><k>sulphite pulp</k> сульфітная цэлюлоза</ar>
+<ar><k>summarize</k> рэзюмаваць</ar>
+<ar><k>summary</k> рэзюмэ</ar>
+<ar><k>summary between title and text</k> экстэнза</ar>
+<ar><k>supercalendered paper</k> суперкаляндэраваная папера</ar>
+<ar><k>superior figures</k> надрадковыя лічбы</ar>
+<ar><k>superior letters</k> надрадковыя літары</ar>
+<ar><k>superscript</k> надрадковыя знакі</ar>
+<ar><k>supplement</k> 1) дадатак; 2) дадаваць</ar>
+<ar><k>supplier</k> пастаўнік, забеспячэнец</ar>
+<ar><k>supply</k> 1) запасы; 2) пастаўка; 3) пастаўляць, забяспечваць</ar>
+<ar><k>supply and demand</k> попыт і прапанова</ar>
+<ar><k>surcharge</k> дадатковы падатак</ar>
+<ar><k>surface</k> паверхня</ar>
+<ar><k>survey</k> агляд</ar>
+<ar><k>symbol</k> сімвал (<i>матэматычны, хімічны, фізічны</i>)</ar>
+<ar><k>symbols</k> індэксы (<i>падрадковыя і надрадковыя знакі</i>)</ar>
+<ar><k>syndicate</k> рабіць артыкул (<i>ілюстрацыю</i>) для публікацыі адначасова ў некалькіх выданнях</ar>
+<ar><k>synopsis</k> 1) канспект; 2) аўтарэферат дысертацыі</ar>
+<ar><k>system</k> сістэма</ar>
+<ar><k>table</k> табліца</ar>
+<ar><k>table of contents</k> змест</ar>
+<ar><k>tablet</k> графічны электронны планшэт</ar>
+<ar><k>tabular material / tabular matter</k> калонка</ar>
+<ar><k>tailband</k> каптал</ar>
+<ar><k>tail margin</k> ніжняе поле, хвост палосы</ar>
+<ar><k>tailpiece</k> канцоўка</ar>
+<ar><k>take back</k> уціскаць (<i>радок</i>)</ar>
+<ar><k>take over</k> выганяць (<i>радок</i>)</ar>
+<ar><k>talking book</k> гаваркая кніга (<i>кніга з гукавым дадаткам</i>)</ar>
+<ar><k>tape</k> стужка</ar>
+<ar><k>target</k> 1) мэта; 2) нацэльвацца; 3) планаваць</ar>
+<ar><k>teacher's book / teacher's manual</k> дапаможнік для выкладчыка</ar>
+<ar><k>tearsheet</k> адрыўная абвестка (<i>рэкламная абвестка ў друку, якая можа быць выразаная і накіраваная ў фірму ў якасці замовы</i>)</ar>
+<ar><k>technical</k> тэхнічны</ar>
+<ar><k>telecommunication</k> дыстанцыйная сувязь (<i>тэлефон, тэлеграф, радыё, тэлесувязь</i>)</ar>
+<ar><k>teleordering</k> тэлезамова (<i>праз кампутар</i>)</ar>
+<ar><k>term</k> тэрмін</ar>
+<ar><k>terminate</k> сканчаць, завяршаць</ar>
+<ar><k>termination</k> завяршэнне, сканчэнне</ar>
+<ar><k>terms</k> умовы (<i>дамовы</i>)</ar>
+<ar><k>terms of payment</k> умовы аплаты</ar>
+<ar><k>text</k> тэкст</ar>
+<ar><k>text abbreviations / text cut / text abridgement</k> скароты ў тэксце</ar>
+<ar><k>text area</k> плошча набору</ar>
+<ar><k>textbook</k> падручнік</ar>
+<ar><k>text criticism</k> тэксталогія</ar>
+<ar><k>text line size</k> фармат радка набору</ar>
+<ar><k>text page format</k> фармат палосы набору</ar>
+<ar><k>text pages</k> тэкставыя старонкі</ar>
+<ar><k>text paper</k> друкарская папера</ar>
+<ar><k>textual</k> тэкставы</ar>
+<ar><k>the book trade</k> кніжны гандаль</ar>
+<ar><k>thermographic printing / thermography</k> тэрмаграфія</ar>
+<ar><k>thermoplastic binding</k> клеевае змацаванне блока</ar>
+<ar><k>thermo-mechanical pulp</k> тэрмамеханічная драўнінная маса</ar>
+<ar><k>thesaurus</k> тэзаўрус (<i>ідэаграфічны слоўнік</i>)</ar>
+<ar><k>thread sewn book</k> кніга, сшытая ніткамі</ar>
+<ar><k>three-colour processing</k> трохколерны друк</ar>
+<ar><k>throw-of</k> выроўніванне радкоў (<i>па фармаце</i>)</ar>
+<ar><k>thumb index</k> пальцавы індэкс (<i>літарны паказальнік на абрэзе ў выглядзе выразаў для пальцаў</i>)</ar>
+<ar><k>tie-in</k> тэлекніга (<i>кніга на аснове тэле- або радыёперадачы ці выпушчаная адначасова з ёй</i>)</ar>
+<ar><k>tight back / tight spine</k> глухая спінка</ar>
+<ar><k>time</k> час</ar>
+<ar><k>time limit</k> ліміт часу</ar>
+<ar><k>time scale</k> час на выкананне працы</ar>
+<ar><k>tint</k> 1) растравы фон; 2) ствараць растравы фон</ar>
+<ar><k>tip in</k> уклейваць</ar>
+<ar><k>title</k> 1) назоў, найменне; 2) загаловак; 3) тытульны аркуш</ar>
+<ar><k>title page</k> тытульны аркуш</ar>
+<ar><k>title page verso / title verso</k> адгорт тытульнага аркуша</ar>
+<ar><k>tolerance</k> допуск</ar>
+<ar><k>tome</k> том</ar>
+<ar><k>tone</k> тон, адценне</ar>
+<ar><k>tooling</k> цісненне</ar>
+<ar><k>top copy</k> першы паасобнік машынапіснага тэксту</ar>
+<ar><k>top margin</k> верхняе поле, галоўка палосы</ar>
+<ar><k>top side</k> правы бок (<i>паперы</i>)</ar>
+<ar><k>touch up</k> рэтушаванне</ar>
+<ar><k>tracking</k> трэкінг (<i>рэгуляванне міжлітарных і міжслоўных інтэрвалаў</i>)</ar>
+<ar><k>trade</k> 1) гандаль; 2) гандляры, бізнэсоўцы (<i>у пэўнай галіне</i>)</ar>
+<ar><k>trade association</k> асацыяцыя прадпрымальнікаў</ar>
+<ar><k>trade book</k> кніга для раздробнага гандлю</ar>
+<ar><k>trade catalogue / trade list</k> выдавецкі каталог кніг для раздробнага ган-длю</ar>
+<ar><k>trade discount</k> паніжка вытворцы раздробнаму гандляру</ar>
+<ar><k>trade fair</k> кірмаш</ar>
+<ar><k>trade journal / trade paper / trade publication</k> галіновая газета або часопіс</ar>
+<ar><k>trade magazine</k> галіновы часопіс</ar>
+<ar><k>trade mark / trade name</k> 1) гандлёвая марка; 2) фірмовы знак</ar>
+<ar><k>trade paperback</k> камерцыйнае выданне ў мяккай вокладцы</ar>
+<ar><k>trade publisher</k> выдавец, які спецыялізуецца на выданні кніг для раздробнага гандлю</ar>
+<ar><k>trade terms</k> паніжка кліенту з той жа галіны</ar>
+<ar><k>training aid / training appliance</k> наглядны навучальны дапаможнік</ar>
+<ar><k>transcribe</k> транскрыбаваць</ar>
+<ar><k>transcription</k> транскрыпцыя</ar>
+<ar><k>transfer</k> перавадная выява</ar>
+<ar><k>transfer letters / transfer lettering / transfer type</k> перавадны шрыфт</ar>
+<ar><k>translate</k> перакладаць (<i>пісьмова</i>)</ar>
+<ar><k>translation</k> пераклад</ar>
+<ar><k>translation rights</k> права на пераклад</ar>
+<ar><k>translator</k> перакладнік (<i>пісьмовы</i>)</ar>
+<ar><k>transliterate</k> транслітэраваць</ar>
+<ar><k>transliteration</k> транслітэрацыя</ar>
+<ar><k>transparent positive / transparency</k> дыяпазітыў</ar>
+<ar><k>transpose</k> мяняць месцамі</ar>
+<ar><k>trim</k> абразаць, падразаць</ar>
+<ar><k>trim size / trimmed size</k> фармат старонкі (<i>або аркуша</i>) пасля падрэзкі</ar>
+<ar><k>TS</k> гл. <a>typescript</a></ar>
+<ar><k>turn over</k> 1) мець абарот (<i>фінансавы</i>); 2) гартаць (<i>старонку</i>)</ar>
+<ar><k>turnover</k> 1) абарот (<i>фінансавы</i>); 2) адгорт (<i>частка тэксту, якая пераходзіць на наступную старонку</i>)</ar>
+<ar><k>turn-in</k> каптал</ar>
+<ar><k>two-colour press</k> двухколерны друк</ar>
+<ar><k>two-up</k> шыццё спарышом (<i>двайніком</i>)</ar>
+<ar><k>type</k> 1) шрыфт; 2) друкаваць</ar>
+<ar><k>type area</k> 1) плошча набору; 2) даўжыня друкаванага радка</ar>
+<ar><k>typeface</k> 1) шрыфт; 2) гарнітура шрыфту</ar>
+<ar><k>type family</k> гарнітура шрыфту</ar>
+<ar><k>type height</k> вышыня шрыфту</ar>
+<ar><k>type metal</k> гарт (<i>друкарскі стопак</i>)</ar>
+<ar><k>typescript (TS)</k> машынапісная копія</ar>
+<ar><k>typeset</k> набіраць</ar>
+<ar><k>typesetter</k> наборнік (<i>аператар набору</i>)</ar>
+<ar><k>typesetting</k> набор</ar>
+<ar><k>type size / type body</k> кегель шрыфту</ar>
+<ar><k>typewriter</k> друкарская машынка</ar>
+<ar><k>typewriter composition</k> набор на друкарскай машынцы</ar>
+<ar><k>typo</k> памылка друку</ar>
+<ar><k>typographic make up</k> паліграфічнае выкананне (<i>выдання</i>)</ar>
+<ar><k>typography</k> тыпаграфіка (<i>фармаванне вонкавага і нутранога аблічча кнігі з дапамогай друкарскіх сродкаў</i>)</ar>
+<ar><k>UCC</k> гл. <a>Universal Copyright Convention</a></ar>
+<ar><k>UCR</k> гл. <a>undercolour removal</a></ar>
+<ar><k>uc (upper case)</k> «загалоўнымі» (<i>карэктурная пазнака</i>)</ar>
+<ar><k>u &amp; lc, u/lc</k> гл. <a>upper and lower case</a></ar>
+<ar><k>ultraviolet drying</k> сушэнне УФ-выпраменьваннем</ar>
+<ar><k>ultraviolet (light) (UV)</k> ультрафіялетавае выпраменьванне, УФ-выпраменьванне</ar>
+<ar><k>unabridged</k> поўны, нескарочаны</ar>
+<ar><k>unacceptable</k> непрымальны</ar>
+<ar><k>unauthorized</k> 1) недазволены; 2) неаўтарызаваны</ar>
+<ar><k>unbacked book</k> кніжны блок</ar>
+<ar><k>unbound</k> несшытаваны</ar>
+<ar><k>uncoated paper</k> некрэйдаваная папера</ar>
+<ar><k>uncorrected</k> непапраўлены, некарэктаваны</ar>
+<ar><k>undercolour removal (UCR)</k> вылучэнне каляровай фарбы (<i>з-пад чорнай</i>)</ar>
+<ar><k>under contract</k> паводле кантракта</ar>
+<ar><k>underexposed</k> недатрыманы</ar>
+<ar><k>underline</k> лінія, якая падкрэслівае тэкст</ar>
+<ar><k>undermentioned</k> ніжэй названы</ar>
+<ar><k>undertitle</k> падзагаловак</ar>
+<ar><k>unearned advance</k> аванс для аўтара, не пакрыты гарантаванымі адлічэннямі (<i>ад продажу кнігі</i>)</ar>
+<ar><k>unexpurgated</k> нявыкраслены (<i>тэкст</i>)</ar>
+<ar><k>unfinished</k> 1) няскончаны; 2) недэкараваны; 3) неапрацаваная (<i>папера</i>)</ar>
+<ar><k>uniform edition</k> серыя кніг з аднолькавым афармленнем</ar>
+<ar><k>unit</k> паасобнік</ar>
+<ar><k>unit cost</k> сабекошт аднаго паасобніка</ar>
+<ar><k>unit price</k> цана паасобніка</ar>
+<ar><k>Universal Copyright Convention</k> (UCC) Сусветная (<i>Жэнеўская</i>) канвенцыя аб аўтарскім праве</ar>
+<ar><k>university press</k> універсітэцкае выдавецтва</ar>
+<ar><k>unjustified</k> нефарматаваны тэкст</ar>
+<ar><k>unlined table</k> табліца без лінеек</ar>
+<ar><k>unpublished</k> неапублікаваны</ar>
+<ar><k>unsewn</k> нясшыты</ar>
+<ar><k>unsold</k> непрададзены</ar>
+<ar><k>until further notice</k> да наступнага паведамлення</ar>
+<ar><k>untrimmed size</k> фармат неабрэзанай палосы</ar>
+<ar><k>untrinuned</k> неабрэзаны</ar>
+<ar><k>update</k> 1) выпраўленне і дапаўненне (<i>у сувязі з новымі ўмовамі або дадзенымі</i>); 2) выпраўляць і дапаўняць; 3) дапрацоўваць</ar>
+<ar><k>up front</k> авансам</ar>
+<ar><k>upper and lower case (u &amp; lc, u/lc)</k> набор з загалоўнымі літарамі толькі на пачатку радка</ar>
+<ar><k>upper case</k> 1) загалоўныя літары; 2) верхні рэгістр</ar>
+<ar><k>variable costs</k> зменныя выдаткі вытворчасці</ar>
+<ar><k>varnish</k> 1) лак; 2) лакаваць</ar>
+<ar><k>VDT</k> гл. <a>visual display terminal</a></ar>
+<ar><k>VDU</k> гл. <a>visual display units</a></ar>
+<ar><k>venture</k> рызыкоўная справа</ar>
+<ar><k>version</k> 1) версія, варыянт; 2) пераклад</ar>
+<ar><k>verso</k> 1) левая (<i>цотная</i>) старонка; 2) адгорт (<i>аркуша</i>)</ar>
+<ar><k>vertical justification</k> выроўніванне па вертыкалі</ar>
+<ar><k>video</k> выява (<i>на экране дысплея</i>)</ar>
+<ar><k>video card</k> відэакартка</ar>
+<ar><k>video cassette</k> відэакасета</ar>
+<ar><k>video disk</k> відэадыск</ar>
+<ar><k>video text</k> 1) відэатэкст; 2) доступ да базаў дадзеных праз каналы сувязі</ar>
+<ar><k>vignette</k> віньетка</ar>
+<ar><k>virus</k> вірус (<i>кампутарны</i>)</ar>
+<ar><k>visual</k> 1) бачны; 2) арыгінал-макет</ar>
+<ar><k>visual aid</k> наглядны дапаможнік</ar>
+<ar><k>visual display terminal (VDT)</k> відэатэрмінал</ar>
+<ar><k>visual display unit (VDU)</k> дысплей</ar>
+<ar><k>vocable</k> вакабула (<i>загаловак слоўнікавага артыкула</i>)</ar>
+<ar><k>vocabulary</k> слоўнік</ar>
+<ar><k>volume</k> 1) том; 2) колькасць; 3) таўшчыня паперы</ar>
+<ar><k>volume discount</k> гуртовая паніжка (<i>для пакупніка буйной партыі тавару</i>)</ar>
+<ar><k>volume rights</k> права на выданне тэксту ў форме кнігі</ar>
+<ar><k>voucher copy</k> бясплатны паасобнік (<i>для рэкламнага агента або тых, хто рыхтаваў кнігу</i>)</ar>
+<ar><k>waive</k> адмаўляцца ад правоў</ar>
+<ar><k>waiver</k> адмова ад права патрабавання</ar>
+<ar><k>wall chart / wall map</k> насценная карта, насценная схема</ar>
+<ar><k>warehouse</k> 1) склад; 2) складаваць; 3) захоўваць на складзе</ar>
+<ar><k>warehousing</k> складаванне</ar>
+<ar><k>warp</k> карабаціцца, дэфармавацца</ar>
+<ar><k>wastage</k> страты</ar>
+<ar><k>waste</k> зрэзіва (<i>пашкоджаныя пласты паперы, якія зразаюцца ў працэсе падрыхтоўкі</i>)</ar>
+<ar><k>watermark</k> вадзяны знак, філігрань</ar>
+<ar><k>web</k> ролік (<i>паперы</i>)</ar>
+<ar><k>web offset printing</k> рулонны (<i>ролевы</i>) друк</ar>
+<ar><k>web press / web machine</k> рулонная (<i>ролевая</i>) друкарская машына</ar>
+<ar><k>web site</k> інтэрнэт-старонка</ar>
+<ar><k>web-fed</k> рулонны</ar>
+<ar><k>weigh</k> узважваць</ar>
+<ar><k>weight</k> вага камплекта (<i>шрыфту</i>)</ar>
+<ar><k>wf</k> гл. <a>wrong font</a></ar>
+<ar><k>WF</k> гл. <a>woodfree paper</a></ar>
+<ar><k>white river</k> раўчук (<i>супадзенне па вертыкалі або дыяганалі міжслоўных прагалаў у некалькіх суседніх радках</i>)</ar>
+<ar><k>white space</k> 1) прагал (<i>прамежак паміж словамі, групамі радкоў, выяўленчымі элементамі</i>); 2) белы абсяг (<i>месца на старонцы, не занятае наборам</i>)</ar>
+<ar><k>whiting out</k> павелічэнне прагалу</ar>
+<ar><k>whole binding</k> цэльнае вечка аправы</ar>
+<ar><k>wholesale bookseller / wholesaler</k> гуртавы кнігагандляр</ar>
+<ar><k>widow</k> віслы радок</ar>
+<ar><k>width</k> шырыня</ar>
+<ar><k>window display</k> 1) вітрына; 2) дэманстрацыя тавараў на вітрыне</ar>
+<ar><k>wire bound / wire stitched</k> сшыты дротам</ar>
+<ar><k>wire side</k> адваротны (<i>сеткавы</i>) бок паперы</ar>
+<ar><k>woodfree paper (WF)</k> бездраўнінная папера</ar>
+<ar><k>woodpulp</k> драўнінная маса</ar>
+<ar><k>word</k> слова</ar>
+<ar><k>word break / break</k> перанос (<i>слова</i>)</ar>
+<ar><k>word count</k> падлік словаў у тэксце</ar>
+<ar><k>word processor</k> 1) кампутар; 2) тэкставы рэдактар</ar>
+<ar><k>word space</k> апрош (<i>прагал паміж словамі</i>)</ar>
+<ar><k>word-process</k> апрацоўваць тэкст (<i>на кампутары</i>)</ar>
+<ar><k>work</k> твор</ar>
+<ar><k>workbook</k> зборнік практыкаванняў</ar>
+<ar><k>working capital</k> абаротны капітал</ar>
+<ar><k>work in progress</k> незавершаная праца</ar>
+<ar><k>work-up</k> пляміна (<i>дэфект друку</i>)</ar>
+<ar><k>wove</k> вяленевая папера</ar>
+<ar><k>wrapper</k> супервокладка</ar>
+<ar><k>wrapping</k> упакоўванне</ar>
+<ar><k>wrapround</k> намотванне паперы</ar>
+<ar><k>wrong font (wf)</k> чужая літара (<i>з іншай гарнітуры</i>)</ar>
+<ar><k>wrong-reading film</k> люстраная выява на плёнцы</ar>
+<ar><k>xerox</k> 1) ксеракопія; 2) здымаць копію</ar>
+<ar><k>x height</k> асноўная вышыня шрыфту (<i>на роўні літары «x», без вынасных элементаў</i>)</ar>
+<ar><k>xylography</k> дрэварыт (<i>гравюра на дрэве</i>)</ar>
+<ar><k>year</k> год</ar>
+<ar><k>yearbook</k> штогоднік</ar>
+<ar><k>year end</k> канец фінансавага года</ar>
+<ar><k>yellow</k> жоўты (<i>колер у трыядзе</i>)</ar>
+<ar><k>zero-rated</k> нулявы ПДВ (<i>падатак на дададзеную вартасць</i>)</ar>
+<ar><k>zinco / zincograph</k> цынкавае клішэ</ar>
+<ar><k>zip-a-tone</k> растравы фон на самаклейнай плёнцы</ar>
+</xdxf>
