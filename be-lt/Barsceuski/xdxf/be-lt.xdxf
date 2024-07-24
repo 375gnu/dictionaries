@@ -31,9 +31,9 @@ Viršum 10 000 + 13 000 antraštinių žodžių
 Redagavo V. Viačorka, A. Mikus
 Konsultantas Jan Šupa
         </description>
-        <file_ver>001</file_ver>
+        <file_ver>002</file_ver>
         <creation_date>02-06-2024</creation_date>
-        <last_edited_date>02-06-2024</last_edited_date>
+        <last_edited_date>24-07-2024</last_edited_date>
         <abbreviations>
 <abbr_def><abbr_k>адз. л.</abbr_k><abbr_v>адзіночны лік, адзіночнага ліку</abbr_v></abbr_def>
 <abbr_def><abbr_k>ас.</abbr_k><abbr_v>асоба</abbr_v></abbr_def>
@@ -3143,7 +3143,8 @@ Konsultantas Jan Šupa
 <ar><k>жытло</k><def> bùtas (2)</def></ar>
 <ar><k>жытні</k><def> rugìnis (2)</def></ar>
 <!-- З -->
-<ar><k>з</k><def> <abbr>прыназ.</abbr> <i>(кім-н., чым-н.)</i> sù <abbr>прыназ.</abbr> <i>(+ <abbr>тв. скл.</abbr>)</i>; (са значэннем «адкуль») ìš <i>(+ <abbr>р. скл.</abbr>)</i>; <i>(чаго-н., каго-н.)</i> nuõ, sulìg <i>(+ <abbr>р. скл.</abbr>)</i> за <abbr>прыназ.</abbr> <i>(кім-н., чым-н.)</i> ùž <i>(+ <abbr>р. скл.</abbr>, <abbr>він. скл.</abbr>)</i>; pãskui, pãskum <i>(+ <abbr>р. скл.</abbr>)</i>; dė̃l(ei) <i>(+ <abbr>р. скл.</abbr>)</i>; <i>(што-н., каго-н.)</i> ùž <i>(+ <abbr>він. скл.</abbr>)</i></def></ar>
+<ar><k>з</k><def> <abbr>прыназ.</abbr> <i>(кім-н., чым-н.)</i> sù <abbr>прыназ.</abbr> <i>(+ <abbr>тв. скл.</abbr>)</i>; (са значэннем «адкуль») ìš <i>(+ <abbr>р. скл.</abbr>)</i>; <i>(чаго-н., каго-н.)</i> nuõ, sulìg <i>(+ <abbr>р. скл.</abbr>)</i></def></ar>
+<ar><k>за</k><def> <abbr>прыназ.</abbr> <i>(кім-н., чым-н.)</i> ùž <i>(+ <abbr>р. скл.</abbr>, <abbr>він. скл.</abbr>)</i>; pãskui, pãskum <i>(+ <abbr>р. скл.</abbr>)</i>; dė̃l(ei) <i>(+ <abbr>р. скл.</abbr>)</i>; <i>(што-н., каго-н.)</i> ùž <i>(+ <abbr>він. скл.</abbr>)</i></def></ar>
 <ar><k>заахвочванне</k><def> paskatà (3b)</def></ar>
 <ar><k>заахвочваць</k><def> rãgin|ti (~a, ~o), skãtin|ti (~a, ~o)</def></ar>
 <ar><k>забабонны</k><def> prietarìngas (1)</def></ar>
