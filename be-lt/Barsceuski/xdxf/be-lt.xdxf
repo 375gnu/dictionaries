@@ -1467,7 +1467,7 @@ Konsultantas Jan Šupa
 <ar><k>вéтраны</k><def> vėjúotas <abbr>дзеепрым.</abbr></def></ar>
 <ar><k>ветраны́</k><def> <abbr>гл.</abbr> <kref>ветравы</kref></def></ar>
 <ar><k>ветрыць</k><def> <abbr>гл.</abbr> <kref>унюхваць</kref></def></ar>
-<ar><k>ве|цер</k><def> vė́jas (1); з ~трам pavėjuĩ</def></ar>
+<ar><k>вецер</k><def> vė́jas (1); з ветрам pavėjuĩ</def></ar>
 <ar><k>вецце</k><def> <abbr>гл.</abbr> <kref>галлё</kref></def></ar>
 <ar><k>вечар</k><def> vãkaras (3<sup>b</sup>); пад ~ pavakarióp, vakaróp</def></ar>
 <ar><k>вечараваць</k><def> <i>(праводзіць вечар)</i> vakar|úoti (~úoja, ~ãvo)</def></ar>
@@ -2399,7 +2399,7 @@ Konsultantas Jan Šupa
 <ar><k>грэчка</k><def> grìkis (2)</def></ar>
 <ar><k>грэшнік</k><def> nusidė́jėlis (1)</def></ar>
 <ar><k>грэшны</k><def> nuodėmìngas (1)</def></ar>
-<ar><k>губ|а</k><def> lūṕa (1); ~ы <abbr>мн. л.</abbr> lūṕos (1)</def></ar>
+<ar><k>губа</k><def> lūṕa (1); губы <abbr>мн. л.</abbr> lūṕos (1)</def></ar>
 <ar><k>губка</k><def> kempìnė (2), plaušìnė (2) <i>(для змывання)</i>; pìntis (1) (-ies) <i>(расліна і жывёла)</i></def></ar>
 <ar><k>губкаваты</k><def> korė́tas <abbr>дзеепрым.</abbr></def></ar>
 <ar><k>губляцца</k><def> pasimèsti (pasìmeta, pasìmetė), diñg|ti (~sta, ~o) <i>(прападаць)</i>; sutrì|kti (~nka, ~ko) <i>(рабіцца разгубленым)</i></def></ar>
@@ -2653,7 +2653,7 @@ Konsultantas Jan Šupa
 <ar><k>даўжнік</k><def> skõlininkas (1)</def></ar>
 <ar><k>даўжыня</k><def> il̃gis (2), ilgumà (3<sup>a</sup>), ilgùmas (2)</def></ar>
 <ar><k>даўкі</k><def> sprangùs (4), aitrùs (4)</def></ar>
-<ar><k>даўнасц|ь:</k><def> тэрмін ~і senatìs (3<sup>b</sup>)</def></ar>
+<ar><k>даўнасць:</k><def> тэрмін даўнасці senatìs (3<sup>b</sup>)</def></ar>
 <ar><k>даўно</k><def> sẽniai</def></ar>
 <ar><k>даўным-даўно</k><def> kažkadà, labaĩ sẽniai</def></ar>
 <ar><k>даўца</k><def> davė́jas (1)</def></ar>
@@ -3035,7 +3035,7 @@ Konsultantas Jan Šupa
 <ar><k>жалоба</k><def> gẽdulas (3<sup>b</sup>)</def></ar>
 <ar><k>жалобны</k><def> gedulìngas (1)</def></ar>
 <ar><k>жалудачак</k><def> skilvẽlis (2)</def></ar>
-<ar><k>жал|ь</k><def> apgailestãvimas (1), gaĩlestis (1) <i>(шкадаванне)</i>; liūdesỹs (3<sup>b</sup>), síelvartas (1), šìrdgėla (1); варты ~ю pasigailė́tinas (1); на ~ь dejà</def></ar>
+<ar><k>жаль</k><def> apgailestãvimas (1), gaĩlestis (1) <i>(шкадаванне)</i>; liūdesỹs (3<sup>b</sup>), síelvartas (1), šìrdgėla (1); варты жалю pasigailė́tinas (1); на жаль dejà</def></ar>
 <ar><k>жалязняк</k><def> kaztùvas (2) <i>(рыдлёўка, лом)</i>; geležinga rūdà (4) <i>(руда)</i></def></ar>
 <ar><k>жамéрыны</k><def> ìšspaudos (1) <abbr>мн. л.</abbr></def></ar>
 <ar><k>жамяра</k><def> vabzdỹs (4)</def></ar>
@@ -3310,7 +3310,7 @@ Konsultantas Jan Šupa
 <ar><k>замах</k><def> są́mokslas (1), pasìkėsinimas (1)</def></ar>
 <ar><k>замахвацца</k><def> kėsìn|tis (~аsi, ~оsi)</def></ar>
 <ar><k>замглёны</k><def> drum̃stаs (4)</def></ar>
-<ar><k>замежж|а</k><def> ùžsienis (1); у ~ы svetur̃ <abbr>прысл.</abbr></def></ar>
+<ar><k>замежжа</k><def> ùžsienis (1); у замежжы svetur̃ <abbr>прысл.</abbr></def></ar>
 <ar><k>замежны</k><def> užsienìnis (2), svẽtimas (3<sup>b</sup>), ùžsienio <abbr>назоўн.</abbr>, <abbr>р. скл.</abbr></def></ar>
 <ar><k>замена</k><def> pakaità (3<sup>b</sup>), ùžvadas (1, 3b), keitìmas (2)</def></ar>
 <ar><k>заменнік</k><def> ùžvadas (1, 3b)</def></ar>
@@ -4206,7 +4206,7 @@ Konsultantas Jan Šupa
 <ar><k>карáлі</k><def> karõliai (2) <abbr>мн. л.</abbr></def></ar>
 <ar><k>каранаваць</k><def> vainik|úoti (~úoja, ~ãvo)</def></ar>
 <ar><k>караць</k><def> baũ|sti (~džia, ~dė)</def></ar>
-<ar><k>карачк|і:</k><def> на ~ах ropomìs</def></ar>
+<ar><k>карачкі</k><def> на карачках ropomìs</def></ar>
 <ar><k>каржакаваты</k><def> krẽsnas (4)</def></ar>
 <ar><k>карлік</k><def> <abbr>гл.</abbr> <kref>карузлік</kref></def></ar>
 <ar><k>кáрма</k><def> <abbr>гл.</abbr> <kref>наканаванне</kref></def></ar>
@@ -4235,7 +4235,7 @@ Konsultantas Jan Šupa
 <ar><k>карты</k><def> kõrtos (2) <abbr>мн. л.</abbr>; гуляць у ~ kort|úoti (~úoja, ~ãvo)</def></ar>
 <ar><k>карузлік</k><def> neū́žauga (1), nykštùkas (2)</def></ar>
 <ar><k>карункі</k><def> nėrinỹs (3<sup>a</sup>)</def></ar>
-<ar><k>карц|ець</k><def> geĩ|sti (~džia, ~dė); мне ~іць àš labaĩ nóriu</def></ar>
+<ar><k>карцець</k><def> geĩ|sti (~džia, ~dė); мне карціць àš labaĩ nóriu</def></ar>
 <ar><k>карціна</k><def> pavéikslas (1); vaĩzdas (4) <i>(вобраз)</i></def></ar>
 <ar><k>карчанець</k><def> stìr|ti (stỹra, ~o)</def></ar>
 <ar><k>карчма</k><def> smùklė (2)</def></ar>
@@ -4684,7 +4684,7 @@ Konsultantas Jan Šupa
 <ar><k>кузурка</k><def> mãšalas (3<sup>b</sup>)</def></ar>
 <ar><k>кузэн</k><def> pùsbrolis (1)</def></ar>
 <ar><k>кукарда</k><def> <abbr>гл.</abbr> <kref>цэшка</kref></def></ar>
-<ar><k>кукішк|і:</k><def> <i>(сядзець)</i> на ~ах (bū́ti) pritū̃pusiam</def></ar>
+<ar><k>кукішкі</k><def> <i>(сядзець)</i> на кукішках (bū́ti) pritū̃pusiam</def></ar>
 <ar><k>кулак</k><def> <i>(сціснутыя пальцы рукі)</i> kùmštis (1)</def></ar>
 <ar><k>кулачны</k><def> kùmštinis (1)</def></ar>
 <ar><k>кулёк</k><def> (popierìnis) maišẽlis (2)</def></ar>
@@ -4802,7 +4802,7 @@ Konsultantas Jan Šupa
 <ar><k>лапцюжнік</k><def> vyžótas <abbr>дзеепрым.</abbr></def></ar>
 <ar><k>ласавацца</k><def> smagur|iáuti, smaliž|iáuti (~iáuja, ~iãvo)</def></ar>
 <ar><k>лáсіца</k><def> žebenkštìs (3<sup>b</sup>)</def></ar>
-<ar><k>ласк|а</k><def> malónė (1) <i>(міласць)</i>; калі ~а prãšom, prašaũ; мець ~у teĩktis (teĩkiasi, teĩkėsi); <i>(жывёла)</i> <abbr>гл.</abbr> <kref>л</kref>áсіца</def></ar>
+<ar><k>ласка</k><def> malónė (1) <i>(міласць)</i>; калі ласка prãšom, prašaũ; мець ласку teĩktis (teĩkiasi, teĩkėsi); <i>(жывёла)</i> <abbr>гл.</abbr> <kref>л</kref>áсіца</def></ar>
 <ar><k>ласкавасць</k><def> malonýbė (1)</def></ar>
 <ar><k>ласкавы</k><def> malonìngas (1), malonùs (4), lipšnùs (4), meilìngas (1), meilùs (4)</def></ar>
 <ar><k>ласкальны</k><def> malóninis (1)</def></ar>
@@ -5633,7 +5633,7 @@ Konsultantas Jan Šupa
 <ar><k>нагляд</k><def> príežiūra (1)</def></ar>
 <ar><k>наглядны</k><def> vaizdìnis (2), vaizdùs (4)</def></ar>
 <ar><k>наглядчык</k><def> príevaizdas (1), prižiūrė́tojas (1)</def></ar>
-<ar><k>нагод|а</k><def> dingstìs (4), próga (1); з ~ы <abbr>гл.</abbr> <kref>дзеля</kref>; з гэтай ~ы tà próga</def></ar>
+<ar><k>нагода</k><def> dingstìs (4), próga (1); з нагоды <abbr>гл.</abbr> <kref>дзеля</kref>; з гэтай нагоды tà próga</def></ar>
 <ar><k>награвальнік</k><def> šildytùvas (2)</def></ar>
 <ar><k>награвацца</k><def> kaĩ|sti (~sta, ~to), šil̃ti (šỹla, šìlo)</def></ar>
 <ar><k>нагрувашчванне</k><def> sángrūda (1)</def></ar>
@@ -5797,13 +5797,13 @@ Konsultantas Jan Šupa
 <ar><k>нарада</k><def> pasitarìmas (2)</def></ar>
 <ar><k>нараджацца</k><def> gìm|ti (~sta, ~ė)</def></ar>
 <ar><k>нараджаць</k><def> gimdýti (gim̃do, gim̃dė)</def></ar>
-<ar><k>нараджэнн|е</k><def> gim̃dymas (1), gimìmas (2); дзень ~я <abbr>гл.</abbr> <kref>дзень</kref> народзінаў</def></ar>
+<ar><k>нараджэнне</k><def> gim̃dymas (1), gimìmas (2); дзень нараджэння <abbr>гл.</abbr> <kref>дзень</kref> народзінаў</def></ar>
 <ar><k>наразаць</k><def> riẽk|ti (~ia, ~ė)</def></ar>
 <ar><k>наракаць</k><def> aiman|úoti (~úoja, ~ãvo)</def></ar>
 <ar><k>нарачоны</k><def> sužadė́tinis (1), sužiedúotinis (1)</def></ar>
 <ar><k>нарог</k><def> norãgas (2)</def></ar>
 <ar><k>народ</k><def> liáudis (1), žmónės (3) <abbr>мн. л.</abbr> <i>(люд)</i>; tautà (4) <i>(нацыя)</i></def></ar>
-<ar><k>народзін|ы</k><def> gimìmas (2); дзень ~аў gimtãdienis (1)</def></ar>
+<ar><k>народзіны</k><def> gimìmas (2); дзень народзінаў gimtãdienis (1)</def></ar>
 <ar><k>народны</k><def> liáudinis (1), liáudiškas (1), liáudies <abbr>назоўн.</abbr>, <abbr>р. скл.</abbr>, tautõs <abbr>назоўн.</abbr>, <abbr>р. скл.</abbr>; tautìn is (2) <i>(нацыянальны)</i></def></ar>
 <ar><k>наросхрыст</k><def> <abbr>гл.</abbr> <kref>расхрыстаны</kref></def></ar>
 <ar><k>нарываць</k><def> <i>(утвараць нарыў)</i> tviñk|ti (~sta, ~o)</def></ar>
@@ -6864,7 +6864,7 @@ Konsultantas Jan Šupa
 <ar><k>пахвала</k><def> liaupsė̃ (4), pagyrà (3<sup>b</sup>)</def></ar>
 <ar><k>пахвіна</k><def> pažastìs (3<sup>b</sup>)</def></ar>
 <ar><k>пахкі</k><def> kvapnùs (4), kvapùs (4)</def></ar>
-<ar><k>пахмелл|е</k><def> pãgirios (3<sup>b</sup>) <abbr>мн. л.</abbr>; быць з ~я (suñkiai) pagirió|ti (~ja, ~jo)</def></ar>
+<ar><k>пахмелле</k><def> pãgirios (3<sup>b</sup>) <abbr>мн. л.</abbr>; быць з пахмелля (suñkiai) pagirió|ti (~ja, ~jo)</def></ar>
 <ar><k>пахмурны</k><def> darganótas <abbr>дзеепрым.</abbr>, debesúotas <abbr>дзеепрым.</abbr>, rū́škanas (3<sup>a</sup>), niūrùs (4)</def></ar>
 <ar><k>пахмяляцца</k><def> pagirió|ti (~ja, ~jo)</def></ar>
 <ar><k>пахнуць</k><def> kvepė́|ti (kvẽpia, ~jо)</def></ar>
@@ -6954,8 +6954,7 @@ Konsultantas Jan Šupa
 <ar><k>пераглядаць</k><def> pérsvarst|yti (~o, ~ė) <i>(напр., праект)</i>; <abbr>гл.</abbr> <abbr>тс.</abbr> <kref>праглядаць</kref></def></ar>
 <ar><k>перагной</k><def> pùvenos (1) <abbr>мн. л.</abbr></def></ar>
 <ar><k>перагортваць</k><def> apver̃|sti (~čia, àpvertė)</def></ar>
-<ar><k>перад</k><def> <abbr>прыназ.</abbr> priẽš (+ <abbr>він. скл.</abbr>); pirmà (+ <abbr>р. скл.</abbr>) <i>(спераду)</i>; tiẽs (+ <abbr>тв. скл.</abbr>) <i>(каля)</i>;</def></ar>
-<ar><k>назоўн.</k><def> príekis (1), priešakỹs (3<sup>a</sup>)</def></ar>
+<ar><k>перад</k><def> <abbr>прыназ.</abbr> priẽš (+ <abbr>він. скл.</abbr>); pirmà (+ <abbr>р. скл.</abbr>) <i>(спераду)</i>; tiẽs (+ <abbr>тв. скл.</abbr>) <i>(каля)</i>; <abbr>назоўн.</abbr> príekis (1), priešakỹs (3<sup>a</sup>)</def></ar>
 <ar><k>перадатчык</k><def> siųstùvas (2)</def></ar>
 <ar><k>перадача</k><def> pérdavimas (1) <i>(у розн. знач.)</i>; laidà (4) (тэле-, радыё-)</def></ar>
 <ar><k>перадпакой</k><def> príeangis (1), priemenė̃ (3<sup>a</sup>)</def></ar>
@@ -6970,7 +6969,7 @@ Konsultantas Jan Šupa
 <ar><k>пераемнік</k><def> <abbr>гл.</abbr> <kref>прадаўжальнік</kref></def></ar>
 <ar><k>перажытак</k><def> ãtgyvena (1)</def></ar>
 <ar><k>пераймальнік</k><def> mė́gdžiotojas (1)</def></ar>
-<ar><k>перайманн|е:</k><def> варты ~я sèktinas (3<sup>b</sup>)</def></ar>
+<ar><k>перайманне</k><def> варты пераймання sèktinas (3<sup>b</sup>)</def></ar>
 <ar><k>пераймаць</k><def> sèk|ti (señka, sẽko)</def></ar>
 <ar><k>перакананы</k><def> įsitìkinęs <abbr>дзеепрым.</abbr></def></ar>
 <ar><k>пераканаўчы</k><def> įtikìmas (2), įtìkinamas (1)</def></ar>
@@ -7020,7 +7019,7 @@ Konsultantas Jan Šupa
 <ar><k>перапраўляцца</k><def> pérsi|kelti (~kelia, ~kėlė); brì|sti (breñda, ~do) <i>(уброд)</i></def></ar>
 <ar><k>перапрацоўваць</k><def> (што-н.) pérdirb|ti (~a, ~o)</def></ar>
 <ar><k>перапрацоўка</k><def> pérdirbimas (1)</def></ar>
-<ar><k>перапраша|цца</k><def> atsi|prašýti (~prãšo, ~prãšė); ~юся! <abbr>выклічн.</abbr> atsiprašaũ!</def></ar>
+<ar><k>перапрашацца</k><def> atsi|prašýti (~prãšo, ~prãšė); перапрашаюся! <abbr>выклічн.</abbr> atsiprašaũ!</def></ar>
 <ar><k>перапросіны</k><def> atsiprãšymas (1)</def></ar>
 <ar><k>перапуд</k><def> ìšgąstis (1)</def></ar>
 <ar><k>перапынак</k><def> paliovà (3<sup>b</sup>), paliovìmas (2), pértrauka (1); pértrūkis (1) <i>(у функцыянаванні)</i></def></ar>
@@ -8377,7 +8376,7 @@ Konsultantas Jan Šupa
 <ar><k>руіны</k><def> griuvė̃siai (2) <abbr>мн. л.</abbr></def></ar>
 <ar><k>руйнавацца</k><def> griū́ti (griū̃va, griùvo), pakrìkti (pakriñka, pãkriko) <i>(разбурацца)</i>; nusigyv|énti (~ẽna, ~ẽno) <i>(бяднець)</i></def></ar>
 <ar><k>руйнаваць</k><def> siaũb|ti (~ia, ~ė), smukdýti (smùkdo, smùkdė)</def></ar>
-<ar><k>рук|а</k><def> rankà (2); kairė̃ (4) <i>(лявіца)</i>; dešinė̃ (3<sup>b</sup>) <i>(правіца)</i>; пад ~у parañkė (2)</def></ar>
+<ar><k>рука</k><def> rankà (2); kairė̃ (4) <i>(лявіца)</i>; dešinė̃ (3<sup>b</sup>) <i>(правіца)</i>; пад руку parañkė (2)</def></ar>
 <ar><k>рукавіца</k><def> pir̃tinė (1)</def></ar>
 <ar><k>рукавічка</k><def> <abbr>гл.</abbr> <kref>пальчатка</kref></def></ar>
 <ar><k>рукадзелле</k><def> <abbr>гл.</abbr> <kref>рукамяство</kref></def></ar>
@@ -9659,7 +9658,7 @@ Konsultantas Jan Šupa
 <ar><k>сярэдні</k><def> vidurìnis (2); vidutìnis (2); vidutìniškas (1) <i>(пасрэдны)</i>; <abbr>гл.</abbr> <abbr>тс.</abbr> <kref>сярэдняе</kref></def></ar>
 <ar><k>сярэднявечны</k><def> vidùramžiškas (1)</def></ar>
 <ar><k>сярэднявечча</k><def> vidùramžiai (1) <abbr>мн. л.</abbr></def></ar>
-<ar><k>сярэдн|яе</k><def> vidur̃kis (2); у ~ім vidutìniškai</def></ar>
+<ar><k>сярэдняе</k><def> vidur̃kis (2); у сярэднім vidutìniškai</def></ar>
 <ar><k>сястра</k><def> sesuõ (3<sup>b</sup>), sẽsė (2)</def></ar>
 <ar><k>сяўба</k><def> sėjà (4)</def></ar>
 <ar><k>сяўруга</k><def> erškẽtas (2)</def></ar>
@@ -9682,7 +9681,7 @@ Konsultantas Jan Šupa
 <ar><k>таемна</k><def> pasalomìs, slapčià, slapčiomìs</def></ar>
 <ar><k>таемны</k><def> slãptas (4), slaptìngas (1)</def></ar>
 <ar><k>таз</k><def> dubuõ (3<sup>b</sup>) <i>(у анатоміі)</i>; <abbr>гл.</abbr> <abbr>тс.</abbr> <kref>мядніца</kref></def></ar>
-<ar><k>тазасцегнав|ы:</k><def> ~ая костка klubãkaulis (1)</def></ar>
+<ar><k>тазасцегнавы</k><def> тазасцегнавая костка klubãkaulis (1)</def></ar>
 <ar><k>тайм</k><def> <i>(у гульні)</i> kėlinỹs (3<sup>a</sup>)</def></ar>
 <ar><k>таймаваць</k><def> tvárd|yti (~o, ~ė)</def></ar>
 <ar><k>таймер</k><def> laĩkmatis (1)</def></ar>
@@ -10352,7 +10351,7 @@ Konsultantas Jan Šupa
 <ar><k>ускладняць</k><def> suñkin|ti (~а, ~о), supáinio|ti (~ja, ~jo)</def></ar>
 <ar><k>усклікваць</k><def> šū́k|auti (~auja, ~avo)</def></ar>
 <ar><k>усклікнуць</k><def> šū́ktelė|ti (~ja, ~jo)</def></ar>
-<ar><k>ускосн|ы</k><def> netiesióginis (1); ~ая мова <i>(у граматыцы)</i> netiesióginė kalbà (4)</def></ar>
+<ar><k>ускосны</k><def> netiesióginis (1); ускосная мова <i>(у граматыцы)</i> netiesióginė kalbà (4)</def></ar>
 <ar><k>ускраек</k><def> krãštas (4), pašalė̃ (3<sup>b</sup>)</def></ar>
 <ar><k>ускраіна</k><def> pakraštỹs (3<sup>b</sup>)</def></ar>
 <ar><k>ускрыкнуць</k><def> šū́ktelė|ti (~ja, ~jo)</def></ar>

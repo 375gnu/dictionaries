@@ -1,8 +1,7 @@
 StarDict's dict ifo file
-version=2.4.2
-wordcount=3275
-idxfilesize=56040
+version=3.0.0
 bookname=Англа-беларускі слоўнік навуковых тэрмінаў
-date=2008.06.13
-sametypesequence=x
+wordcount=3281
+idxfilesize=55965
+sametypesequence=h
 description=Англа-беларускі слоўнік навуковых тэрмінаў па астраноміі, матэматыцы, фізіцы і хіміі, укладзены Міколам Буселам
